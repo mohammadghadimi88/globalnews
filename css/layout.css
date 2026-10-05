@@ -87,6 +87,11 @@
 .nav-link.active {
   color: var(--accent);
   border-bottom-color: var(--accent);
+  background-color: var(--accent-subtle);
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 /* Zone 3: Actions (Search, Theme) */
