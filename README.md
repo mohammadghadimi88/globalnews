@@ -295,3 +295,42 @@ GlobalNews is designed from first principles to respect original journalism and 
 ## 11. License
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
+
+---
+
+## 12. International Production Readiness
+
+GlobalNews is designed as a source-attributed international discovery layer rather than a mirror of publisher articles.
+
+### Current production foundations
+
+- Automated RSS/Atom ingestion through GitHub Actions.
+- 15-minute scheduled collection with manual workflow support.
+- 48-hour freshness window and 500-story active dataset cap.
+- Duplicate detection by URL, normalized headline and source-local similarity.
+- Resilient merging with the previous dataset so partial feed outages do not erase healthy stories.
+- Geographic classification covering Europe, Asia, Middle East, Africa, Americas, Latin America and Oceania.
+- Publisher, country, region and language metadata.
+- Precision search across title, summary, source, geography, category, tags and URL.
+- Source registry transparency page.
+- About, editorial policy, privacy, terms and contact pages.
+- Crawler directives, canonical metadata, Open Graph metadata, WebSite structured data and XML sitemap.
+- Ads architecture is prepared but advertising is disabled by default.
+
+### Globalization rule
+
+GlobalNews should prefer **publisher-provided RSS/Atom feeds, licensed APIs or explicitly permitted syndication**. It should not scrape full articles or bypass paywalls. The original publisher remains the destination for the underlying reporting.
+
+### Before public monetization
+
+Advertising should remain disabled until:
+
+1. The site has substantial, useful and original value beyond a thin list of third-party headlines.
+2. A real contact identity and publisher information are available.
+3. Privacy/terms disclosures are finalized for the countries being served.
+4. A consent-management solution is configured where required.
+5. The advertising provider approves the site.
+6. Any required publisher verification file such as `ads.txt` is added with the real publisher ID.
+
+The domain can be added later without redesigning the application architecture.
