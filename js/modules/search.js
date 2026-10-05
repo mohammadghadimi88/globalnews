@@ -6,7 +6,6 @@
 
 import { getSearchIndex, getSources, normalizeSearchText } from "../data.js";
 import { CONFIG } from "../config.js";
-import { router } from "../router.js";
 import { renderStoryItem } from "./latestNews.js";
 
 /**
@@ -56,7 +55,9 @@ export function parseSearchQuery(queryStr) {
 /**
  * Date range filter evaluation
  */
-function matchesSearchTerm(item, term) { if (item.searchableNorm?.includes(term)) return true; if (term.length >= 4 && item.searchableNorm?.split(/\s+/).some(word => word.startsWith(term))) return true; return false; }\n\nfunction matchesDateRange(pubTimestamp, dateRange) {
+function matchesSearchTerm(item, term) { if (item.searchableNorm?.includes(term)) return true; if (term.length >= 4 && item.searchableNorm?.split(/\s+/).some(word => word.startsWith(term))) return true; return false; }
+
+function matchesDateRange(pubTimestamp, dateRange) {
   if (!dateRange || dateRange === "all") return true;
   const now = Date.now();
   const diffHours = (now - pubTimestamp) / (1000 * 60 * 60);
