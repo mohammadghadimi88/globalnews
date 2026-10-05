@@ -13,7 +13,7 @@ export const CONFIG = {
   enableSearch: true,
   enableCategories: true,
   enableDarkMode: true,
-  enableAds: false,
+  enableAds: false, // Keep disabled until publisher approval and consent requirements are configured.
   enableAnalytics: false,
 
   // Polling / auto-refresh in milliseconds (5 minutes)
@@ -38,7 +38,7 @@ export const CONFIG = {
     {
       id: "world",
       name: "World",
-      subcategories: ["europe", "asia", "middle east", "africa", "americas", "oceania"]
+      subcategories: ["europe", "asia", "middle east", "africa", "americas", "latin america", "oceania"]
     },
     {
       id: "politics",
