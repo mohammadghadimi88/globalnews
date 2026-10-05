@@ -430,7 +430,8 @@ export function renderSearchView(container, initialParams = {}) {
     if (sourceSelect.value) params.source = sourceSelect.value;
     if (regionSelect.value) params.region = regionSelect.value;
     const query = new URLSearchParams(params).toString();
-    const targetHash = query ? `#/search?${query}` : "#/search";\n    window.history.replaceState(null, "", targetHash);
+    const targetHash = query ? `#/search?${query}` : "#/search";
+    window.history.replaceState(null, "", targetHash);
   }
 
   // Event Listeners
