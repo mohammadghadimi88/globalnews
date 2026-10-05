@@ -1,0 +1,8 @@
+/* TEAM */
+Product & Editorial Engineering: GlobalNews
+Website: https://mohammadghadimi88.github.io/globalnews/
+
+/* SITE */
+Standards: semantic HTML, RSS/Atom ingestion, source attribution
+Technology: Vanilla JavaScript, CSS, Python, GitHub Actions
+Privacy: no analytics or tracking by default
