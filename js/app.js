@@ -11,7 +11,7 @@ import { initHeader, updateActiveNav } from "./modules/header.js";
 import { hideSubcategoryRibbon } from "./modules/navigation.js";
 import { renderTopStories } from "./modules/topStories.js";
 import { renderLatestNews } from "./modules/latestNews.js";
-import { renderSearchView } from "./modules/search.js";
+import { renderSearchView } from "./modules/search.js?v=20261005-search2";
 import { renderCategoryView } from "./modules/categories.js";
 import { renderSourcesCard } from "./modules/filters.js";
 import { initAds } from "./modules/ads.js";
