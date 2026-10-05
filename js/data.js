@@ -16,30 +16,17 @@ export function normalizeSearchText(value){
     .trim();
 }
 
+export function normalizeSearchText(value){
+  return String(value||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\s]/g," ").replace(/\s+/g," ").trim();
+}
 function buildSearchIndex(stories){
   return stories.map((story,index)=>{
-    const titleNorm=normalizeSearchText(story.title);
-    const summaryNorm=normalizeSearchText(story.summary);
-    const sourceNorm=normalizeSearchText(story.source);
-    const categoryNorm=normalizeSearchText(story.category);
-    const subcategoryNorm=normalizeSearchText(story.subcategory);
-    const regionNorm=normalizeSearchText(story.region);
-    const countryNorm=normalizeSearchText(story.country);
-    const authorNorm=normalizeSearchText(story.author);
-    const sourceRegionNorm=normalizeSearchText(story.sourceRegion);
-    const urlNorm=normalizeSearchText(story.url);
-    const tagsNorm=(story.tags||[]).map(t=>normalizeSearchText(t));
-    const titleTokens=new Set(titleNorm.split(/\s+/).filter(Boolean));
-    const summaryTokens=new Set(summaryNorm.split(/\s+/).filter(Boolean));
-    const allTokens=new Set([...titleTokens,...summaryTokens,...tagsNorm]);
-    const searchableNorm=normalizeSearchText([
-      story.title,story.summary,story.author,story.source,story.sourceRegion,
-      story.country,story.category,story.subcategory,(story.tags||[]).join(" "),story.url
-    ].join(" "));
-    return {index,story,titleNorm,summaryNorm,sourceNorm,categoryNorm,subcategoryNorm,regionNorm,countryNorm,authorNorm,sourceRegionNorm,urlNorm,tagsNorm,titleTokens,summaryTokens,allTokens,searchableNorm,pubTimestamp:new Date(story.publishedAt||0).getTime()};
+    const titleNorm=normalizeSearchText(story.title),summaryNorm=normalizeSearchText(story.summary),sourceNorm=normalizeSearchText(story.source),categoryNorm=normalizeSearchText(story.category),subcategoryNorm=normalizeSearchText(story.subcategory),regionNorm=normalizeSearchText(story.region),countryNorm=normalizeSearchText(story.country),authorNorm=normalizeSearchText(story.author),sourceRegionNorm=normalizeSearchText(story.sourceRegion),tagsNorm=(story.tags||[]).map(t=>normalizeSearchText(t));
+    const titleTokens=new Set(titleNorm.split(/\s+/).filter(Boolean)),summaryTokens=new Set(summaryNorm.split(/\s+/).filter(Boolean)),allTokens=new Set([...titleTokens,...summaryTokens,...tagsNorm]);
+    const searchableNorm=normalizeSearchText([story.title,story.summary,story.author,story.source,story.sourceRegion,story.country,story.category,story.subcategory,(story.tags||[]).join(" "),story.url].join(" "));
+    return {index,story,titleNorm,summaryNorm,sourceNorm,categoryNorm,subcategoryNorm,regionNorm,countryNorm,authorNorm,sourceRegionNorm,tagsNorm,titleTokens,summaryTokens,allTokens,searchableNorm,pubTimestamp:new Date(story.publishedAt||0).getTime()};
   });
 }
-
 export async function loadNewsData(){try{const [newsRes,sourcesRes]=await Promise.all([fetch(new URL("../data/news.json", import.meta.url),{cache:"no-cache"}),fetch(new URL("../data/sources.json", import.meta.url),{cache:"no-cache"})]);if(!newsRes.ok)throw new Error(`Failed to load news data (HTTP ${newsRes.status})`);const newsData=await newsRes.json();_stories=Array.isArray(newsData)?newsData:(newsData.stories||[]);if(sourcesRes.ok)_sources=await sourcesRes.json();_searchIndex=buildSearchIndex(_stories);_isLoaded=true;return {success:true,count:_stories.length,stories:_stories,sources:_sources};}catch(error){console.error("GlobalNews data loading error:",error);return {success:false,error:error.message||"Failed to load news dataset.",stories:[],sources:[]};}}
 
 export function getAllStories(){return _stories;} export function getSources(){return _sources;} export function getSearchIndex(){return _searchIndex;} export function isDataLoaded(){return _isLoaded;} export function getTopStories(limit=6){return [..._stories].sort((a,b)=>(b.rankScore||0)-(a.rankScore||0)).slice(0,limit);}
