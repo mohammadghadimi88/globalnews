@@ -84,6 +84,7 @@ def parse_rss_items(channel: ET.Element, source_meta: Dict[str, Any]) -> List[Di
                 "sourceCountry": source_meta.get("country", ""),
                 "defaultCategory": source_meta.get("category", "world"),
                 "priority": source_meta.get("priority", 50),
+                "language": source_meta.get("language", "en"),
             })
     return items
 
