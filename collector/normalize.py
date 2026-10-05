@@ -118,5 +118,5 @@ def normalize_story(item: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "sourceCountry": item.get("sourceCountry", ""),
         "defaultCategory": item.get("defaultCategory", "world"),
         "priority": item.get("priority", 50),
-        "language": "en",
+        "language": item.get("language", "en"),
     }
