@@ -4,7 +4,7 @@
  * weighted relevance scoring, multi-facet filtering, and URL state sync.
  */
 
-import { getSearchIndex, getSources } from "../data.js";
+import { getSearchIndex, getSources, normalizeSearchText } from "../data.js";
 import { CONFIG } from "../config.js";
 import { router } from "../router.js";
 import { renderStoryItem } from "./latestNews.js";
@@ -31,7 +31,7 @@ export function parseSearchQuery(queryStr) {
   const structuredRegex = /\b(source|category|subcategory|region|country):"([^"]+)"|\b(source|category|subcategory|region|country):([^\s]+)/gi;
   text = text.replace(structuredRegex, (match, key1, val1, key2, val2) => {
     const key = (key1 || key2).toLowerCase();
-    const val = (val1 || val2).toLowerCase();
+    const val = normalizeSearchText(val1 || val2);
     result.structuredFilters[key] = val;
     return " ";
   });
@@ -39,7 +39,7 @@ export function parseSearchQuery(queryStr) {
   // 2. Extract quoted phrases: "artificial intelligence"
   const phraseRegex = /"([^"]+)"/g;
   text = text.replace(phraseRegex, (match, phrase) => {
-    const cleanPhrase = phrase.trim().toLowerCase();
+    const cleanPhrase = normalizeSearchText(phrase);
     if (cleanPhrase) {
       result.exactPhrases.push(cleanPhrase);
     }
@@ -47,7 +47,7 @@ export function parseSearchQuery(queryStr) {
   });
 
   // 3. Extract remaining individual terms
-  const terms = text.toLowerCase().replace(/[^\w\s]/g, " ").split(/\s+/).filter(t => t.length > 1);
+  const terms = normalizeSearchText(text).split(/\s+/).filter(t => t.length > 1);
   result.terms = terms;
 
   return result;
@@ -56,7 +56,7 @@ export function parseSearchQuery(queryStr) {
 /**
  * Date range filter evaluation
  */
-function matchesDateRange(pubTimestamp, dateRange) {
+function matchesSearchTerm(item, term) { if (item.searchableNorm?.includes(term)) return true; if (term.length >= 4 && item.searchableNorm?.split(/\s+/).some(word => word.startsWith(term))) return true; return false; }\n\nfunction matchesDateRange(pubTimestamp, dateRange) {
   if (!dateRange || dateRange === "all") return true;
   const now = Date.now();
   const diffHours = (now - pubTimestamp) / (1000 * 60 * 60);
@@ -147,50 +147,19 @@ export function executeSearch(queryObj, filters = {}) {
     for (const term of terms) {
       let termMatched = false;
 
-      // Exact title word match
-      if (item.titleTokens.has(term)) {
-        score += weights.titleWordMatch;
-        termMatched = true;
-      } else if (item.titleNorm.includes(term)) {
-        score += weights.titleWordMatch * 0.7;
-        termMatched = true;
-      }
-
-      // Exact tag match
-      if (item.tagsNorm.some(t => t.includes(term))) {
-        score += weights.exactTag;
-        termMatched = true;
-      }
-
-      // Summary word match
-      if (item.summaryTokens.has(term)) {
-        score += weights.summaryMatch;
-        termMatched = true;
-      }
-
-      // Category match
-      if (item.categoryNorm.includes(term)) {
-        score += weights.categoryMatch;
-        termMatched = true;
-      }
-
-      // Subcategory match
-      if (item.subcategoryNorm.includes(term)) {
-        score += weights.subcategoryMatch;
-        termMatched = true;
-      }
-
-      // Source match
-      if (item.sourceNorm.includes(term)) {
-        score += weights.sourceMatch;
-        termMatched = true;
-      }
-
-      // Region match
-      if (item.regionNorm.includes(term)) {
-        score += weights.regionMatch;
-        termMatched = true;
-      }
+      if (item.titleTokens.has(term)) { score += weights.titleWordMatch; termMatched = true; }
+      else if (item.titleNorm.includes(term)) { score += weights.titleWordMatch * 0.7; termMatched = true; }
+      if (item.tagsNorm.some(t => t === term || t.includes(term))) { score += weights.exactTag; termMatched = true; }
+      if (item.summaryTokens.has(term)) { score += weights.summaryMatch; termMatched = true; }
+      else if (item.summaryNorm.includes(term)) { score += weights.summaryMatch * 0.7; termMatched = true; }
+      if (item.categoryNorm.includes(term)) { score += weights.categoryMatch; termMatched = true; }
+      if (item.subcategoryNorm.includes(term)) { score += weights.subcategoryMatch; termMatched = true; }
+      if (item.sourceNorm.includes(term)) { score += weights.sourceMatch; termMatched = true; }
+      if (item.regionNorm.includes(term)) { score += weights.regionMatch; termMatched = true; }
+      if (item.countryNorm.includes(term)) { score += weights.regionMatch * 1.5; termMatched = true; }
+      if (item.authorNorm?.includes(term)) { score += weights.sourceMatch; termMatched = true; }
+      if (item.sourceRegionNorm?.includes(term)) { score += weights.regionMatch; termMatched = true; }
+      if (!termMatched && matchesSearchTerm(item, term)) { score += weights.summaryMatch * 0.4; termMatched = true; }
 
       if (termMatched) {
         matchedTermsCount++;
@@ -459,7 +428,7 @@ export function renderSearchView(container, initialParams = {}) {
     if (dateSelect.value !== "all") params.date = dateSelect.value;
     if (sourceSelect.value) params.source = sourceSelect.value;
     if (regionSelect.value) params.region = regionSelect.value;
-    router.navigate("/search", params, true);
+    const query = new URLSearchParams(params).toString();\n    const targetHash = query ? `#/search?${query}` : "#/search";\n    window.history.replaceState(null, "", targetHash);
   }
 
   // Event Listeners
