@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://globalnews.example.com/sitemap.xml
+Sitemap: https://mohammadghadimi88.github.io/globalnews/sitemap.xml
