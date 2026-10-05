@@ -148,10 +148,27 @@ def run_collector(retention_hours: int = DEFAULT_RETENTION_HOURS, max_stories: i
         item["rankScore"] = compute_ranking_score(item, now_utc)
         final_stories.append(item)
 
-    # 4. Filter by retention
+    # 4. Merge with the previous dataset so one broken publisher does not
+    # wipe otherwise healthy stories from the live terminal.
+    existing_stories = []
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                previous = json.load(f)
+            if isinstance(previous, list):
+                existing_stories = previous
+        except Exception as e:
+            print(f"[WARN] Could not read previous news.json: {e}")
+
+    if existing_stories:
+        merged, merge_duplicates = deduplicate_stories(final_stories + existing_stories)
+        final_stories = merged
+        print(f"Previous dataset merged; duplicates removed during merge: {merge_duplicates}")
+
+    # 5. Filter by retention
     final_stories = filter_by_retention(final_stories, retention_hours)
 
-    # 5. Sort chronologically (newest first)
+    # 6. Sort chronologically (newest first)
     final_stories.sort(key=lambda s: s.get("publishedAt", ""), reverse=True)
 
     # Cap to max_stories
@@ -160,10 +177,10 @@ def run_collector(retention_hours: int = DEFAULT_RETENTION_HOURS, max_stories: i
 
     print(f"Stories within retention window: {len(final_stories)}")
 
-    # If feeds were blocked or network was unreachable (e.g. sandboxed runner),
-    # preserve existing news.json or seed with verified articles
-    if len(final_stories) == 0 and os.path.exists(OUTPUT_FILE):
-        print("[INFO] No new stories fetched. Preserving existing news.json.")
+    # If every feed failed, preserve the last good dataset instead of publishing
+    # an empty or severely degraded feed.
+    if len(final_stories) == 0 and existing_stories:
+        print("[INFO] No usable stories fetched. Preserving existing news.json.")
         return
 
     # Write output
