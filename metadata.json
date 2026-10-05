@@ -1,0 +1,6 @@
+{
+  "name": "GlobalNews — Minimalist Global News Aggregator",
+  "description": "A production-ready, minimalist, text-first global news aggregator delivering real-time discovery without noise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

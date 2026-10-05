@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GlobalNews — Minimalist Global News Aggregator</title>
+    <meta name="description" content="A production-ready, minimalist, text-first global news aggregator delivering real-time discovery without noise." />
+    
+    <!-- OpenGraph Metadata -->
+    <meta property="og:title" content="GlobalNews — Minimalist Global News Aggregator" />
+    <meta property="og:description" content="A production-ready, minimalist, text-first global news aggregator delivering real-time discovery without noise." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="GlobalNews" />
+    
+    <!-- Twitter Metadata -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="GlobalNews — Minimalist Global News Aggregator" />
+    <meta name="twitter:description" content="A production-ready, minimalist, text-first global news aggregator delivering real-time discovery without noise." />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://globalnews.example.com/" />
+
+    <!-- Structured Data (Schema.org NewsMediaOrganization / WebSite) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "GlobalNews",
+        "headline": "Global news, without the noise",
+        "description": "Minimalist text-centric global news aggregator linking directly to primary news agencies and publications.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "#/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
+    <!-- CSS Architecture -->
+    <link rel="stylesheet" href="/css/variables.css" />
+    <link rel="stylesheet" href="/css/base.css" />
+    <link rel="stylesheet" href="/css/layout.css" />
+    <link rel="stylesheet" href="/css/components.css" />
+    <link rel="stylesheet" href="/css/search.css" />
+    <link rel="stylesheet" href="/css/responsive.css" />
+    <link rel="stylesheet" href="/css/ads.css" />
+  </head>
+  <body>
+    <!-- Top Bar Navigation (Top Bar Contract: 3-Zone) -->
+    <header id="site-header" class="site-header" role="banner"></header>
+
+    <!-- Subcategory Ribbon Bar (Dynamically populated during category browsing) -->
+    <div id="subcategory-ribbon-bar" class="category-ribbon" style="display: none;" role="navigation" aria-label="Topic Filter"></div>
+
+    <!-- Main View Dynamic Container -->
+    <div id="main-view-container" class="main-content" role="main"></div>
+
+    <!-- Site Footer -->
+    <footer id="site-footer" class="site-footer" role="contentinfo"></footer>
+
+    <!-- Modular Vanilla ES Application -->
+    <script type="module" src="/js/app.js"></script>
+  </body>
+</html>

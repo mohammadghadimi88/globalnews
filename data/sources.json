@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "reuters",
+    "name": "Reuters",
+    "website": "https://www.reuters.com",
+    "country": "United Kingdom",
+    "region": "Global",
+    "language": "en",
+    "priority": 100,
+    "enabled": false,
+    "category": "world",
+    "feeds": [
+      "https://www.reutersagency.com/feed/?best-topics=world&post_type=best",
+      "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best"
+    ]
+  },
+  {
+    "id": "ap-news",
+    "name": "Associated Press",
+    "website": "https://apnews.com",
+    "country": "United States",
+    "region": "Global",
+    "language": "en",
+    "priority": 98,
+    "enabled": false,
+    "category": "world",
+    "feeds": [
+      "https://apnews.com/hub/world-news.rss",
+      "https://apnews.com/hub/ap-top-news.rss"
+    ]
+  },
+  {
+    "id": "bbc-news",
+    "name": "BBC News",
+    "website": "https://www.bbc.com/news",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 96,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "https://feeds.bbci.co.uk/news/technology/rss.xml"
+    ]
+  },
+  {
+    "id": "the-guardian",
+    "name": "The Guardian",
+    "website": "https://www.theguardian.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 94,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.theguardian.com/world/rss",
+      "https://www.theguardian.com/business/rss",
+      "https://www.theguardian.com/technology/rss"
+    ]
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "website": "https://www.npr.org",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 92,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://feeds.npr.org/1001/rss.xml",
+      "https://feeds.npr.org/1004/rss.xml",
+      "https://feeds.npr.org/1007/rss.xml"
+    ]
+  },
+  {
+    "id": "al-jazeera",
+    "name": "Al Jazeera English",
+    "website": "https://www.aljazeera.com",
+    "country": "Qatar",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 92,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.aljazeera.com/xml/rss/all.xml"
+    ]
+  },
+  {
+    "id": "deutsche-welle",
+    "name": "Deutsche Welle",
+    "website": "https://www.dw.com",
+    "country": "Germany",
+    "region": "Europe",
+    "language": "en",
+    "priority": 90,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://rss.dw.com/rdf/rss-en-all",
+      "https://rss.dw.com/rdf/rss-en-world",
+      "https://rss.dw.com/rdf/rss-en-bus"
+    ]
+  },
+  {
+    "id": "france24",
+    "name": "France 24",
+    "website": "https://www.france24.com/en",
+    "country": "France",
+    "region": "Europe",
+    "language": "en",
+    "priority": 89,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.france24.com/en/rss",
+      "https://www.france24.com/en/world/rss",
+      "https://www.france24.com/en/business/rss"
+    ]
+  },
+  {
+    "id": "politico",
+    "name": "Politico",
+    "website": "https://www.politico.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 90,
+    "enabled": true,
+    "category": "politics",
+    "feeds": [
+      "https://rss.politico.com/politics-news.xml",
+      "https://rss.politico.com/congress.xml"
+    ]
+  },
+  {
+    "id": "the-hill",
+    "name": "The Hill",
+    "website": "https://thehill.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 86,
+    "enabled": true,
+    "category": "politics",
+    "feeds": [
+      "https://thehill.com/feed/"
+    ]
+  },
+  {
+    "id": "cnbc",
+    "name": "CNBC",
+    "website": "https://www.cnbc.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 91,
+    "enabled": false,
+    "category": "business",
+    "feeds": [
+      "https://search.cnbc.com/rs/search/combined/feed/rss.xml"
+    ]
+  },
+  {
+    "id": "financial-times",
+    "name": "Financial Times",
+    "website": "https://www.ft.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 95,
+    "enabled": true,
+    "category": "business",
+    "feeds": [
+      "https://www.ft.com/rss/home/uk"
+    ]
+  },
+  {
+    "id": "economist",
+    "name": "The Economist",
+    "website": "https://www.economist.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 93,
+    "enabled": true,
+    "category": "business",
+    "feeds": [
+      "https://www.economist.com/finance-and-economics/rss.xml",
+      "https://www.economist.com/international/rss.xml"
+    ]
+  },
+  {
+    "id": "ars-technica",
+    "name": "Ars Technica",
+    "website": "https://arstechnica.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 92,
+    "enabled": true,
+    "category": "technology",
+    "feeds": [
+      "https://feeds.arstechnica.com/arstechnica/index",
+      "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    ]
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "website": "https://www.theverge.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 90,
+    "enabled": true,
+    "category": "technology",
+    "feeds": [
+      "https://www.theverge.com/rss/index.xml"
+    ]
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "website": "https://www.wired.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 89,
+    "enabled": true,
+    "category": "technology",
+    "feeds": [
+      "https://www.wired.com/feed/rss"
+    ]
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Technology Review",
+    "website": "https://www.technologyreview.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 93,
+    "enabled": true,
+    "category": "technology",
+    "feeds": [
+      "https://www.technologyreview.com/feed/"
+    ]
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "website": "https://www.nature.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 96,
+    "enabled": true,
+    "category": "science",
+    "feeds": [
+      "https://www.nature.com/nature.rss"
+    ]
+  },
+  {
+    "id": "space-com",
+    "name": "Space.com",
+    "website": "https://www.space.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 88,
+    "enabled": true,
+    "category": "science",
+    "feeds": [
+      "https://www.space.com/feeds/all"
+    ]
+  },
+  {
+    "id": "new-scientist",
+    "name": "New Scientist",
+    "website": "https://www.newscientist.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 89,
+    "enabled": true,
+    "category": "science",
+    "feeds": [
+      "https://www.newscientist.com/section/news/feed/"
+    ]
+  },
+  {
+    "id": "who-news",
+    "name": "World Health Organization",
+    "website": "https://www.who.int",
+    "country": "Switzerland",
+    "region": "Europe",
+    "language": "en",
+    "priority": 95,
+    "enabled": true,
+    "category": "health",
+    "feeds": [
+      "https://www.who.int/rss-feeds/news-english.xml"
+    ]
+  },
+  {
+    "id": "stat-news",
+    "name": "STAT News",
+    "website": "https://www.statnews.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 90,
+    "enabled": true,
+    "category": "health",
+    "feeds": [
+      "https://www.statnews.com/feed/"
+    ]
+  },
+  {
+    "id": "nikkei-asia",
+    "name": "Nikkei Asia",
+    "website": "https://asia.nikkei.com",
+    "country": "Japan",
+    "region": "Asia",
+    "language": "en",
+    "priority": 92,
+    "enabled": true,
+    "category": "business",
+    "feeds": [
+      "https://asia.nikkei.com/rss/feed/nar"
+    ]
+  },
+  {
+    "id": "scmp",
+    "name": "South China Morning Post",
+    "website": "https://www.scmp.com",
+    "country": "Hong Kong",
+    "region": "Asia",
+    "language": "en",
+    "priority": 89,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.scmp.com/rss/91/feed"
+    ]
+  },
+  {
+    "id": "japan-times",
+    "name": "The Japan Times",
+    "website": "https://www.japantimes.co.jp",
+    "country": "Japan",
+    "region": "Asia",
+    "language": "en",
+    "priority": 88,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.japantimes.co.jp/feed/topstories/"
+    ]
+  },
+  {
+    "id": "times-of-india",
+    "name": "The Times of India",
+    "website": "https://timesofindia.indiatimes.com",
+    "country": "India",
+    "region": "Asia",
+    "language": "en",
+    "priority": 85,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+    ]
+  },
+  {
+    "id": "the-hindu",
+    "name": "The Hindu",
+    "website": "https://www.thehindu.com",
+    "country": "India",
+    "region": "Asia",
+    "language": "en",
+    "priority": 87,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.thehindu.com/news/national/feeder/default.rss"
+    ]
+  },
+  {
+    "id": "channel-news-asia",
+    "name": "CNA",
+    "website": "https://www.channelnewsasia.com",
+    "country": "Singapore",
+    "region": "Asia",
+    "language": "en",
+    "priority": 88,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"
+    ]
+  },
+  {
+    "id": "africanews",
+    "name": "Africanews",
+    "website": "https://www.africanews.com",
+    "country": "Congo",
+    "region": "Africa",
+    "language": "en",
+    "priority": 86,
+    "enabled": true,
+    "category": "world",
+    "feeds": [
+      "https://www.africanews.com/feed/rss"
+    ]
+  },
+  {
+    "id": "allafrica",
+    "name": "AllAfrica",
+    "website": "https://allafrica.com",
+    "country": "Pan-Africa",
+    "region": "Africa",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": [
+      "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf"
+    ]
+  },
+  {
+    "id": "daily-maverick",
+    "name": "Daily Maverick",
+    "website": "https://www.dailymaverick.co.za",
+    "country": "South Africa",
+    "region": "Africa",
+    "language": "en",
+    "priority": 87,
+    "enabled": false,
+    "category": "world",
+    "feeds": [
+      "https://www.dailymaverick.co.za/rss"
+    ]
+  },
+  {
+    "id": "middle-east-eye",
+    "name": "Middle East Eye",
+    "website": "https://www.middleeasteye.net",
+    "country": "United Kingdom",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "world",
+    "feeds": [
+      "https://www.middleeasteye.net/rss"
+    ]
+  },
+  {
+    "id": "inside-climate-news",
+    "name": "Inside Climate News",
+    "website": "https://insideclimatenews.org",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 90,
+    "enabled": true,
+    "category": "environment",
+    "feeds": [
+      "https://insideclimatenews.org/feed/"
+    ]
+  },
+  {
+    "id": "the-athletic",
+    "name": "The Athletic",
+    "website": "https://theathletic.com",
+    "country": "United States",
+    "region": "Global",
+    "language": "en",
+    "priority": 89,
+    "enabled": false,
+    "category": "sports",
+    "feeds": [
+      "https://theathletic.com/rss/all"
+    ]
+  },
+  {
+    "id": "bbc-sport",
+    "name": "BBC Sport",
+    "website": "https://www.bbc.com/sport",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 91,
+    "enabled": true,
+    "category": "sports",
+    "feeds": [
+      "https://feeds.bbci.co.uk/sport/rss.xml"
+    ]
+  },
+  {
+    "id": "rolling-stone",
+    "name": "Rolling Stone Culture",
+    "website": "https://www.rollingstone.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 86,
+    "enabled": true,
+    "category": "culture",
+    "feeds": [
+      "https://www.rollingstone.com/culture/feed/"
+    ]
+  },
+  {
+    "id": "artforum",
+    "name": "Artforum",
+    "website": "https://www.artforum.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 85,
+    "enabled": true,
+    "category": "culture",
+    "feeds": [
+      "https://www.artforum.com/feed/"
+    ]
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "website": "https://www.bloomberg.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 97,
+    "enabled": false,
+    "category": "business",
+    "feeds": []
+  },
+  {
+    "id": "wsj",
+    "name": "The Wall Street Journal",
+    "website": "https://www.wsj.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 96,
+    "enabled": false,
+    "category": "business",
+    "feeds": []
+  },
+  {
+    "id": "nytimes",
+    "name": "The New York Times",
+    "website": "https://www.nytimes.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 97,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "washington-post",
+    "name": "The Washington Post",
+    "website": "https://www.washingtonpost.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 95,
+    "enabled": false,
+    "category": "politics",
+    "feeds": []
+  },
+  {
+    "id": "afp",
+    "name": "Agence France-Presse",
+    "website": "https://www.afp.com",
+    "country": "France",
+    "region": "Europe",
+    "language": "en",
+    "priority": 97,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "cnn",
+    "name": "CNN",
+    "website": "https://www.cnn.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 90,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "sky-news",
+    "name": "Sky News",
+    "website": "https://news.sky.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 89,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "independent",
+    "name": "The Independent",
+    "website": "https://www.independent.co.uk",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 87,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "telegraph",
+    "name": "The Telegraph",
+    "website": "https://www.telegraph.co.uk",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "the-times",
+    "name": "The Times",
+    "website": "https://www.thetimes.com",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "website": "https://www.euronews.com",
+    "country": "France",
+    "region": "Europe",
+    "language": "en",
+    "priority": 87,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "le-monde",
+    "name": "Le Monde",
+    "website": "https://www.lemonde.fr/en",
+    "country": "France",
+    "region": "Europe",
+    "language": "en",
+    "priority": 90,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "spiegel",
+    "name": "Der Spiegel International",
+    "website": "https://www.spiegel.de/international",
+    "country": "Germany",
+    "region": "Europe",
+    "language": "en",
+    "priority": 89,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "el-pais",
+    "name": "El País English",
+    "website": "https://english.elpais.com",
+    "country": "Spain",
+    "region": "Europe",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "corriere",
+    "name": "Corriere della Sera",
+    "website": "https://www.corriere.it",
+    "country": "Italy",
+    "region": "Europe",
+    "language": "it",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "ansa",
+    "name": "ANSA English",
+    "website": "https://www.ansa.it/english",
+    "country": "Italy",
+    "region": "Europe",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "politico-europe",
+    "name": "Politico Europe",
+    "website": "https://www.politico.eu",
+    "country": "Belgium",
+    "region": "Europe",
+    "language": "en",
+    "priority": 90,
+    "enabled": false,
+    "category": "politics",
+    "feeds": []
+  },
+  {
+    "id": "euobserver",
+    "name": "EUobserver",
+    "website": "https://euobserver.com",
+    "country": "Belgium",
+    "region": "Europe",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "politics",
+    "feeds": []
+  },
+  {
+    "id": "al-arabiya",
+    "name": "Al Arabiya English",
+    "website": "https://english.alarabiya.net",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "the-national",
+    "name": "The National",
+    "website": "https://www.thenationalnews.com",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "arab-news",
+    "name": "Arab News",
+    "website": "https://www.arabnews.com",
+    "country": "Saudi Arabia",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "jerusalem-post",
+    "name": "The Jerusalem Post",
+    "website": "https://www.jpost.com",
+    "country": "Israel",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "times-of-israel",
+    "name": "The Times of Israel",
+    "website": "https://www.timesofisrael.com",
+    "country": "Israel",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "haaretz",
+    "name": "Haaretz",
+    "website": "https://www.haaretz.com",
+    "country": "Israel",
+    "region": "Middle East",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "kyodo-news",
+    "name": "Kyodo News",
+    "website": "https://english.kyodonews.net",
+    "country": "Japan",
+    "region": "Asia",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "nhk-world",
+    "name": "NHK World",
+    "website": "https://www3.nhk.or.jp/nhkworld/en/news",
+    "country": "Japan",
+    "region": "Asia",
+    "language": "en",
+    "priority": 89,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "yonhap",
+    "name": "Yonhap News Agency",
+    "website": "https://en.yna.co.kr",
+    "country": "South Korea",
+    "region": "Asia",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "korea-herald",
+    "name": "The Korea Herald",
+    "website": "https://www.koreaherald.com",
+    "country": "South Korea",
+    "region": "Asia",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "bangkok-post",
+    "name": "Bangkok Post",
+    "website": "https://www.bangkokpost.com",
+    "country": "Thailand",
+    "region": "Asia",
+    "language": "en",
+    "priority": 83,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "jakarta-post",
+    "name": "The Jakarta Post",
+    "website": "https://www.thejakartapost.com",
+    "country": "Indonesia",
+    "region": "Asia",
+    "language": "en",
+    "priority": 83,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "dawn",
+    "name": "Dawn",
+    "website": "https://www.dawn.com",
+    "country": "Pakistan",
+    "region": "Asia",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "rappler",
+    "name": "Rappler",
+    "website": "https://www.rappler.com",
+    "country": "Philippines",
+    "region": "Asia",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "news24",
+    "name": "News24",
+    "website": "https://www.news24.com",
+    "country": "South Africa",
+    "region": "Africa",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "mail-guardian",
+    "name": "Mail & Guardian",
+    "website": "https://mg.co.za",
+    "country": "South Africa",
+    "region": "Africa",
+    "language": "en",
+    "priority": 85,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "premium-times",
+    "name": "Premium Times",
+    "website": "https://www.premiumtimesng.com",
+    "country": "Nigeria",
+    "region": "Africa",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "east-african",
+    "name": "The EastAfrican",
+    "website": "https://www.theeastafrican.co.ke",
+    "country": "Kenya",
+    "region": "Africa",
+    "language": "en",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "clarin",
+    "name": "Clarín",
+    "website": "https://www.clarin.com",
+    "country": "Argentina",
+    "region": "Latin America",
+    "language": "es",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "folha",
+    "name": "Folha de S.Paulo",
+    "website": "https://www1.folha.uol.com.br/internacional/en/",
+    "country": "Brazil",
+    "region": "Latin America",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "o-globo",
+    "name": "O Globo",
+    "website": "https://oglobo.globo.com",
+    "country": "Brazil",
+    "region": "Latin America",
+    "language": "pt",
+    "priority": 84,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "el-universal",
+    "name": "El Universal",
+    "website": "https://www.eluniversal.com.mx",
+    "country": "Mexico",
+    "region": "Latin America",
+    "language": "es",
+    "priority": 83,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "el-tiempo",
+    "name": "El Tiempo",
+    "website": "https://www.eltiempo.com",
+    "country": "Colombia",
+    "region": "Latin America",
+    "language": "es",
+    "priority": 83,
+    "enabled": false,
+    "category": "world",
+    "feeds": []
+  },
+  {
+    "id": "forbes",
+    "name": "Forbes",
+    "website": "https://www.forbes.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 88,
+    "enabled": false,
+    "category": "business",
+    "feeds": []
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "website": "https://fortune.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 87,
+    "enabled": false,
+    "category": "business",
+    "feeds": []
+  },
+  {
+    "id": "business-insider",
+    "name": "Business Insider",
+    "website": "https://www.businessinsider.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 86,
+    "enabled": false,
+    "category": "business",
+    "feeds": []
+  },
+  {
+    "id": "propublica",
+    "name": "ProPublica",
+    "website": "https://www.propublica.org",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 93,
+    "enabled": false,
+    "category": "politics",
+    "feeds": []
+  },
+  {
+    "id": "the-atlantic",
+    "name": "The Atlantic",
+    "website": "https://www.theatlantic.com",
+    "country": "United States",
+    "region": "Americas",
+    "language": "en",
+    "priority": 91,
+    "enabled": false,
+    "category": "culture",
+    "feeds": []
+  }
+]

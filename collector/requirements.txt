@@ -1,0 +1,5 @@
+# GlobalNews Collector Dependencies
+# The collector is engineered to run seamlessly on pure Python 3 standard library
+# (urllib, xml.etree.ElementTree, email.utils, json, hashlib, re).
+# Optional high-throughput packages for GitHub Actions or production:
+urllib3>=2.0.0

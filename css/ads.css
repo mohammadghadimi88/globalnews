@@ -1,0 +1,51 @@
+/* GlobalNews Future Monetization Architecture */
+/* All ad slots remain strictly hidden when enableAds = false */
+
+.ad-slot {
+  display: none;
+  margin: 1.5rem auto;
+  text-align: center;
+  overflow: hidden;
+  background-color: var(--bg-surface-subtle);
+  border: 1px dashed var(--border-light);
+  border-radius: var(--radius-sm);
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Specific Slot Formats */
+.ad-slot.ad-banner {
+  width: 100%;
+  max-width: 970px;
+  min-height: 90px;
+}
+
+.ad-slot.ad-box {
+  width: 300px;
+  min-height: 250px;
+}
+
+.ad-slot.ad-inline {
+  width: 100%;
+  min-height: 120px;
+}
+
+.ad-slot.ad-sidebar {
+  width: 100%;
+  min-height: 250px;
+}
+
+.ad-slot.ad-footer {
+  width: 100%;
+  max-width: 970px;
+  min-height: 90px;
+}
+
+/* When ads are enabled on the document root */
+[data-ads-enabled="true"] .ad-slot:not(:empty) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
