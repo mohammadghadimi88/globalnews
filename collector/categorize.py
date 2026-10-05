@@ -11,7 +11,7 @@ REGIONS = {
     "Europe": [
         "europe", "european", "eu", "brussels", "uk", "britain", "british", "london", 
         "france", "french", "paris", "germany", "german", "berlin", "italy", "italian", 
-        "rome", "spain", "spanish", "madrid", "ukraine", "kyiv", "russia", "moscow", 
+        "rome", "spain", "spanish", "madrid", "barcelona", "catalonia", "ukraine", "kyiv", "russia", "moscow", 
         "poland", "sweden", "switzerland", "netherlands", "greece", "norway"
     ],
     "Asia": [
@@ -37,8 +37,13 @@ REGIONS = {
         "sudan", "somalia", "uganda", "rwanda", "morocco", "algeria"
     ],
     "Oceania": [
-        "australia", "australian", "sydney", "melbourne", "canberra", "new zealand", 
+        "australia", "australian", "sydney", "melbourne", "canberra", "new zealand",
         "wellington", "auckland", "pacific islands", "fiji"
+    ],
+    "Latin America": [
+        "latin america", "latin american", "argentina", "buenos aires", "brazil", "brazilian",
+        "sao paulo", "rio de janeiro", "mexico", "mexican", "mexico city", "colombia",
+        "bogota", "chile", "santiago", "peru", "lima", "venezuela", "cuba", "uruguay"
     ]
 }
 
