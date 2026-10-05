@@ -24,7 +24,6 @@ export function renderFooter(containerId = "site-footer") {
           <a href="#/category/technology" class="footer-link">Technology</a>
           <a href="#/category/science" class="footer-link">Science</a>
           <a href="#/search" class="footer-link">Search Terminal</a>
-          <a href="/global-news.zip" download="global-news.zip" class="footer-link" style="color: var(--accent); font-weight: 600;">Download Code (ZIP)</a>
           <a href="#top" class="footer-link" id="footer-scroll-top">Back to Top ↑</a>
         </nav>
       </div>
