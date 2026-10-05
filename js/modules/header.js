@@ -52,6 +52,17 @@ export function initHeader() {
   // Attach event handlers
   document.getElementById("theme-toggle-btn")?.addEventListener("click", toggleTheme);
 
+  // Handle category navigation explicitly so the selected section is highlighted
+  // immediately and consistently on GitHub Pages hash routing.
+  document.querySelectorAll("#primary-nav .nav-link").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const category = link.getAttribute("data-cat") || "all";
+      updateActiveNav(category);
+      router.navigate(category === "all" ? "/" : `/category/${category}`);
+    });
+  });
+
   document.getElementById("header-search-btn")?.addEventListener("click", () => {
     router.navigate("/search");
   });
