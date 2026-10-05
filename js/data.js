@@ -16,9 +16,6 @@ export function normalizeSearchText(value){
     .trim();
 }
 
-export function normalizeSearchText(value){
-  return String(value||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\s]/g," ").replace(/\s+/g," ").trim();
-}
 function buildSearchIndex(stories){
   return stories.map((story,index)=>{
     const titleNorm=normalizeSearchText(story.title),summaryNorm=normalizeSearchText(story.summary),sourceNorm=normalizeSearchText(story.source),categoryNorm=normalizeSearchText(story.category),subcategoryNorm=normalizeSearchText(story.subcategory),regionNorm=normalizeSearchText(story.region),countryNorm=normalizeSearchText(story.country),authorNorm=normalizeSearchText(story.author),sourceRegionNorm=normalizeSearchText(story.sourceRegion),tagsNorm=(story.tags||[]).map(t=>normalizeSearchText(t));
