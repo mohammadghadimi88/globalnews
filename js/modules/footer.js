@@ -19,6 +19,12 @@ export function renderFooter(containerId = "site-footer") {
 
         <nav class="footer-links" aria-label="Footer Navigation">
           <a href="#/" class="footer-link">Front Page</a>
+          <a href="./sources.html" class="footer-link">Sources</a>
+          <a href="./about.html" class="footer-link">About</a>
+          <a href="./editorial-policy.html" class="footer-link">Editorial Policy</a>
+          <a href="./contact.html" class="footer-link">Contact</a>
+          <a href="./privacy.html" class="footer-link">Privacy</a>
+          <a href="./terms.html" class="footer-link">Terms</a>
           <a href="#/category/world" class="footer-link">World</a>
           <a href="#/category/business" class="footer-link">Business</a>
           <a href="#/category/technology" class="footer-link">Technology</a>
@@ -34,7 +40,7 @@ export function renderFooter(containerId = "site-footer") {
           GlobalNews is a minimalist news discovery and navigation terminal. All article headlines, timestamps, and brief feed excerpts are credited to the original news organizations. When you select a story, you are directed immediately to the publisher's official website in a new tab. No full articles are scraped, mirrored, or republished.
         </p>
         <p class="footer-copy">
-          Designed for speed, typography, and signal. Zero trackers. Pure static client.
+          Text-first · Source-attributed · No tracking by default · Ads disabled
         </p>
       </div>
     </div>
