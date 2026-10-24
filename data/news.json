@@ -1,11 +1,351 @@
 [
   {
+    "id": "gn-b1ce173818dfcae1",
+    "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
+    "publishedAt": "2026-10-24T00:41:29Z",
+    "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital Get our breaking news email , free app or daily news podcast Independent MP Helen Haines’s condition has been downgraded to serious but stable...",
+    "author": "Adeshola Ore",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Oceania",
+    "country": "Melbourne",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 96.28
+  },
+  {
+    "id": "gn-286ae822823c45e3",
+    "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+    "source": "NPR",
+    "sourceId": "npr",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+    "publishedAt": "2026-10-24T00:40:42Z",
+    "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+    "author": "Ava Berger",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 95.13
+  },
+  {
+    "id": "gn-9da7b39fbda9e682",
+    "title": "US could strike Iran this weekend, envoy says",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/world/iran-war-us-could-strike-soon-6488231",
+    "publishedAt": "2026-10-24T00:40:14Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Iran",
+    "tags": [
+      "Middle East",
+      "World"
+    ],
+    "rankScore": 92.9
+  },
+  {
+    "id": "gn-8d7d5519bd191e63",
+    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-24T00:36:47Z",
+    "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Canadian",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 97.09
+  },
+  {
+    "id": "gn-3881fb4e4a0801e1",
+    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+    "publishedAt": "2026-10-24T00:32:29Z",
+    "summary": "Vivek Ramaswamy campaign ad features Democrat Amy Acton’s estranged mother accusing her of lying about her childhood, but a copy of a 1978 arrest warrant suggests Acton told the truth Sign up for the Breaking News US email With less than...",
+    "author": "Robert Mackey (now) Shrai Popat Marina Dunbar and Fran Lawther (earlier)",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 95.73
+  },
+  {
+    "id": "gn-e74c44b14e60bf33",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+    "publishedAt": "2026-10-24T00:30:02Z",
+    "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump...",
+    "author": "Guardian staff and agencies",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "business",
+    "subcategory": "markets",
+    "region": "Middle East",
+    "country": "Iran",
+    "tags": [
+      "Donald Trump",
+      "Middle East",
+      "Business",
+      "Markets"
+    ],
+    "rankScore": 95.58
+  },
+  {
+    "id": "gn-7a8e230b8458b550",
+    "title": "US executives quit $25bn gas venture over claims of secret Russian control",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+    "publishedAt": "2026-10-24T00:22:20Z",
+    "summary": "Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "business",
+    "subcategory": "companies",
+    "region": "Europe",
+    "country": "Russia",
+    "tags": [
+      "Russia",
+      "Business",
+      "Companies"
+    ],
+    "rankScore": 95.68
+  },
+  {
+    "id": "gn-abe9a0c20665094c",
+    "title": "How does the UK state pension compare with other countries?",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-24T00:09:12Z",
+    "summary": "Do British pensioners have it better or worse than those in other countries?",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "United Kingdom",
+      "World"
+    ],
+    "rankScore": 95.48
+  },
+  {
+    "id": "gn-507cf4831d958ace",
+    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-24T00:05:45Z",
+    "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "ai",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "Artificial Intelligence",
+      "United Kingdom",
+      "Technology",
+      "Ai"
+    ],
+    "rankScore": 95.29
+  },
+  {
+    "id": "gn-632e369839a2ffd3",
+    "title": "Big dreams, growing pains in Indonesia: Prabowo’s turbulent 2 years in power",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/week-asia/people/article/3371953/big-dreams-growing-pains-indonesia-prabowos-turbulent-2-years-power",
+    "publishedAt": "2026-10-24T00:00:19Z",
+    "summary": "When 35-year-old Bekasi resident Ika Kartika voted for Prabowo Subianto in Indonesia’s 2024 presidential election, she hoped the former general would restore a “Suharto-like” era of stability, when everyday essentials were affordable and...",
+    "author": "Anand Mathai,Johannes Nugroho",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Asia",
+    "country": "Indonesia",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 91.14
+  },
+  {
+    "id": "gn-d824cd6e4750097a",
+    "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+    "publishedAt": "2026-10-24T00:00:00Z",
+    "summary": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Israel",
+    "tags": [
+      "Middle East",
+      "World"
+    ],
+    "rankScore": 92.77
+  },
+  {
+    "id": "gn-e9a68f18b9569659",
+    "title": "Election Commission sought explanation from officials as goof-up in voter list went viral",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece",
+    "publishedAt": "2026-10-23T23:56:51Z",
+    "summary": "“There is a possibility of mistakes when doing any work for the first time. Out of 14,81,310 entries in the voter list, there are a total of 158 entries in which the names of the voters or their relatives appear strange. The strangeness of...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 89.85
+  },
+  {
+    "id": "gn-5b81ac1904bf4861",
+    "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T23:50:45Z",
+    "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 94.47
+  },
+  {
+    "id": "gn-68793e467d8671d6",
+    "title": "Kennedy rolls out US-caught seafood labeling, Seafood.gov",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/homenews/administration/6169656-trump-rfk-unveil-us-seafood-label/",
+    "publishedAt": "2026-10-23T23:40:48Z",
+    "summary": "The Trump administration unveiled new initiatives for U.S. fishermen Friday, including a new government website known as Seafood.gov. At a rally in Fort Myers, Fla., Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. announced...",
+    "author": "Ford McCracken",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "business",
+    "subcategory": "markets",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Business",
+      "Markets"
+    ],
+    "rankScore": 88.44
+  },
+  {
     "id": "gn-f1196de7036ede9b",
     "title": "Leclerc fastest from Antonelli in US GP practice",
     "source": "BBC Sport",
     "sourceId": "bbc-sport",
     "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-10-23T22:10:13Z",
+    "publishedAt": "2026-10-23T23:40:33Z",
     "summary": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
     "author": "",
     "sourceRegion": "Europe",
@@ -22,7 +362,948 @@
       "Sports",
       "Motorsport"
     ],
-    "rankScore": 94.8
+    "rankScore": 91.18
+  },
+  {
+    "id": "gn-eabb1d4abe9dded1",
+    "title": "Sitting all day? This mobility routine can help you loosen up",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/wellness/mobility-routine-sitting-6456071",
+    "publishedAt": "2026-10-23T23:27:38Z",
+    "summary": "Try these simple moves to avoid aches and pains.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 88.86
+  },
+  {
+    "id": "gn-e89036985e02f7a1",
+    "title": "Michelin-starred Nae:um's team opens Italian restaurant Osteria Da Su, with pastas from S$22",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/dining/osteria-da-su-naeum-italian-food-korean-chef-6485231",
+    "publishedAt": "2026-10-23T23:26:50Z",
+    "summary": "Korean chef Park Su-ji, who lived and worked in Italy for a decade, makes Italian classics feel new again, from cacio e pepe with sesame seeds to handmade tortelli filled with galbi jjim.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Europe",
+    "country": "Italy",
+    "tags": [
+      "Public Health",
+      "Health"
+    ],
+    "rankScore": 88.82
+  },
+  {
+    "id": "gn-c893cdb5e36c8710",
+    "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+    "source": "Space.com",
+    "sourceId": "space-com",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
+    "publishedAt": "2026-10-23T23:26:41Z",
+    "summary": "SpaceX sent 27 more of its Starlink broadband satellites to orbit today (Oct. 23), in its first Starlink launch in 11 days.",
+    "author": "jdinner@space.com (Josh Dinner)",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "science",
+    "priority": 88,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "SpaceX",
+      "Science",
+      "Space"
+    ],
+    "rankScore": 88.82
+  },
+  {
+    "id": "gn-fdf271095940d4a8",
+    "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+    "publishedAt": "2026-10-23T23:26:05Z",
+    "summary": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email , free app or daily news podcast Severe thunderstorms and heavy rain will sweep...",
+    "author": "Adeshola Ore with Australian Associated Press",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Oceania",
+    "country": "Australia",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 92.09
+  },
+  {
+    "id": "gn-61aa97b3d6af5499",
+    "title": "They didn’t want to inherit the family business. Now, Tan Ser Seng’s 3rd generation owners are fighting for its traditions",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/dining/tan-ser-seng-turtle-soup-third-gen-owners-6485146",
+    "publishedAt": "2026-10-23T23:25:51Z",
+    "summary": "Eighty years after their grandfather began selling herbal soup from pots balanced on a bamboo pole, the third-generation owners of Tan Ser Seng are opening their first outlet, located in a mall. They're hoping to win over a new generation...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 88.77
+  },
+  {
+    "id": "gn-4a625bbd1ee880eb",
+    "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+    "publishedAt": "2026-10-23T23:25:11Z",
+    "summary": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "music",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "Culture",
+      "Music"
+    ],
+    "rankScore": 90.94
+  },
+  {
+    "id": "gn-282fece843e2e1b9",
+    "title": "France boosts police presence, hoping to prevent repeat of riots",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/world/france-protests-security-police-presence-6488186",
+    "publishedAt": "2026-10-23T23:16:47Z",
+    "summary": "Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "France",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 88.32
+  },
+  {
+    "id": "gn-53a2993817bb60dd",
+    "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+    "publishedAt": "2026-10-23T23:10:54Z",
+    "summary": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "books",
+    "region": "Asia",
+    "country": "Taiwan",
+    "tags": [
+      "Culture",
+      "Books"
+    ],
+    "rankScore": 90.24
+  },
+  {
+    "id": "gn-a507146d5029e798",
+    "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+    "publishedAt": "2026-10-23T23:10:42Z",
+    "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the...",
+    "author": "Dani Anguiano",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Public Health",
+      "Health"
+    ],
+    "rankScore": 91.33
+  },
+  {
+    "id": "gn-7765002058f5884b",
+    "title": "The latest in space science: We look back at the Big Bang",
+    "source": "NPR",
+    "sourceId": "npr",
+    "url": "https://www.npr.org/2026/10/23/nx-s1-6008076/the-latest-in-space-science-we-look-back-at-the-big-bang",
+    "publishedAt": "2026-10-23T23:10:35Z",
+    "summary": "In this edition of Spacing Out, the team from Short Wave shares the latest developments in space science, including the theory on why the universe is made of matter",
+    "author": "Regina G. Barber",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "rankScore": 90.22
+  },
+  {
+    "id": "gn-09ad28f5ce0ed0ff",
+    "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/business/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-6488181",
+    "publishedAt": "2026-10-23T23:06:25Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "Amazon",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 87.82
+  },
+  {
+    "id": "gn-49f66ba39935cada",
+    "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
+    "publishedAt": "2026-10-23T23:06:01Z",
+    "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 91.65
+  },
+  {
+    "id": "gn-b96a6c6befb8b1fc",
+    "title": "UK government sets out $800 million of AI security funding",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/business/uk-government-sets-out-800-million-ai-security-funding-6488176",
+    "publishedAt": "2026-10-23T23:03:17Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "ai",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "Artificial Intelligence",
+      "United Kingdom",
+      "Technology",
+      "Ai"
+    ],
+    "rankScore": 87.67
+  },
+  {
+    "id": "gn-259d464cae426711",
+    "title": "About half concerned Republicans could try to overturn midterm results: Survey",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/blogs/ballot-box/6169602-americans-fear-gop-overturning-election-poll/",
+    "publishedAt": "2026-10-23T23:01:44Z",
+    "summary": "A new poll released Friday suggests half of Americans are concerned Republicans may try to overturn the results of November’s midterm election. Fifty percent of respondents to the New York Times/Siena University survey said they were...",
+    "author": "Ford McCracken",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 86.5
+  },
+  {
+    "id": "gn-e4cc85becea33bb3",
+    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+    "publishedAt": "2026-10-23T23:01:16Z",
+    "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI...",
+    "author": "Tara Conlan",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Artificial Intelligence",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 90.87
+  },
+  {
+    "id": "gn-94e65c71af283e18",
+    "title": "John Healey to give £20bn boost to UK’s business lender and infrastructure bank",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/4111c10c-c13c-4620-8ce7-df3b4f9324f1?syn-25a6b1a6=1",
+    "publishedAt": "2026-10-23T23:01:00Z",
+    "summary": "Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "business",
+    "subcategory": "banking",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "United Kingdom",
+      "Business",
+      "Banking"
+    ],
+    "rankScore": 91.41
+  },
+  {
+    "id": "gn-d464cf2110077778",
+    "title": "NASA lays out plan for Artemis 3 moon-lander test flight —but when will it launch?",
+    "source": "Space.com",
+    "sourceId": "space-com",
+    "url": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
+    "publishedAt": "2026-10-23T22:55:43Z",
+    "summary": "NASA just gave us our best look yet at its Artemis III moon-lander test flight, which is scheduled to launch to Earth orbit next year. But a firm liftoff date has not yet been announced.",
+    "author": "mwall@space.com (Mike Wall)",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "science",
+    "priority": 88,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "NASA",
+      "Science",
+      "Space"
+    ],
+    "rankScore": 87.31
+  },
+  {
+    "id": "gn-8ea7bf9a78cd1ecb",
+    "title": "Online safety laws have failed to protect children in UK, Ofcom admits",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+    "publishedAt": "2026-10-23T22:51:50Z",
+    "summary": "Campaigners call lack of progress ‘staggering’ as online regulator issues review of first nine months of new regime Landmark online safety measures have failed to limit the proportion of children suffering harm from social media, the UK’s...",
+    "author": "Robert Booth UK technology editor",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "United Kingdom",
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 90.43
+  },
+  {
+    "id": "gn-9c65571a32f2fee6",
+    "title": "Wilson and Williams through to NI Open semi-finals",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/snooker/articles/cqy0r7wj5e9ro?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T22:50:02Z",
+    "summary": "Former Northern Ireland Open champions Mark Williams and Kyren Wilson win through to the semi-finals of this year's tournament in Belfast.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "music",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Culture",
+      "Music"
+    ],
+    "rankScore": 88.7
+  },
+  {
+    "id": "gn-6cd0586b1e3884da",
+    "title": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+    "publishedAt": "2026-10-23T22:49:21Z",
+    "summary": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 86.47
+  },
+  {
+    "id": "gn-94538d593663829e",
+    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "source": "Ars Technica",
+    "sourceId": "ars-technica",
+    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+    "publishedAt": "2026-10-23T22:48:25Z",
+    "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+    "author": "Eric Berger",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "technology",
+    "priority": 92,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "NASA",
+      "Science",
+      "Space"
+    ],
+    "rankScore": 89.18
+  },
+  {
+    "id": "gn-2778505a40c35614",
+    "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+    "publishedAt": "2026-10-23T22:41:46Z",
+    "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator...",
+    "author": "Sarah Basford Canales",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Americas",
+    "country": "Senate",
+    "tags": [
+      "NATO",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 89.97
+  },
+  {
+    "id": "gn-997384031c212390",
+    "title": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece",
+    "publishedAt": "2026-10-23T22:38:44Z",
+    "summary": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "music",
+    "region": "Asia",
+    "country": "Delhi",
+    "tags": [
+      "Culture",
+      "Music"
+    ],
+    "rankScore": 85.99
+  },
+  {
+    "id": "gn-9403949a4942bccd",
+    "title": "Ronaldinho to return to action with Italian club Ravenna",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/ronaldinho-return-action-italian-club-ravenna-6488156",
+    "publishedAt": "2026-10-23T22:35:55Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "Italian",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 86.41
+  },
+  {
+    "id": "gn-c97917ca683ccda5",
+    "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+    "publishedAt": "2026-10-23T22:33:48Z",
+    "summary": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Africa",
+    "country": "Africa",
+    "tags": [
+      "Health",
+      "Public Health"
+    ],
+    "rankScore": 88.52
+  },
+  {
+    "id": "gn-456855376cfcd7a3",
+    "title": "Ethan Klein Confirms He’ll ‘Remove Ownership’ From ‘H3 Podcast’ After Wife Accuses Him of Cheating",
+    "source": "Rolling Stone Culture",
+    "sourceId": "rolling-stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/ethan-klein-remove-ownership-h3-podcast-wife-accused-affair-1235647518/",
+    "publishedAt": "2026-10-23T22:32:09Z",
+    "summary": "Hila Klein, who co-hosts H3 Podcast with her husband, accused him of having an over six-month-long affair with an unnamed person",
+    "author": "Althea Legaspi",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "culture",
+    "priority": 86,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "Public Health",
+      "Health"
+    ],
+    "rankScore": 85.14
+  },
+  {
+    "id": "gn-21c58b4ab11c0c19",
+    "title": "Haze worsens overnight as air quality turns unhealthy across Singapore",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-oct-24-6488141",
+    "publishedAt": "2026-10-23T22:31:00Z",
+    "summary": "Showers are forecast over Singapore and the surrounding region on Saturday, said NEA, although smoke haze could continue to be transported from Sumatra.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 86.19
+  },
+  {
+    "id": "gn-7d05287bdafa1e1e",
+    "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+    "publishedAt": "2026-10-23T22:29:30Z",
+    "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 89.98
+  },
+  {
+    "id": "gn-ad210407435b6fff",
+    "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+    "publishedAt": "2026-10-23T22:29:03Z",
+    "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy School Institute of Politics event on Friday. “There is a...",
+    "author": "Lucy Quaggin",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Asia",
+    "tags": [
+      "China",
+      "World"
+    ],
+    "rankScore": 86.66
+  },
+  {
+    "id": "gn-32086f1690c72fe2",
+    "title": "Couple buy a California apple farm and build a cider business",
+    "source": "The Times of India",
+    "sourceId": "times-of-india",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/an-la-advertising-couple-bought-a-925000-california-farm-with-no-house-turned-its-barn-loft-into-a-home-for-100000-and-built-an-apple-orchard-and-cider-business-into-a-family-destination/articleshow/135122821.cms",
+    "publishedAt": "2026-10-23T22:28:00Z",
+    "summary": "David Bailey and Dana Tiel left their advertising careers to purchase a 16-acre farm in California. After spending $1 million, they converted a barn loft into their home. Their farm, Sierra Cider, includes a petting zoo, pumpkin patch and...",
+    "author": "TOI Real Estate Desk",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 85,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Apple",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 84.41
+  },
+  {
+    "id": "gn-9b6adc05960a3f8e",
+    "title": "US, allies and China vie for influence through Pacific security deals",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+    "publishedAt": "2026-10-23T22:27:23Z",
+    "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand their influence, according to an interactive mapping tool...",
+    "author": "Nayan Seth",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "China",
+    "tags": [
+      "China",
+      "World"
+    ],
+    "rankScore": 86.58
+  },
+  {
+    "id": "gn-7252cdb1bf0edc8e",
+    "title": "Inside Chloë Grace Moretz’s former $5.65 M Los Angeles home",
+    "source": "The Times of India",
+    "sourceId": "times-of-india",
+    "url": "https://timesofindia.indiatimes.com/real-estate/news/at-19-chlo-grace-moretz-bought-a-spanish-style-los-angeles-home-for-3-4-million-in-2016-seven-years-later-the-half-acre-estate-with-an-updated-kitchen-sold-for-5-65-million-2-25-million-above-its-purchase-price/articleshow/135121673.cms",
+    "publishedAt": "2026-10-23T22:23:00Z",
+    "summary": "Chloë Grace Moretz purchased a $3.4 million home in Studio City in 2016 and hosted numerous gatherings there. After seven years, she listed the property for almost $6 million and sold it for $5.65 million. The home features multiple...",
+    "author": "TOI Real Estate Desk",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 85,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 84.19
+  },
+  {
+    "id": "gn-592368c98c591918",
+    "title": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T22:21:51Z",
+    "summary": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "football",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Premier League",
+      "Sports",
+      "Football"
+    ],
+    "rankScore": 87.44
+  },
+  {
+    "id": "gn-cca37d744e530aaf",
+    "title": "Thousands of homes without power as Storm Austen hits south-west England",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+    "publishedAt": "2026-10-23T22:21:28Z",
+    "summary": "Dozens of schools in Cornwall also affected as Storm Boelo heads for Scotland, Northern Ireland and north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm...",
+    "author": "Jamie Grierson and Yassin El-Moudden",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "United Kingdom",
+      "World"
+    ],
+    "rankScore": 89.08
+  },
+  {
+    "id": "gn-10457a12b70b4452",
+    "title": "'That's what I do' - Wade scores again to equal Prem try-scoring record",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3j47y0yy5e1o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T22:18:13Z",
+    "summary": "Christian Wade has equalled the Prem Rugby try-scoring record, level on 101 with Chris Ashton, and the Newcastle winger has shown no signs of slowing down.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports"
+    ],
+    "rankScore": 87.29
+  },
+  {
+    "id": "gn-bde55da69f574907",
+    "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T22:15:29Z",
+    "summary": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay...",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports"
+    ],
+    "rankScore": 87.17
+  },
+  {
+    "id": "gn-05e3c73ff4506bf5",
+    "title": "Print isn’t dead: How a Singapore printer is keeping paper relevant in a digital world",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/people/allegro-print-singapore-creative-printing-6478201",
+    "publishedAt": "2026-10-23T22:14:00Z",
+    "summary": "From books designed to look as though they’ve been bitten by dogs to publications made with hospital scrubs, Allegro Print has built a business around the creative possibilities of paper.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 85.46
+  },
+  {
+    "id": "gn-50f594259389ee8d",
+    "title": "Connacht secure bonus-point win over Zebre",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvwy7xrj73dxo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T22:12:07Z",
+    "summary": "Connacht return to winning ways in the United Rugby Championship with an eight-try 48-27 victory over Zebre at Dexcom Stadium.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports"
+    ],
+    "rankScore": 87.03
+  },
+  {
+    "id": "gn-067a728bb54dfc8c",
+    "title": "Ohio man convicted of murder for running over officer after police killed his son",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+    "publishedAt": "2026-10-23T22:07:38Z",
+    "summary": "Rodney Hinton ran over Larry Henderson after he viewed body-cam footage of police shooting dead his son Ryan An Ohio man who killed a deputy with his car just hours after seeing video of his son killed by Cincinnati police was found guilty...",
+    "author": "Auzzy Byrdsell",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Public Health",
+      "Health"
+    ],
+    "rankScore": 88.49
   },
   {
     "id": "gn-ed74ed7a670da712",
@@ -45,7 +1326,80 @@
     "tags": [
       "World"
     ],
-    "rankScore": 92.97
+    "rankScore": 85.17
+  },
+  {
+    "id": "gn-f0036d1fe8873f9a",
+    "title": "Hungary: 70 years after Soviet crackdown, leaders honour uprising victims",
+    "source": "Africanews",
+    "sourceId": "africanews",
+    "url": "http://www.africanews.com/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims/",
+    "publishedAt": "2026-10-23T22:07:09Z",
+    "summary": "Seventy years after Hungary's 1956 uprising against Soviet rule, Prime Minister Péter Magyar paid tribute to its victims as Ursula von der Leyen highlighted the importance of freedom and democracy.",
+    "author": "editorial@africanews.com (Alexis Caraco)",
+    "sourceRegion": "Africa",
+    "sourceCountry": "Congo",
+    "defaultCategory": "world",
+    "priority": 86,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Africa",
+    "country": "Congo",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 84.07
+  },
+  {
+    "id": "gn-fd32ce4d6894cdde",
+    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+    "publishedAt": "2026-10-23T22:03:07Z",
+    "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said...",
+    "author": "Gaya Gupta in New York",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "NATO",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 88.3
+  },
+  {
+    "id": "gn-9f60e46a107e791b",
+    "title": "Why is Israel increasing its presence in the Balkans?",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+    "publishedAt": "2026-10-23T22:01:52Z",
+    "summary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Israel",
+    "tags": [
+      "Middle East",
+      "World"
+    ],
+    "rankScore": 87.15
   },
   {
     "id": "gn-35056c97614557ed",
@@ -68,7 +1422,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 94.21
+    "rankScore": 86.54
   },
   {
     "id": "gn-4a7b191f98cb778b",
@@ -77,7 +1431,7 @@
     "sourceId": "scmp",
     "url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
     "publishedAt": "2026-10-23T22:00:09Z",
-    "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the second part of this series, William Zheng and Alcott Wei examine how the fight...",
+    "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. In the third part of this series, William Zheng and Alcott Wei examine how the fight...",
     "author": "William Zheng,Alcott Wei",
     "sourceRegion": "Asia",
     "sourceCountry": "Hong Kong",
@@ -92,7 +1446,7 @@
       "China",
       "World"
     ],
-    "rankScore": 93.09
+    "rankScore": 85.43
   },
   {
     "id": "gn-0eb606d4834a537b",
@@ -101,7 +1455,7 @@
     "sourceId": "channel-news-asia",
     "url": "https://www.channelnewsasia.com/singapore/indonesia-politicians-singapore-haze-domestic-frustration-6487141",
     "publishedAt": "2026-10-23T22:00:00Z",
-    "summary": "Sharp remarks by Indonesian political figures reflect domestic frustration, economic nationalism and political posturing, say analysts who also cautioned against reading too much into the criticism of Malaysia and Singapore.",
+    "summary": "Sharp remarks by Indonesian political figures reflect domestic frustration, economic nationalism and political posturing, said analysts who also cautioned against reading too much into the criticism of Malaysia and Singapore.",
     "author": "",
     "sourceRegion": "Asia",
     "sourceCountry": "Singapore",
@@ -116,7 +1470,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 92.53
+    "rankScore": 84.87
   },
   {
     "id": "gn-afd47b7be974c6f8",
@@ -141,7 +1495,7 @@
       "Cybersecurity",
       "Technology"
     ],
-    "rankScore": 92.53
+    "rankScore": 84.87
   },
   {
     "id": "gn-6d471b9770aae849",
@@ -165,7 +1519,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 92.4
+    "rankScore": 84.78
   },
   {
     "id": "gn-ad27f54411103757",
@@ -190,7 +1544,31 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 91.28
+    "rankScore": 83.67
+  },
+  {
+    "id": "gn-082adf9f1307b229",
+    "title": "Kolkata stampede: Death in the time of Durga Puja",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/west-bengal/kolkata-stampede-death-in-the-time-of-durga-puja/article71616855.ece",
+    "publishedAt": "2026-10-23T21:56:03Z",
+    "summary": "On October 17, a stampede broke out at a Durga Puja pandal in north Kolkata, claiming 19 lives. The pandal, erected in a narrow space with dim lighting, was filled with people soon after it started raining. Shrabana Chatterjee and Shiv...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "rankScore": 84.16
   },
   {
     "id": "gn-063e6340afe0514b",
@@ -213,7 +1591,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 93.93
+    "rankScore": 86.35
   },
   {
     "id": "gn-deceada79c905e0d",
@@ -238,7 +1616,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 93.88
+    "rankScore": 86.31
   },
   {
     "id": "gn-6aee7a4f6823bb1e",
@@ -261,7 +1639,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 92.22
+    "rankScore": 84.66
   },
   {
     "id": "gn-11ec019b23b63878",
@@ -285,7 +1663,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 93.66
+    "rankScore": 86.17
   },
   {
     "id": "gn-6103bd8871ca9fb0",
@@ -309,7 +1687,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 94.94
+    "rankScore": 87.56
   },
   {
     "id": "gn-471d5a2360f15289",
@@ -333,7 +1711,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.49
+    "rankScore": 83.13
   },
   {
     "id": "gn-7bee3a3c9519ed80",
@@ -358,7 +1736,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 92.43
+    "rankScore": 85.15
   },
   {
     "id": "gn-024a3604243d4553",
@@ -382,7 +1760,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.14
+    "rankScore": 82.88
   },
   {
     "id": "gn-594a855e1a3a3785",
@@ -406,7 +1784,7 @@
       "Russia",
       "Sports"
     ],
-    "rankScore": 92.88
+    "rankScore": 85.63
   },
   {
     "id": "gn-6166a9191ebe823d",
@@ -430,16 +1808,16 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 92.56
+    "rankScore": 85.41
   },
   {
-    "id": "gn-5285355a6aa99775",
+    "id": "gn-81bdb5f62e6f685c",
     "title": "Trump lifts some Canada tariffs ahead of midterms",
     "source": "CNA",
     "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/world/trump-lifts-some-canada-tariffs-ahead-midterms-6488081",
-    "publishedAt": "2026-10-23T21:31:28Z",
-    "summary": "Senator Susan Collins said Maine farmers “rely on specialised equipment, packaging materials, and other products from Canada” that are difficult or expensive to replace with American alternatives.",
+    "url": "https://www.channelnewsasia.com/world/trump-canada-tariffs-midterms-6488081",
+    "publishedAt": "2026-10-23T21:31:00Z",
+    "summary": "The move comes after a vulnerable Republican candidate said she lobbied for the change, saying Maine farmers reply on specialist equipment and other products from Canada that are difficult or expensive to replace with American alternatives.",
     "author": "",
     "sourceRegion": "Asia",
     "sourceCountry": "Singapore",
@@ -452,15 +1830,14 @@
     "country": "Trump",
     "tags": [
       "Donald Trump",
-      "NATO",
       "Business",
       "Economy"
     ],
-    "rankScore": 90.88
+    "rankScore": 83.72
   },
   {
     "id": "gn-1c71152c7cb3b809",
-    "title": "Asia’s baby-starved governments want people to date, but who has time?",
+    "title": "Why raising Asia’s fertility rate starts with giving people time to date",
     "source": "South China Morning Post",
     "sourceId": "scmp",
     "url": "https://www.scmp.com/opinion/asia-opinion/article/3371633/asias-baby-starved-governments-want-people-date-who-has-time",
@@ -472,15 +1849,14 @@
     "defaultCategory": "world",
     "priority": 89,
     "language": "en",
-    "category": "health",
-    "subcategory": "public health",
+    "category": "world",
+    "subcategory": "general",
     "region": "Asia",
     "country": "Asia",
     "tags": [
-      "Public Health",
-      "Health"
+      "World"
     ],
-    "rankScore": 91.35
+    "rankScore": 84.24
   },
   {
     "id": "gn-06c0d1380c1da37b",
@@ -489,7 +1865,7 @@
     "sourceId": "bbc-sport",
     "url": "https://www.bbc.co.uk/sport/articles/cwj348l2jr72o?at_medium=RSS&at_campaign=rss",
     "publishedAt": "2026-10-23T21:29:11Z",
-    "summary": "History made, dreams fulfilled, and a moment that will live forever. With the very last kick, Niall Morgan's sensational two-pointer broke Errigal Ciaran hearts and crowned Edendork Tyrone Senior Football Champions for the first time ever.",
+    "summary": "History made, dreams fulfilled, and a moment that will live forever. With the very last kick, Niall Morgan's sensational two-pointer breaks Errigal Ciaran hearts and crowns Edendork Tyrone Senior Football champions for the first time.",
     "author": "",
     "sourceRegion": "Europe",
     "sourceCountry": "United Kingdom",
@@ -503,7 +1879,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 92.4
+    "rankScore": 85.3
   },
   {
     "id": "gn-84100e574b083cb7",
@@ -526,7 +1902,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 92.86
+    "rankScore": 85.79
   },
   {
     "id": "gn-c44467836bb31ee0",
@@ -549,7 +1925,7 @@
     "tags": [
       "Environment"
     ],
-    "rankScore": 91.63
+    "rankScore": 84.59
   },
   {
     "id": "gn-1969b455c01b7391",
@@ -573,7 +1949,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 88.82
+    "rankScore": 81.8
   },
   {
     "id": "gn-8901221b2573e56d",
@@ -597,7 +1973,7 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 91.42
+    "rankScore": 84.45
   },
   {
     "id": "gn-b88bb0b98e8d9643",
@@ -621,7 +1997,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 90.76
+    "rankScore": 83.82
   },
   {
     "id": "gn-a6d2d5fdb7657f8a",
@@ -647,7 +2023,30 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 90.88
+    "rankScore": 84.07
+  },
+  {
+    "id": "gn-0da728e6e6c1c846",
+    "title": "Patterson stars as Edinburgh beat Lions",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck9qzeyz4n3lo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-10-23T21:07:18Z",
+    "summary": "A sparkling display from scrum-half Hector Patterson inspires Edinburgh to a comfortable URC victory over Lions.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports"
+    ],
+    "rankScore": 84.48
   },
   {
     "id": "gn-24958c332d1626c1",
@@ -670,7 +2069,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 90.48
+    "rankScore": 83.79
   },
   {
     "id": "gn-ddb9935616b2cde9",
@@ -693,7 +2092,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 88.25
+    "rankScore": 81.57
   },
   {
     "id": "gn-8e35facf8d8646e7",
@@ -719,7 +2118,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 88.15
+    "rankScore": 81.5
   },
   {
     "id": "gn-f3ee3fd2343dc482",
@@ -743,7 +2142,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 93.58
+    "rankScore": 86.95
   },
   {
     "id": "gn-7d83d4c1550a6504",
@@ -791,7 +2190,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 91.02
+    "rankScore": 84.5
   },
   {
     "id": "gn-9198028dfa091397",
@@ -815,7 +2214,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 87.66
+    "rankScore": 81.16
   },
   {
     "id": "gn-753944d645f4b7bd",
@@ -842,7 +2241,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 89.3
+    "rankScore": 82.8
   },
   {
     "id": "gn-267a801616fe253c",
@@ -868,7 +2267,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.28
+    "rankScore": 82.79
   },
   {
     "id": "gn-f0eb8bdd66d93404",
@@ -893,7 +2292,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 88.55
+    "rankScore": 82.11
   },
   {
     "id": "gn-e7ee1b6b4ff96e96",
@@ -916,33 +2315,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 87.45
-  },
-  {
-    "id": "gn-3881fb4e4a0801e1",
-    "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "publishedAt": "2026-10-23T20:46:02Z",
-    "summary": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking...",
-    "author": "Robert Mackey (now) Shrai Popat Marina Dunbar and Fran Lawther (earlier)",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "business",
-    "subcategory": "markets",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Public Health",
-      "Business",
-      "Markets"
-    ],
-    "rankScore": 91.79
+    "rankScore": 81.01
   },
   {
     "id": "gn-192d788d3212d315",
@@ -967,7 +2340,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.6
+    "rankScore": 84.21
   },
   {
     "id": "gn-09e1f1de62449edd",
@@ -990,7 +2363,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 90.59
+    "rankScore": 84.2
   },
   {
     "id": "gn-20b66649d2ebf411",
@@ -1016,31 +2389,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 90.58
-  },
-  {
-    "id": "gn-8d7d5519bd191e63",
-    "title": "White House says the US is lifting tariffs on some Canadian goods",
-    "source": "BBC News",
-    "sourceId": "bbc-news",
-    "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-10-23T20:39:39Z",
-    "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 96,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 92.58
+    "rankScore": 84.19
   },
   {
     "id": "gn-d06b6dc6e7194d67",
@@ -1065,33 +2414,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.26
-  },
-  {
-    "id": "gn-fd32ce4d6894cdde",
-    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-    "publishedAt": "2026-10-23T20:36:12Z",
-    "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said...",
-    "author": "Gaya Gupta in New York",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Donald Trump",
-      "NATO",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 91.31
+    "rankScore": 83.97
   },
   {
     "id": "gn-5d7e9d1e7359b273",
@@ -1114,7 +2437,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 88.35
+    "rankScore": 82.13
   },
   {
     "id": "gn-7beb0b6ead3f11cd",
@@ -1138,7 +2461,7 @@
       "Technology",
       "Hardware"
     ],
-    "rankScore": 89.85
+    "rankScore": 83.67
   },
   {
     "id": "gn-14262367564242da",
@@ -1162,7 +2485,7 @@
       "Business",
       "Companies"
     ],
-    "rankScore": 85.92
+    "rankScore": 79.77
   },
   {
     "id": "gn-64ce70824f3aa230",
@@ -1186,7 +2509,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 87.02
+    "rankScore": 80.87
   },
   {
     "id": "gn-fd4ec94c4f181cff",
@@ -1210,7 +2533,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 87.44
+    "rankScore": 81.33
   },
   {
     "id": "gn-d828ae19384b0481",
@@ -1234,7 +2557,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 85.75
+    "rankScore": 79.65
   },
   {
     "id": "gn-d0faacdfa8e1eeed",
@@ -1258,32 +2581,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 85.68
-  },
-  {
-    "id": "gn-7d05287bdafa1e1e",
-    "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-    "source": "Financial Times",
-    "sourceId": "financial-times",
-    "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-    "publishedAt": "2026-10-23T20:21:55Z",
-    "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "business",
-    "priority": 95,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 91.18
+    "rankScore": 79.6
   },
   {
     "id": "gn-63db608beec8fcc0",
@@ -1306,7 +2604,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 88.93
+    "rankScore": 82.86
   },
   {
     "id": "gn-4fa016086b2abaf6",
@@ -1330,7 +2628,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 86.18
+    "rankScore": 80.11
   },
   {
     "id": "gn-5ed5c12fd59083bd",
@@ -1354,11 +2652,11 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.36
+    "rankScore": 82.3
   },
   {
     "id": "gn-2e8ec6f79a38cb01",
-    "title": "Indiana police officer arrested for using Flock cameras to search wife",
+    "title": "Indiana police officer arrested for using Flock cameras to search wife’s details",
     "source": "The Guardian",
     "sourceId": "the-guardian",
     "url": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
@@ -1377,7 +2675,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 90.54
+    "rankScore": 84.48
   },
   {
     "id": "gn-7be3008f9053e2be",
@@ -1402,7 +2700,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 89.44
+    "rankScore": 83.38
   },
   {
     "id": "gn-2c10df8cc0273134",
@@ -1426,7 +2724,7 @@
       "Russia",
       "World"
     ],
-    "rankScore": 91.56
+    "rankScore": 85.52
   },
   {
     "id": "gn-4807305d93f68fe9",
@@ -1453,32 +2751,7 @@
       "SpaceX",
       "Science"
     ],
-    "rankScore": 86.04
-  },
-  {
-    "id": "gn-49f66ba39935cada",
-    "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
-    "source": "Financial Times",
-    "sourceId": "financial-times",
-    "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-    "publishedAt": "2026-10-23T20:16:32Z",
-    "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "business",
-    "priority": 95,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 90.93
+    "rankScore": 80.01
   },
   {
     "id": "gn-763a8508686dc146",
@@ -1526,7 +2799,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 85.96
+    "rankScore": 79.95
   },
   {
     "id": "gn-2d8d061431d6d58b",
@@ -1551,7 +2824,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 90.78
+    "rankScore": 84.81
   },
   {
     "id": "gn-71ce185afb222f78",
@@ -1577,7 +2850,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 85.6
+    "rankScore": 79.69
   },
   {
     "id": "gn-85332f7da94442f9",
@@ -1603,7 +2876,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 86.64
+    "rankScore": 80.75
   },
   {
     "id": "gn-8ef459f7bb6d665c",
@@ -1629,7 +2902,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 87.07
+    "rankScore": 81.22
   },
   {
     "id": "gn-1c6553f04b2d9aba",
@@ -1656,7 +2929,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.64
+    "rankScore": 82.81
   },
   {
     "id": "gn-2a90fe713e7d0439",
@@ -1681,7 +2954,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.59
+    "rankScore": 82.78
   },
   {
     "id": "gn-51b12ae23c26ff66",
@@ -1706,7 +2979,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 90.19
+    "rankScore": 84.39
   },
   {
     "id": "gn-7725b353f99ce864",
@@ -1729,7 +3002,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 85.76
+    "rankScore": 79.97
   },
   {
     "id": "gn-ea0875c795886756",
@@ -1753,7 +3026,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 88.34
+    "rankScore": 82.6
   },
   {
     "id": "gn-d88855fe576f2e50",
@@ -1777,7 +3050,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 84.92
+    "rankScore": 79.21
   },
   {
     "id": "gn-e96bbf92ded75d1f",
@@ -1803,7 +3076,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.25
+    "rankScore": 83.56
   },
   {
     "id": "gn-25d3f5e2cb1a4ad5",
@@ -1826,7 +3099,7 @@
     "tags": [
       "Environment"
     ],
-    "rankScore": 86.91
+    "rankScore": 81.26
   },
   {
     "id": "gn-2cba7a9a5133180e",
@@ -1849,7 +3122,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 90.14
+    "rankScore": 84.51
   },
   {
     "id": "gn-ec7bd5dee50f7136",
@@ -1873,7 +3146,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 87.9
+    "rankScore": 82.27
   },
   {
     "id": "gn-8eba79c497c6b266",
@@ -1898,7 +3171,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 85.69
+    "rankScore": 80.07
   },
   {
     "id": "gn-fe4d71482a1a2c72",
@@ -1923,7 +3196,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.58
+    "rankScore": 78.96
   },
   {
     "id": "gn-25a4fd549bc2ec6e",
@@ -1947,7 +3220,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 85.07
+    "rankScore": 79.47
   },
   {
     "id": "gn-a63d38844e299fed",
@@ -1956,7 +3229,7 @@
     "sourceId": "bbc-news",
     "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
     "publishedAt": "2026-10-23T19:42:08Z",
-    "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+    "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
     "author": "",
     "sourceRegion": "Europe",
     "sourceCountry": "United Kingdom",
@@ -1971,7 +3244,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 89.95
+    "rankScore": 84.37
   },
   {
     "id": "gn-c3f5bbfe01080edb",
@@ -1997,7 +3270,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.41
+    "rankScore": 78.84
   },
   {
     "id": "gn-290971f082238093",
@@ -2021,7 +3294,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 84.91
+    "rankScore": 79.36
   },
   {
     "id": "gn-d51620d2d4dfef05",
@@ -2044,7 +3317,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.84
+    "rankScore": 79.3
   },
   {
     "id": "gn-30c3de3ab4d52e19",
@@ -2068,7 +3341,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 84.81
+    "rankScore": 79.28
   },
   {
     "id": "gn-968f3db51353b278",
@@ -2092,7 +3365,7 @@
       "Technology",
       "Hardware"
     ],
-    "rankScore": 84.72
+    "rankScore": 79.22
   },
   {
     "id": "gn-3be5f2059474b551",
@@ -2116,7 +3389,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 86.36
+    "rankScore": 80.86
   },
   {
     "id": "gn-21fa8c662465944f",
@@ -2141,7 +3414,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 84.11
+    "rankScore": 78.62
   },
   {
     "id": "gn-a9635a9fe06d3217",
@@ -2165,7 +3438,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 87.41
+    "rankScore": 81.92
   },
   {
     "id": "gn-3553778d24836103",
@@ -2190,7 +3463,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 85.21
+    "rankScore": 79.72
   },
   {
     "id": "gn-60b56cc3037dbda3",
@@ -2215,7 +3488,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 86.25
+    "rankScore": 80.78
   },
   {
     "id": "gn-7b5791c482a420ea",
@@ -2240,7 +3513,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 87.3
+    "rankScore": 81.84
   },
   {
     "id": "gn-f06096bf554d8132",
@@ -2267,7 +3540,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.46
+    "rankScore": 84.01
   },
   {
     "id": "gn-4e1afcca2a4b4d5b",
@@ -2291,7 +3564,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 84.49
+    "rankScore": 79.05
   },
   {
     "id": "gn-59f442cf69f9ecad",
@@ -2314,7 +3587,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.44
+    "rankScore": 79.02
   },
   {
     "id": "gn-d998d32ec1062f0a",
@@ -2337,7 +3610,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.4
+    "rankScore": 78.99
   },
   {
     "id": "gn-2a945bd944ff5634",
@@ -2360,7 +3633,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.36
+    "rankScore": 78.95
   },
   {
     "id": "gn-9464539c24fbb9be",
@@ -2384,7 +3657,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 84.29
+    "rankScore": 78.9
   },
   {
     "id": "gn-267962bbaf19069f",
@@ -2408,7 +3681,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 84.28
+    "rankScore": 78.9
   },
   {
     "id": "gn-9cebbb8639be409f",
@@ -2432,7 +3705,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 84.23
+    "rankScore": 78.86
   },
   {
     "id": "gn-37aee8f8bf841aa9",
@@ -2458,7 +3731,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.68
+    "rankScore": 78.31
   },
   {
     "id": "gn-7c6e0e9e2a2fa835",
@@ -2481,7 +3754,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.11
+    "rankScore": 77.75
   },
   {
     "id": "gn-965bf612d8caee9e",
@@ -2506,7 +3779,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 83.64
+    "rankScore": 78.29
   },
   {
     "id": "gn-6f2b24a1e0fe35a8",
@@ -2529,7 +3802,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.09
+    "rankScore": 77.74
   },
   {
     "id": "gn-dea976fbb312cf56",
@@ -2552,7 +3825,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 86.85
+    "rankScore": 81.52
   },
   {
     "id": "gn-bb4587ced1583d0f",
@@ -2577,7 +3850,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 85.73
+    "rankScore": 80.4
   },
   {
     "id": "gn-5f68eb337f2fe957",
@@ -2600,7 +3873,7 @@
     "tags": [
       "Health"
     ],
-    "rankScore": 85.6
+    "rankScore": 80.31
   },
   {
     "id": "gn-f88427312fa4cd5c",
@@ -2672,7 +3945,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.83
+    "rankScore": 77.69
   },
   {
     "id": "gn-a275604a0e437b40",
@@ -2697,7 +3970,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 85.86
+    "rankScore": 80.79
   },
   {
     "id": "gn-e2e48d7b09b8816c",
@@ -2720,7 +3993,7 @@
     "tags": [
       "Health"
     ],
-    "rankScore": 84.76
+    "rankScore": 79.69
   },
   {
     "id": "gn-39360c00e9d4709a",
@@ -2746,7 +4019,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 87.94
+    "rankScore": 82.91
   },
   {
     "id": "gn-7ed9ea990a151722",
@@ -2770,7 +4043,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 87.3
+    "rankScore": 82.29
   },
   {
     "id": "gn-c501a531f3bdbbc4",
@@ -2795,7 +4068,7 @@
       "Cybersecurity",
       "Technology"
     ],
-    "rankScore": 86.71
+    "rankScore": 81.71
   },
   {
     "id": "gn-493a50160c77f4be",
@@ -2821,7 +4094,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 83.94
+    "rankScore": 78.95
   },
   {
     "id": "gn-e8ebbb20fcedf755",
@@ -2845,7 +4118,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 84.49
+    "rankScore": 79.5
   },
   {
     "id": "gn-929db637b8f812fd",
@@ -2892,7 +4165,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.13
+    "rankScore": 77.18
   },
   {
     "id": "gn-75c55b9c071dc270",
@@ -2916,7 +4189,7 @@
       "Technology",
       "Gadgets"
     ],
-    "rankScore": 84.31
+    "rankScore": 79.37
   },
   {
     "id": "gn-ae1b53067e90d2b3",
@@ -2965,7 +4238,7 @@
       "Middle East",
       "World"
     ],
-    "rankScore": 82.58
+    "rankScore": 77.65
   },
   {
     "id": "gn-f795615a71ab2dac",
@@ -2990,7 +4263,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 85.22
+    "rankScore": 80.33
   },
   {
     "id": "gn-8aecb21c4de561c4",
@@ -3013,7 +4286,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.47
+    "rankScore": 77.57
   },
   {
     "id": "gn-47d7c4639a59c80b",
@@ -3037,7 +4310,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 81.86
+    "rankScore": 76.98
   },
   {
     "id": "gn-428d891e7806a301",
@@ -3060,7 +4333,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 84.61
+    "rankScore": 79.73
   },
   {
     "id": "gn-8472b47a28c8af24",
@@ -3083,7 +4356,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.37
+    "rankScore": 77.5
   },
   {
     "id": "gn-36762a65defb06da",
@@ -3154,7 +4427,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.25
+    "rankScore": 77.41
   },
   {
     "id": "gn-de766ba4d44178b7",
@@ -3178,7 +4451,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 82.24
+    "rankScore": 77.4
   },
   {
     "id": "gn-5ad6cd9e7e3b2e89",
@@ -3203,7 +4476,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.92
+    "rankScore": 80.1
   },
   {
     "id": "gn-c69bb029e3d40f06",
@@ -3249,7 +4522,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.16
+    "rankScore": 77.34
   },
   {
     "id": "gn-5e4457442efa63a8",
@@ -3274,7 +4547,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 82.14
+    "rankScore": 77.33
   },
   {
     "id": "gn-c7e43e4549a7ac0d",
@@ -3297,7 +4570,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.0
+    "rankScore": 76.2
   },
   {
     "id": "gn-7cbc90b3cd500fc2",
@@ -3321,7 +4594,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 83.73
+    "rankScore": 78.94
   },
   {
     "id": "gn-2d4255f13fc04c35",
@@ -3345,7 +4618,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.18
+    "rankScore": 78.38
   },
   {
     "id": "gn-82f68804f051ae00",
@@ -3370,7 +4643,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 83.14
+    "rankScore": 78.36
   },
   {
     "id": "gn-4415449c087322fd",
@@ -3393,7 +4666,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.88
+    "rankScore": 76.12
   },
   {
     "id": "gn-b04dcf8f79db5e81",
@@ -3445,7 +4718,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.66
+    "rankScore": 79.91
   },
   {
     "id": "gn-009f573fd241b3f3",
@@ -3469,7 +4742,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 81.31
+    "rankScore": 76.58
   },
   {
     "id": "gn-5d5e4c870c4d8a85",
@@ -3492,7 +4765,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 85.65
+    "rankScore": 80.93
   },
   {
     "id": "gn-92e6c403fbf8bec3",
@@ -3515,7 +4788,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.73
+    "rankScore": 77.02
   },
   {
     "id": "gn-f4043cd9b6f123e6",
@@ -3539,7 +4812,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 82.66
+    "rankScore": 78.0
   },
   {
     "id": "gn-e716cc98cba33ce5",
@@ -3562,7 +4835,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.49
+    "rankScore": 76.85
   },
   {
     "id": "gn-ba0cb5dff5c2afca",
@@ -3611,7 +4884,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.33
+    "rankScore": 76.73
   },
   {
     "id": "gn-43030b82d0098c1e",
@@ -3634,7 +4907,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.23
+    "rankScore": 76.65
   },
   {
     "id": "gn-18113570bfda47d8",
@@ -3657,7 +4930,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.18
+    "rankScore": 76.62
   },
   {
     "id": "gn-6e09ff6bfdfd9620",
@@ -3680,7 +4953,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.15
+    "rankScore": 76.59
   },
   {
     "id": "gn-18740a386fe48b88",
@@ -3703,7 +4976,7 @@
     "tags": [
       "Science"
     ],
-    "rankScore": 81.66
+    "rankScore": 77.12
   },
   {
     "id": "gn-ba0c969b05cb6b8e",
@@ -3728,7 +5001,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.79
+    "rankScore": 79.26
   },
   {
     "id": "gn-e54f3873c082336c",
@@ -3752,7 +5025,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 80.45
+    "rankScore": 75.93
   },
   {
     "id": "gn-af25e18e067870e7",
@@ -3775,7 +5048,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 82.59
+    "rankScore": 78.09
   },
   {
     "id": "gn-e005dfc003d5bf41",
@@ -3798,7 +5071,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 80.36
+    "rankScore": 75.87
   },
   {
     "id": "gn-e7d0d129fac92ad1",
@@ -3821,7 +5094,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.49
+    "rankScore": 79.04
   },
   {
     "id": "gn-649be56d4182522e",
@@ -3844,7 +5117,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.71
+    "rankScore": 76.26
   },
   {
     "id": "gn-ab5fa302e39c9cbd",
@@ -3868,7 +5141,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 83.43
+    "rankScore": 79.0
   },
   {
     "id": "gn-b7ec764091b579e8",
@@ -3894,7 +5167,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.56
+    "rankScore": 75.13
   },
   {
     "id": "gn-f2a3065b0356728b",
@@ -3917,7 +5190,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.6
+    "rankScore": 76.19
   },
   {
     "id": "gn-9531b9f534dd45e7",
@@ -3966,7 +5239,7 @@
       "Health",
       "Public Health"
     ],
-    "rankScore": 83.32
+    "rankScore": 78.92
   },
   {
     "id": "gn-55996b26dea03d7f",
@@ -3990,7 +5263,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 82.76
+    "rankScore": 78.36
   },
   {
     "id": "gn-259f0a689cc3aed7",
@@ -4013,7 +5286,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.49
+    "rankScore": 76.1
   },
   {
     "id": "gn-3ac768fa4b6d70a3",
@@ -4037,7 +5310,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.92
+    "rankScore": 75.53
   },
   {
     "id": "gn-9f2abe3161cab687",
@@ -4061,7 +5334,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 79.33
+    "rankScore": 74.96
   },
   {
     "id": "gn-981c4914095122c7",
@@ -4086,7 +5359,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.86
+    "rankScore": 75.49
   },
   {
     "id": "gn-24c8b8c3e7a4bc87",
@@ -4113,7 +5386,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 81.93
+    "rankScore": 77.6
   },
   {
     "id": "gn-2d53b366cea3ead5",
@@ -4138,7 +5411,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.03
+    "rankScore": 78.7
   },
   {
     "id": "gn-004123fe6b060164",
@@ -4162,7 +5435,7 @@
       "Technology",
       "Cybersecurity"
     ],
-    "rankScore": 80.24
+    "rankScore": 75.91
   },
   {
     "id": "gn-b0c31443b13585ab",
@@ -4188,7 +5461,31 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.23
+    "rankScore": 75.9
+  },
+  {
+    "id": "gn-12ccfa288739cb55",
+    "title": "Farmers urge authorities to desilt irrigation, supply channels",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/cities/Madurai/farmers-urge-authorities-to-desilt-irrigation-supply-channels/article71617620.ece",
+    "publishedAt": "2026-10-23T17:33:05Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "books",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Culture",
+      "Books"
+    ],
+    "rankScore": 75.9
   },
   {
     "id": "gn-67838713450dd8b5",
@@ -4211,7 +5508,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 82.96
+    "rankScore": 78.64
   },
   {
     "id": "gn-7524009c96ed1376",
@@ -4236,7 +5533,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 79.65
+    "rankScore": 75.34
   },
   {
     "id": "gn-71ec2f9e10e1731c",
@@ -4260,7 +5557,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 80.17
+    "rankScore": 75.86
   },
   {
     "id": "gn-f5f129983c01e29f",
@@ -4285,7 +5582,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 82.89
+    "rankScore": 78.59
   },
   {
     "id": "gn-b2a30ce971626a5f",
@@ -4309,7 +5606,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 79.04
+    "rankScore": 74.74
   },
   {
     "id": "gn-890fc84d58e063a1",
@@ -4333,7 +5630,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.75
+    "rankScore": 78.48
   },
   {
     "id": "gn-b6eb5852986f8390",
@@ -4357,7 +5654,7 @@
       "Russia",
       "World"
     ],
-    "rankScore": 82.74
+    "rankScore": 78.48
   },
   {
     "id": "gn-6b2b4841d003ca3a",
@@ -4381,7 +5678,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 78.86
+    "rankScore": 74.6
   },
   {
     "id": "gn-d4fd829e5ce78b36",
@@ -4405,7 +5702,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 82.1
+    "rankScore": 77.86
   },
   {
     "id": "gn-6457775024a11273",
@@ -4430,7 +5727,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 83.72
+    "rankScore": 79.48
   },
   {
     "id": "gn-970c44be3458341b",
@@ -4454,7 +5751,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 78.76
+    "rankScore": 74.53
   },
   {
     "id": "gn-f1c8ef71dc42e6cf",
@@ -4477,7 +5774,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.84
+    "rankScore": 75.61
   },
   {
     "id": "gn-10563b4076b1cd53",
@@ -4502,7 +5799,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 80.93
+    "rankScore": 76.71
   },
   {
     "id": "gn-8ad74db3ac730ecc",
@@ -4550,7 +5847,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.78
+    "rankScore": 75.57
   },
   {
     "id": "gn-def1acf2003587e3",
@@ -4573,7 +5870,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.76
+    "rankScore": 75.55
   },
   {
     "id": "gn-122682f064c9f7c6",
@@ -4598,7 +5895,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 83.6
+    "rankScore": 79.4
   },
   {
     "id": "gn-1e9b03cbb67bfe99",
@@ -4622,7 +5919,7 @@
       "Technology",
       "Hardware"
     ],
-    "rankScore": 82.5
+    "rankScore": 78.3
   },
   {
     "id": "gn-26eff3ddaf6dd615",
@@ -4646,7 +5943,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.64
+    "rankScore": 74.44
   },
   {
     "id": "gn-93688f2f756a2cb6",
@@ -4670,7 +5967,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 80.82
+    "rankScore": 76.63
   },
   {
     "id": "gn-31d07965a1dd0e1a",
@@ -4694,7 +5991,7 @@
       "Business",
       "Companies"
     ],
-    "rankScore": 79.66
+    "rankScore": 75.48
   },
   {
     "id": "gn-b6e5329e0057798a",
@@ -4717,7 +6014,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.49
+    "rankScore": 79.31
   },
   {
     "id": "gn-aac162c697d713b6",
@@ -4741,7 +6038,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 79.63
+    "rankScore": 75.45
   },
   {
     "id": "gn-b3057c3a49fd9a0c",
@@ -4764,7 +6061,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.47
+    "rankScore": 79.3
   },
   {
     "id": "gn-cd40bcd2e86396e8",
@@ -4789,7 +6086,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.65
+    "rankScore": 76.49
   },
   {
     "id": "gn-7e525732a26ae2dc",
@@ -4814,7 +6111,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 80.59
+    "rankScore": 76.45
   },
   {
     "id": "gn-13248cb548a8e8fe",
@@ -4838,7 +6135,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 78.39
+    "rankScore": 74.25
   },
   {
     "id": "gn-fd6ebc96391f806d",
@@ -4861,7 +6158,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.49
+    "rankScore": 75.35
   },
   {
     "id": "gn-4e9b6abddebf2404",
@@ -4885,7 +6182,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 80.55
+    "rankScore": 76.42
   },
   {
     "id": "gn-1fac9c89dd3c5ce3",
@@ -4909,7 +6206,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 81.09
+    "rankScore": 76.96
   },
   {
     "id": "gn-985dbdde859380f1",
@@ -4935,32 +6232,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.87
-  },
-  {
-    "id": "gn-8ea7bf9a78cd1ecb",
-    "title": "UK children just as likely to have suffered harm on social media despite crackdown",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
-    "publishedAt": "2026-10-23T17:06:04Z",
-    "summary": "Campaigners call lack of progress ‘staggering’, as Ofcom also admits little change in severity of harm to children encountering unsafe content Landmark online safety measures have failed to limit the proportion of children suffering harm...",
-    "author": "Robert Booth UK technology editor",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 83.21
+    "rankScore": 74.75
   },
   {
     "id": "gn-22be6e8b738fb27f",
@@ -5008,7 +6280,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 78.76
+    "rankScore": 74.67
   },
   {
     "id": "gn-8bbc3c854bc3b998",
@@ -5032,7 +6304,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.23
+    "rankScore": 75.15
   },
   {
     "id": "gn-6facbbfe7120b885",
@@ -5104,31 +6376,7 @@
       "Technology",
       "Gadgets"
     ],
-    "rankScore": 80.84
-  },
-  {
-    "id": "gn-c1f8ed49fab77d9a",
-    "title": "Put the last cell tower in orbit",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/opinion/technology/6167117-closing-america-5g-gaps/",
-    "publishedAt": "2026-10-23T17:00:00Z",
-    "summary": "The FCC should utilize its $9 billion 5G Fund to subsidize direct-to-device satellite service in areas where traditional cell tower construction is impractical.",
-    "author": "Blair Levin and Larry Downes, opinion contributors",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "science",
-    "subcategory": "space",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Science",
-      "Space"
-    ],
-    "rankScore": 78.63
+    "rankScore": 76.77
   },
   {
     "id": "gn-6022cfff0fbc6181",
@@ -5153,7 +6401,31 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.63
+    "rankScore": 74.57
+  },
+  {
+    "id": "gn-c1f8ed49fab77d9a",
+    "title": "Put the last cell tower in orbit",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/opinion/technology/6167117-closing-america-5g-gaps/",
+    "publishedAt": "2026-10-23T17:00:00Z",
+    "summary": "The FCC should utilize its $9 billion 5G Fund to subsidize direct-to-device satellite service in areas where traditional cell tower construction is impractical.",
+    "author": "Blair Levin and Larry Downes, opinion contributors",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "science",
+    "subcategory": "space",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "Science",
+      "Space"
+    ],
+    "rankScore": 74.57
   },
   {
     "id": "gn-5bb29d63d71fee66",
@@ -5178,7 +6450,7 @@
       "Technology",
       "Gadgets"
     ],
-    "rankScore": 80.28
+    "rankScore": 76.22
   },
   {
     "id": "gn-b8d7ade7c52020c7",
@@ -5201,7 +6473,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.17
+    "rankScore": 75.11
   },
   {
     "id": "gn-a93a5fce988fba3a",
@@ -5225,7 +6497,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 81.89
+    "rankScore": 77.83
   },
   {
     "id": "gn-bcd617a77e377e3a",
@@ -5249,7 +6521,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 78.04
+    "rankScore": 73.98
   },
   {
     "id": "gn-f00cde67703a341b",
@@ -5272,7 +6544,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.0
+    "rankScore": 74.98
   },
   {
     "id": "gn-a9526976eeebfbfe",
@@ -5298,7 +6570,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 80.62
+    "rankScore": 76.6
   },
   {
     "id": "gn-a2b878241e81dc83",
@@ -5322,7 +6594,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 78.39
+    "rankScore": 74.39
   },
   {
     "id": "gn-8b0b484a58d8b4ae",
@@ -5346,7 +6618,7 @@
       "Technology",
       "Cybersecurity"
     ],
-    "rankScore": 81.69
+    "rankScore": 77.68
   },
   {
     "id": "gn-e6f84e018dcb4288",
@@ -5370,7 +6642,7 @@
       "Sports",
       "Olympics"
     ],
-    "rankScore": 78.87
+    "rankScore": 74.88
   },
   {
     "id": "gn-1d17155788833fd0",
@@ -5394,7 +6666,7 @@
       "Middle East",
       "World"
     ],
-    "rankScore": 82.68
+    "rankScore": 78.7
   },
   {
     "id": "gn-cf64ff036f7db2bf",
@@ -5417,7 +6689,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.83
+    "rankScore": 74.85
   },
   {
     "id": "gn-415aac29871e19cd",
@@ -5441,7 +6713,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 80.46
+    "rankScore": 76.48
   },
   {
     "id": "gn-7dfc953c5920f7ed",
@@ -5489,7 +6761,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.74
+    "rankScore": 74.78
   },
   {
     "id": "gn-6e4bee59847e2121",
@@ -5512,7 +6784,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.72
+    "rankScore": 74.77
   },
   {
     "id": "gn-370e5ee699c644c5",
@@ -5536,7 +6808,7 @@
       "Health",
       "Public Health"
     ],
-    "rankScore": 78.71
+    "rankScore": 74.76
   },
   {
     "id": "gn-8eaaf6f5a41be316",
@@ -5560,7 +6832,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 78.66
+    "rankScore": 74.72
   },
   {
     "id": "gn-e9022a6674b8f14f",
@@ -5584,7 +6856,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 77.55
+    "rankScore": 73.61
   },
   {
     "id": "gn-f07a457c5be5bb85",
@@ -5632,7 +6904,7 @@
       "Environment",
       "Climate"
     ],
-    "rankScore": 78.61
+    "rankScore": 74.68
   },
   {
     "id": "gn-9ec2e07abb966fd9",
@@ -5656,7 +6928,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 78.6
+    "rankScore": 74.68
   },
   {
     "id": "gn-c5805b03d0752fba",
@@ -5680,7 +6952,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 78.58
+    "rankScore": 74.66
   },
   {
     "id": "gn-9e5e9104ee7b261a",
@@ -5705,7 +6977,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 80.21
+    "rankScore": 76.29
   },
   {
     "id": "gn-20192bdf66d5060c",
@@ -5728,7 +7000,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 80.76
+    "rankScore": 76.84
   },
   {
     "id": "gn-aac60cde9857d8b6",
@@ -5751,7 +7023,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.54
+    "rankScore": 74.63
   },
   {
     "id": "gn-f9d12791eeea4d18",
@@ -5774,7 +7046,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 77.98
+    "rankScore": 74.07
   },
   {
     "id": "gn-ff990a5df3d495c8",
@@ -5873,7 +7145,7 @@
       "Technology",
       "Gadgets"
     ],
-    "rankScore": 80.15
+    "rankScore": 76.25
   },
   {
     "id": "gn-033fbfe7bfe83728",
@@ -5897,7 +7169,7 @@
       "Science",
       "Research"
     ],
-    "rankScore": 80.15
+    "rankScore": 76.25
   },
   {
     "id": "gn-e93d1df4e529f34e",
@@ -5947,7 +7219,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.31
+    "rankScore": 78.42
   },
   {
     "id": "gn-2df7770bf4e1c997",
@@ -5970,7 +7242,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.46
+    "rankScore": 74.57
   },
   {
     "id": "gn-6fa4559ee3ac375d",
@@ -5994,7 +7266,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 81.19
+    "rankScore": 77.3
   },
   {
     "id": "gn-47053f1d3240f7f5",
@@ -6019,7 +7291,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.33
+    "rankScore": 73.44
   },
   {
     "id": "gn-65c89edb6caa3ddb",
@@ -6043,7 +7315,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 78.4
+    "rankScore": 74.53
   },
   {
     "id": "gn-325d4c2058c1afab",
@@ -6067,7 +7339,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 79.45
+    "rankScore": 75.58
   },
   {
     "id": "gn-b177a8911ec91836",
@@ -6092,31 +7364,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.8
-  },
-  {
-    "id": "gn-cca37d744e530aaf",
-    "title": "Thousands of homes without power as Storm Austen hits south-west England",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-    "publishedAt": "2026-10-23T16:30:39Z",
-    "summary": "Dozens of schools in Cornwall also affected as Storm Boelo heads for Scotland, Northern Ireland and north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm...",
-    "author": "Jamie Grierson and Yassin El-Moudden",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "World"
-    ],
-    "rankScore": 82.16
+    "rankScore": 73.93
   },
   {
     "id": "gn-59fd7cc4c9f06c5e",
@@ -6141,7 +7389,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 77.75
+    "rankScore": 73.89
   },
   {
     "id": "gn-fb910f1b57bd7ef8",
@@ -6166,7 +7414,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 78.29
+    "rankScore": 74.44
   },
   {
     "id": "gn-205c60f92e24e46e",
@@ -6262,7 +7510,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.68
+    "rankScore": 73.85
   },
   {
     "id": "gn-21db76db4009a64f",
@@ -6313,7 +7561,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.3
+    "rankScore": 75.47
   },
   {
     "id": "gn-11c24c9640d44052",
@@ -6384,7 +7632,7 @@
       "Science",
       "Biology"
     ],
-    "rankScore": 76.99
+    "rankScore": 73.19
   },
   {
     "id": "gn-4f52a719f7d9e075",
@@ -6481,7 +7729,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 76.83
+    "rankScore": 73.06
   },
   {
     "id": "gn-042d5906ba136c7c",
@@ -6529,7 +7777,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.91
+    "rankScore": 75.17
   },
   {
     "id": "gn-44dd36b0bc691377",
@@ -6555,7 +7803,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 81.6
+    "rankScore": 77.88
   },
   {
     "id": "gn-ef423c5db3e01837",
@@ -6673,7 +7921,7 @@
     "tags": [
       "Business"
     ],
-    "rankScore": 82.01
+    "rankScore": 78.32
   },
   {
     "id": "gn-d5d5e2f6e2904ecf",
@@ -6698,7 +7946,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 76.91
+    "rankScore": 73.25
   },
   {
     "id": "gn-d3bf168d461ecdf3",
@@ -6721,7 +7969,7 @@
     "tags": [
       "Science"
     ],
-    "rankScore": 78.01
+    "rankScore": 74.35
   },
   {
     "id": "gn-a976e672956d53db",
@@ -6790,7 +8038,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.4
+    "rankScore": 78.75
   },
   {
     "id": "gn-b2362c47f09f8f36",
@@ -6814,7 +8062,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 79.09
+    "rankScore": 75.44
   },
   {
     "id": "gn-3dbd62134ea680e5",
@@ -6978,7 +8226,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 78.47
+    "rankScore": 74.83
   },
   {
     "id": "gn-b2b929c5a7bbf689",
@@ -7003,7 +8251,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 78.46
+    "rankScore": 74.83
   },
   {
     "id": "gn-3f571ad482185d07",
@@ -7074,7 +8322,7 @@
       "Health",
       "Public Health"
     ],
-    "rankScore": 76.7
+    "rankScore": 73.09
   },
   {
     "id": "gn-adaa5a881da68c6a",
@@ -7149,7 +8397,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 79.97
+    "rankScore": 76.37
   },
   {
     "id": "gn-b89aa931e175a5a9",
@@ -7173,7 +8421,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 78.8
+    "rankScore": 75.21
   },
   {
     "id": "gn-663ad726719a7239",
@@ -7223,7 +8471,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.55
+    "rankScore": 72.98
   },
   {
     "id": "gn-b87739fbb3b2859e",
@@ -7271,7 +8519,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 75.94
+    "rankScore": 72.38
   },
   {
     "id": "gn-1050495ff580905f",
@@ -7343,7 +8591,7 @@
       "Tesla",
       "World"
     ],
-    "rankScore": 75.87
+    "rankScore": 72.33
   },
   {
     "id": "gn-ee05e4328eed6528",
@@ -7366,7 +8614,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.92
+    "rankScore": 78.37
   },
   {
     "id": "gn-77364fdf554bd455",
@@ -7389,7 +8637,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 76.33
+    "rankScore": 72.81
   },
   {
     "id": "gn-063c49d9794b2967",
@@ -7413,7 +8661,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 76.32
+    "rankScore": 72.8
   },
   {
     "id": "gn-766717041ebfc05f",
@@ -7438,7 +8686,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 81.8
+    "rankScore": 78.29
   },
   {
     "id": "gn-173f90210e801609",
@@ -7489,7 +8737,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.27
+    "rankScore": 72.76
   },
   {
     "id": "gn-b689e14bae67c09e",
@@ -7512,7 +8760,7 @@
     "tags": [
       "Business"
     ],
-    "rankScore": 81.21
+    "rankScore": 77.71
   },
   {
     "id": "gn-2962ea409e26151c",
@@ -7536,7 +8784,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 76.21
+    "rankScore": 72.71
   },
   {
     "id": "gn-f349e0f743aa7b93",
@@ -7560,7 +8808,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 81.64
+    "rankScore": 78.16
   },
   {
     "id": "gn-5655c32a95e2500e",
@@ -7583,7 +8831,7 @@
     "tags": [
       "Culture"
     ],
-    "rankScore": 75.59
+    "rankScore": 72.11
   },
   {
     "id": "gn-5f7bba843c899164",
@@ -7610,7 +8858,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.12
+    "rankScore": 72.65
   },
   {
     "id": "gn-24257eb08dcdecc9",
@@ -7657,7 +8905,7 @@
       "Science",
       "Biology"
     ],
-    "rankScore": 78.18
+    "rankScore": 74.74
   },
   {
     "id": "gn-bda639c58ddb7df7",
@@ -7729,7 +8977,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 81.25
+    "rankScore": 77.86
   },
   {
     "id": "gn-0740ca4aa85fde1d",
@@ -7754,7 +9002,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 75.71
+    "rankScore": 72.33
   },
   {
     "id": "gn-a897eabba19dbb5d",
@@ -7777,7 +9025,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.36
+    "rankScore": 73.97
   },
   {
     "id": "gn-021415b4a07e319a",
@@ -7802,7 +9050,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.69
+    "rankScore": 72.31
   },
   {
     "id": "gn-17326c95bfcc9847",
@@ -7921,7 +9169,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.44
+    "rankScore": 72.11
   },
   {
     "id": "gn-3afed39613a44c4b",
@@ -7947,7 +9195,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 77.02
+    "rankScore": 73.72
   },
   {
     "id": "gn-ec270605f3eb01a7",
@@ -7970,7 +9218,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 75.37
+    "rankScore": 72.06
   },
   {
     "id": "gn-e7d5996d494da63f",
@@ -7995,7 +9243,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 77.02
+    "rankScore": 73.71
   },
   {
     "id": "gn-0de9e3b5d2e834db",
@@ -8019,7 +9267,7 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 75.35
+    "rankScore": 72.05
   },
   {
     "id": "gn-37fcd459a3598588",
@@ -8042,7 +9290,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 75.33
+    "rankScore": 72.03
   },
   {
     "id": "gn-274f388632e0af4e",
@@ -8092,7 +9340,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 75.33
+    "rankScore": 72.03
   },
   {
     "id": "gn-c6843ae2e00f18c9",
@@ -8235,7 +9483,7 @@
       "Technology",
       "Hardware"
     ],
-    "rankScore": 76.91
+    "rankScore": 73.62
   },
   {
     "id": "gn-1c6c89ddb7149fdd",
@@ -8283,7 +9531,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 77.88
+    "rankScore": 74.63
   },
   {
     "id": "gn-8170927b5a91d771",
@@ -8427,7 +9675,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 77.27
+    "rankScore": 74.03
   },
   {
     "id": "gn-0765070343b14bc8",
@@ -8499,7 +9747,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 76.68
+    "rankScore": 73.45
   },
   {
     "id": "gn-6c62e4f7d29309ed",
@@ -8569,7 +9817,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.41
+    "rankScore": 76.18
   },
   {
     "id": "gn-605fd411776b877a",
@@ -8593,7 +9841,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 74.98
+    "rankScore": 71.76
   },
   {
     "id": "gn-51d8b7081881bd21",
@@ -8663,7 +9911,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 76.6
+    "rankScore": 73.39
   },
   {
     "id": "gn-1ad72036cedb9d5e",
@@ -8734,7 +9982,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 77.67
+    "rankScore": 74.47
   },
   {
     "id": "gn-c72bdae75a92c5f8",
@@ -8759,7 +10007,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 76.57
+    "rankScore": 73.36
   },
   {
     "id": "gn-8331b7f71b3cc8ba",
@@ -8948,7 +10196,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.81
+    "rankScore": 71.62
   },
   {
     "id": "gn-3f3c8b9c2f69768c",
@@ -9065,7 +10313,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 74.78
+    "rankScore": 71.6
   },
   {
     "id": "gn-932d553836482e53",
@@ -9089,7 +10337,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 74.22
+    "rankScore": 71.04
   },
   {
     "id": "gn-33f716a7da1679a0",
@@ -9137,7 +10385,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.36
+    "rankScore": 73.2
   },
   {
     "id": "gn-dc75d477b6aad6d1",
@@ -9255,7 +10503,7 @@
       "Science",
       "Research"
     ],
-    "rankScore": 74.66
+    "rankScore": 71.51
   },
   {
     "id": "gn-1a28955ecfc8ddd0",
@@ -9326,7 +10574,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 76.23
+    "rankScore": 73.1
   },
   {
     "id": "gn-b90b011073529890",
@@ -9468,7 +10716,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 76.19
+    "rankScore": 73.07
   },
   {
     "id": "gn-b68d862a4a799615",
@@ -9516,7 +10764,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 76.14
+    "rankScore": 73.02
   },
   {
     "id": "gn-cb5a701ad39b90b7",
@@ -9562,7 +10810,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 76.12
+    "rankScore": 73.01
   },
   {
     "id": "gn-6224b21a00c5c9f7",
@@ -9655,7 +10903,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.9
+    "rankScore": 76.81
   },
   {
     "id": "gn-fcab58c46d1bf0a6",
@@ -9702,7 +10950,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 76.0
+    "rankScore": 72.92
   },
   {
     "id": "gn-488ea35ea6ae8f2b",
@@ -9749,7 +10997,7 @@
       "Health",
       "Public Health"
     ],
-    "rankScore": 77.64
+    "rankScore": 74.56
   },
   {
     "id": "gn-9b43333c4bdb67d4",
@@ -9795,7 +11043,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 74.33
+    "rankScore": 71.25
   },
   {
     "id": "gn-d7c8db6780427e8b",
@@ -9938,7 +11186,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.28
+    "rankScore": 71.21
   },
   {
     "id": "gn-8876b55fca28d77f",
@@ -9961,7 +11209,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 76.99
+    "rankScore": 73.93
   },
   {
     "id": "gn-c72ef1b183212776",
@@ -10031,7 +11279,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 76.95
+    "rankScore": 73.9
   },
   {
     "id": "gn-a9bfdd8bf124ceca",
@@ -10104,7 +11352,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 74.16
+    "rankScore": 71.12
   },
   {
     "id": "gn-d27d6ce661e8e015",
@@ -10128,7 +11376,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.15
+    "rankScore": 71.11
   },
   {
     "id": "gn-cdf6cbd8518d58ee",
@@ -10153,7 +11401,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.12
+    "rankScore": 71.08
   },
   {
     "id": "gn-c7f90f8fd4e75c84",
@@ -10222,7 +11470,7 @@
     "tags": [
       "Health"
     ],
-    "rankScore": 76.25
+    "rankScore": 73.23
   },
   {
     "id": "gn-dfd1eea3dd312463",
@@ -10317,7 +11565,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 75.67
+    "rankScore": 72.66
   },
   {
     "id": "gn-f2d8023b87443249",
@@ -10342,7 +11590,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 78.39
+    "rankScore": 75.39
   },
   {
     "id": "gn-cd4a2efb21a6936c",
@@ -10367,7 +11615,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 75.64
+    "rankScore": 72.63
   },
   {
     "id": "gn-60e5693bc54122a0",
@@ -10392,7 +11640,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.64
+    "rankScore": 72.63
   },
   {
     "id": "gn-21357bdaac502892",
@@ -10416,7 +11664,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.18
+    "rankScore": 73.18
   },
   {
     "id": "gn-ca80ebc1cabf49d7",
@@ -10440,7 +11688,7 @@
       "Health",
       "Medicine"
     ],
-    "rankScore": 73.98
+    "rankScore": 70.98
   },
   {
     "id": "gn-1ef81533e94a514e",
@@ -10464,7 +11712,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 75.08
+    "rankScore": 72.08
   },
   {
     "id": "gn-9841a6fd366727bf",
@@ -10513,7 +11761,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 75.61
+    "rankScore": 72.61
   },
   {
     "id": "gn-d118b0f8377dc4de",
@@ -10564,7 +11812,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 75.6
+    "rankScore": 72.6
   },
   {
     "id": "gn-9c084dd0b37d4063",
@@ -10588,7 +11836,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 76.67
+    "rankScore": 73.68
   },
   {
     "id": "gn-40bd1140205dc2a7",
@@ -10612,7 +11860,7 @@
       "Health",
       "Public Health"
     ],
-    "rankScore": 78.32
+    "rankScore": 75.33
   },
   {
     "id": "gn-e47d4eb7e179a52f",
@@ -10636,7 +11884,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 75.54
+    "rankScore": 72.55
   },
   {
     "id": "gn-bbe2305d1789d225",
@@ -10659,7 +11907,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 76.64
+    "rankScore": 73.65
   },
   {
     "id": "gn-919be41a465d9d8d",
@@ -10682,7 +11930,7 @@
     "tags": [
       "Culture"
     ],
-    "rankScore": 73.87
+    "rankScore": 70.89
   },
   {
     "id": "gn-f3ad1e6cb1b24a3d",
@@ -10706,7 +11954,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 76.58
+    "rankScore": 73.61
   },
   {
     "id": "gn-4ccb42bc81a8c9fa",
@@ -10753,7 +12001,7 @@
     "tags": [
       "Science"
     ],
-    "rankScore": 75.43
+    "rankScore": 72.47
   },
   {
     "id": "gn-fd97a861f017313a",
@@ -10777,1246 +12025,5 @@
       "World"
     ],
     "rankScore": 82.01
-  },
-  {
-    "id": "gn-3868ac2fa2ed9604",
-    "title": "Meghan Markle ‘deeply distressed’ over claims her father had child abuse images",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/uk/meghan-markle-deeply-distressed-over-claims-her-father-had-child-abuse-images/articleshow/135147854.cms",
-    "publishedAt": "2026-10-23T13:49:15Z",
-    "summary": "",
-    "author": "Aashish Vashistha",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 78.13
-  },
-  {
-    "id": "gn-0616e6cd6dbb25db",
-    "title": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/sport/mourinho-seeks-real-madrid-turning-point-in-clasico-full-new-faces-6486846",
-    "publishedAt": "2026-10-23T13:48:56Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "football",
-    "region": "Europe",
-    "country": "Madrid",
-    "tags": [
-      "Sports",
-      "Football"
-    ],
-    "rankScore": 89.58
-  },
-  {
-    "id": "gn-f1d62f17ccb1d474",
-    "title": "Attappady students bring warmth to 30 elderly people ahead of winter",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/kerala//article71612383.ece",
-    "publishedAt": "2026-10-23T13:48:53Z",
-    "summary": "Programme aims at teaching children compassion and respect for senior citizens",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 89.03
-  },
-  {
-    "id": "gn-8d1c7597bd19ee5f",
-    "title": "One person killed in deadly shooting in Paris suburbs",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/one-person-killed-in-deadly-shooting-in-paris-suburbs/",
-    "publishedAt": "2026-10-23T13:48:46Z",
-    "summary": "One person was killed and four others were seriously wounded when gunshots were fired from a vehicle in a Parisian suburb on Friday, French authorities said.",
-    "author": "editorial@africanews.com (Rédaction Africanews)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "books",
-    "region": "Europe",
-    "country": "French",
-    "tags": [
-      "Culture",
-      "Books"
-    ],
-    "rankScore": 73.74
-  },
-  {
-    "id": "gn-32fa8531a59705ac",
-    "title": "IMA to set up ‘School Health Brigade’",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/ima-to-set-up-school-health-brigade/article71616051.ece",
-    "publishedAt": "2026-10-23T13:48:33Z",
-    "summary": "To promote healthy habits among students",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 89.01
-  },
-  {
-    "id": "gn-4f37b0bf07d2af91",
-    "title": "Proud Kakinada is at the heart of India’s return to making Penicillin, says Andhra HRD Minister Nara Lokesh",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/proud-kakinada-is-at-the-heart-of-indias-return-to-making-penicillin-says-andhra-hrd-minister-nara-lokesh/article71615985.ece",
-    "publishedAt": "2026-10-23T13:47:35Z",
-    "summary": "Lyfius Pharma Private Limited's facility in Kakinada SEZ is helping India cut its dependence on imported raw materials for essential antibiotics, the Minister says in a social media post",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "health",
-    "subcategory": "medicine",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Health",
-      "Medicine"
-    ],
-    "rankScore": 88.96
-  },
-  {
-    "id": "gn-af0db1a8fc0a66e0",
-    "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-    "publishedAt": "2026-10-23T13:47:30Z",
-    "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party...",
-    "author": "Harry Taylor (now and earlier) and Martin Belam (earlier)",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "World"
-    ],
-    "rankScore": 92.8
-  },
-  {
-    "id": "gn-f74eb0ed3f2a30d9",
-    "title": "Storm Austen batters France and UK with winds of up to 160 km/h",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh/",
-    "publishedAt": "2026-10-23T13:46:31Z",
-    "summary": "Huge waves, uprooted trees and damaged boats mark Storm Austen's arrival in France and the UK. Gusts of up to 160 km/h have battered Brittany, while fallen branches have blocked roads in southern England.",
-    "author": "editorial@africanews.com (Alexis Caraco)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "World"
-    ],
-    "rankScore": 73.69
-  },
-  {
-    "id": "gn-2abbd319d53e03c7",
-    "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:46:12Z",
-    "summary": "Paris Saint-Germain's game has been postponed following a request by police amid a wave of violent protests in France.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 81.89
-  },
-  {
-    "id": "gn-6e4889ea0ffa8b10",
-    "title": "SC panel urged to visit mining-hit areas, submit report in court",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/karnataka/sc-panel-urged-to-visit-mining-hit-areas-submit-report-in-court/article71615919.ece",
-    "publishedAt": "2026-10-23T13:45:48Z",
-    "summary": "SPS says the panel should visit Bheemasamudra in Chitradurga district and Narasapur in Ballari district to assess the impact of mining",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 88.87
-  },
-  {
-    "id": "gn-d030dd1e1217cb42",
-    "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:45:21Z",
-    "summary": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Africa",
-    "country": "Kenya",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 81.86
-  },
-  {
-    "id": "gn-9e605b0dd6443656",
-    "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
-    "source": "STAT News",
-    "sourceId": "stat-news",
-    "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
-    "publishedAt": "2026-10-23T13:45:14Z",
-    "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
-    "author": "Ed Silverman",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "health",
-    "priority": 90,
-    "language": "en",
-    "category": "health",
-    "subcategory": "medicine",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Health",
-      "Medicine"
-    ],
-    "rankScore": 75.86
-  },
-  {
-    "id": "gn-9cd81aca3c5bcde4",
-    "title": "Pix of the Day, 23rd October, 2026 - Across the world",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/pix-of-the-day-23rd-october-2026-across-the-world/",
-    "publishedAt": "2026-10-23T13:43:42Z",
-    "summary": "Pix of the Day, 23rd October, 2026 - Across the world",
-    "author": "editorial@africanews.com (Rédaction Africanews)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Africa",
-    "country": "Congo",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 73.63
-  },
-  {
-    "id": "gn-1854e1d61982ed62",
-    "title": "Carrick accepts blame for United slump, backs himself to turn things around",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/sport/carrick-accepts-blame-united-slump-backs-himself-turn-things-around-6486816",
-    "publishedAt": "2026-10-23T13:43:27Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 89.29
-  },
-  {
-    "id": "gn-69c0b58cef864092",
-    "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-    "source": "Ars Technica",
-    "sourceId": "ars-technica",
-    "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-    "publishedAt": "2026-10-23T13:43:21Z",
-    "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
-    "author": "Jamie Smyth",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 92,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "film",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Culture",
-      "Film"
-    ],
-    "rankScore": 76.92
-  },
-  {
-    "id": "gn-08dd5080b226c8c5",
-    "title": "Two held with suspected MDMA in Kozhikode",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/kerala/two-held-with-suspected-mdma-in-kozhikode/article71616231.ece",
-    "publishedAt": "2026-10-23T13:40:57Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 88.62
-  },
-  {
-    "id": "gn-bf5dd977c35c494f",
-    "title": "URA tells owners to avoid hiring lift company at centre of fire safety probe",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371969/ura-tells-owners-avoid-hiring-lift-company-centre-fire-safety-probe",
-    "publishedAt": "2026-10-23T13:40:46Z",
-    "summary": "Hong Kong’s Urban Renewal Authority has advised property owners under a subsidy scheme against hiring a contractor that failed to install fire safety components in lifts at hundreds of buildings, saying it had “lost confidence” in the...",
-    "author": "Vivian Au",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "film",
-    "region": "Asia",
-    "country": "Hong Kong",
-    "tags": [
-      "Culture",
-      "Film"
-    ],
-    "rankScore": 75.22
-  },
-  {
-    "id": "gn-a1996ce36eecd358",
-    "title": "Mysuru among 17 cities selected for street food hub as part of PM SVANidhi",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/karnataka/mysuru-among-17-cities-selected-for-street-food-hub-as-part-of-pm-svanidhi/article71615635.ece",
-    "publishedAt": "2026-10-23T13:39:59Z",
-    "summary": "The initiative by the Union Ministry of Housing and Urban Affairs seeks to provide organised spaces for street food vendors, improve food safety and hygiene, and offer better facilities to customers",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "science",
-    "subcategory": "space",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Science",
-      "Space"
-    ],
-    "rankScore": 88.57
-  },
-  {
-    "id": "gn-6f864c86d52914e7",
-    "title": "MHA terms information about committee on demography changes as “confidential”",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/telangana/mha-terms-information-about-committee-on-demography-changes-as-confidential/article71615772.ece",
-    "publishedAt": "2026-10-23T13:39:54Z",
-    "summary": "RTI applicant maintains information sought was basic; says it important to know whether there is any connection between the demographic committee and SIR",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 88.56
-  },
-  {
-    "id": "gn-733f6491981e5ca5",
-    "title": "Trump and Vance back Ramaswamy despite campaign fiasco that could damage Republicans",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/trump-and-vance-back-ramaswamy-despite-campaign-fiasco-that-could-damage-gop-beyond-ohio/articleshow/135147550.cms",
-    "publishedAt": "2026-10-23T13:39:44Z",
-    "summary": "",
-    "author": "Chidanand Rajghatta",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 87.45
-  },
-  {
-    "id": "gn-84a3dfec5d3d1386",
-    "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:39:06Z",
-    "summary": "White House says 'localised' ceasefire to take effect, as Russia and Ukraine say timing being determined.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Europe",
-    "country": "Ukraine",
-    "tags": [
-      "Donald Trump",
-      "Ukraine",
-      "Russia",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 81.67
-  },
-  {
-    "id": "gn-17389597703bbd59",
-    "title": "YSRCP alleges police assault on former Minister Vidadala Rajini",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-alleges-police-assault-on-former-minister-vidadala-rajini/article71615845.ece",
-    "publishedAt": "2026-10-23T13:38:46Z",
-    "summary": "The party alleges that the Chilakaluripet Rural Sub-Inspector pushed Ms. Rajini to the ground during an incident at her residence",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 88.5
-  },
-  {
-    "id": "gn-eeb43ec5645002e3",
-    "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/business/meta-delay-new-commercial-terms-criticised-publishers-advertisers-6486806",
-    "publishedAt": "2026-10-23T13:37:48Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "software",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "Meta",
-      "Technology",
-      "Software"
-    ],
-    "rankScore": 89.01
-  },
-  {
-    "id": "gn-16cd33c15351678c",
-    "title": "Tigray is still at war, rebel leader warns, claiming tactical victories",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/",
-    "publishedAt": "2026-10-23T13:37:38Z",
-    "summary": "The leader of Ethiopia’s rebel Tigray People’s Liberation Front says the northern state is still at war. In a message aired on Tigrayan television on Wednesday, Debretsion Gebremichael said the TPLF is continuing to fight federal forces in...",
-    "author": "editorial@africanews.com (Rédaction Africanews)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Africa",
-    "country": "Ethiopia",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 73.5
-  },
-  {
-    "id": "gn-ce552d30e080059c",
-    "title": "A half-time scorecard for Trump-world",
-    "source": "Financial Times",
-    "sourceId": "financial-times",
-    "url": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
-    "publishedAt": "2026-10-23T13:32:54Z",
-    "summary": "Monetising America has pleased tycoons but not citizens",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "business",
-    "priority": 95,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 78.35
-  },
-  {
-    "id": "gn-f60991a241b2f584",
-    "title": "Gunmen open fire at church in Jordan, killing several people",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:32:40Z",
-    "summary": "Survivors say two masked men began shooting as dozens attended a funeral procession.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Middle East",
-    "country": "Jordan",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 90.95
-  },
-  {
-    "id": "gn-0e62a4b58f9fb1af",
-    "title": "John Barrasso to campaign with Ken Paxton",
-    "source": "Politico",
-    "sourceId": "politico",
-    "url": "https://www.politico.com/live-updates/2026/10/23/congress/john-barrasso-ken-paxton-01133635",
-    "publishedAt": "2026-10-23T13:32:10Z",
-    "summary": "He’s the most senior Senate Republican to hit the trail with the embattled Texas candidate.",
-    "author": "By Jordain Carney",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 90,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Americas",
-    "country": "Senate",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 75.59
-  },
-  {
-    "id": "gn-6b2863783d9a528f",
-    "title": "Russia, Ukraine and the US set for November peace talks",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/russia-ukraine-and-the-us-set-for-november-peace-talks/",
-    "publishedAt": "2026-10-23T13:30:44Z",
-    "summary": "Talks between Russia, Ukraine and the United States are planned to resume in November in the United Arab Emirates, Kremlin spokesman Dmitry Peskov said Friday.",
-    "author": "editorial@africanews.com (Rédaction Africanews)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "diplomacy",
-    "region": "Europe",
-    "country": "Ukraine",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "Politics",
-      "Diplomacy"
-    ],
-    "rankScore": 73.36
-  },
-  {
-    "id": "gn-175cf6486f0596a9",
-    "title": "Laura Loomer releases videos from Ukraine, says US must help",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/6167683-laura-loomer-releases-videos-from-ukraine-says-us-must-help/",
-    "publishedAt": "2026-10-23T13:30:36Z",
-    "summary": "Loomer shared the video first with NewsNation, along with what she's been told about munitions levels in the US, advice the president is getting, and what Ukraine needs.",
-    "author": "Jackie Koppell",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Ukraine",
-    "tags": [
-      "Ukraine",
-      "Politics"
-    ],
-    "rankScore": 73.35
-  },
-  {
-    "id": "gn-e67d79704d3f9a14",
-    "title": "Congress should reassert its role in trade policy after the midterms",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/opinion/congress-blog/foreign-policy/6165896-trump-tariffs-midterm-voters/",
-    "publishedAt": "2026-10-23T13:30:00Z",
-    "summary": "Along with higher oil prices associated with the Iran war, Trump’s tariffs are highly unpopular with the electorate.",
-    "author": "Nicholas Sargen, opinion contributor",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Middle East",
-    "country": "Iran",
-    "tags": [
-      "Donald Trump",
-      "Middle East",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 73.34
-  },
-  {
-    "id": "gn-8aee8a7b5827af3c",
-    "title": "German detectorist’s 15 coins lead to record Roman silver hoard of 934 denarii",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/science/archaeology/a-german-metal-detectorist-stopped-digging-after-finding-15-silver-coins-and-called-archaeologists-who-then-recovered-934-roman-denarii-near-cologne-the-largest-hoard-from-emperor-hadrians-era-ever-found-in-germany/articleshow/135144089.cms",
-    "publishedAt": "2026-10-23T13:30:00Z",
-    "summary": "",
-    "author": "TOI Science Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "German",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 86.96
-  },
-  {
-    "id": "gn-0f29392cf4789c7e",
-    "title": "Any shake-up of the P1 registration system would entail bold and difficult changes. Would parents be ready for it?",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/cna-insider/big-read/p1-registration-shake-up-priority-parents-6481641",
-    "publishedAt": "2026-10-23T13:30:00Z",
-    "summary": "Recent tweaks to the Primary 1 registration exercise have revived a debate over whether the system could be made even fairer and further encourage social mixing. CNA takes a look at what bolder reforms could look like – and why they are...",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 88.61
-  },
-  {
-    "id": "gn-d8f56f442391ce07",
-    "title": "What 20 years of working with jade taught me about the changing Singaporean family",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/cna-insider/voices/jade-jewellery-choo-yilin-heirlooms-inheritance-6458231",
-    "publishedAt": "2026-10-23T13:30:00Z",
-    "summary": "Younger Singaporeans are changing what it means to receive something from the generations before them, says jewellery designer Choo Yilin.",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 88.61
-  },
-  {
-    "id": "gn-cfb19f889fcc518d",
-    "title": "Netanyahu threatens ‘aggressive’ offensive after West Bank shooting",
-    "source": "Financial Times",
-    "sourceId": "financial-times",
-    "url": "https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1",
-    "publishedAt": "2026-10-23T13:29:29Z",
-    "summary": "Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "business",
-    "priority": 95,
-    "language": "en",
-    "category": "business",
-    "subcategory": "banking",
-    "region": "Middle East",
-    "country": "Israel",
-    "tags": [
-      "Middle East",
-      "Business",
-      "Banking"
-    ],
-    "rankScore": 92.44
-  },
-  {
-    "id": "gn-a7181ea8d6ebf3a1",
-    "title": "French league moves PSG-Lyon clash as Paris braces for fresh protests",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/sport/french-league-moves-psg-lyon-clash-paris-braces-fresh-protests-6486796",
-    "publishedAt": "2026-10-23T13:29:12Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Europe",
-    "country": "French",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 88.57
-  },
-  {
-    "id": "gn-bd921086dd6c8db8",
-    "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:25:58Z",
-    "summary": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group's 'terrorist' proscription.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Europe",
-    "country": "London",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 90.61
-  },
-  {
-    "id": "gn-7ff6541f4130c77e",
-    "title": "France deploys 70,000 police, shuts Paris museums ahead of protests",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/10/23/france-deploys-70000-police-shuts-paris-museums-ahead-of-protests/",
-    "publishedAt": "2026-10-23T13:25:51Z",
-    "summary": "Some 70,000 law enforcement officers will be deployed across France on Saturday while the Louvre and several other major Paris museums will be closed as authorities seek to prevent renewed violence during planned protests.",
-    "author": "editorial@africanews.com (Rédaction Africanews)",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "art",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "Culture",
-      "Art"
-    ],
-    "rankScore": 73.25
-  },
-  {
-    "id": "gn-a15f17344dc127e8",
-    "title": "What Indonesia’s warnings of energy cuts mean for Asean",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/week-asia/economics/article/3371967/what-indonesias-warnings-energy-cuts-mean-asean",
-    "publishedAt": "2026-10-23T13:22:20Z",
-    "summary": "Indonesia’s warnings of curbing energy exports to countries it deems disrespectful amid regional tensions have put Singapore and other Southeast Asian buyers on notice, exposing the risks of relying on a neighbour increasingly protective...",
-    "author": "Kolette Lim",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Asia",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 74.83
-  },
-  {
-    "id": "gn-222e3ff88ce42a98",
-    "title": "Major protests in France: \"There is a frustration that has accumulated\"",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
-    "publishedAt": "2026-10-23T13:20:48Z",
-    "summary": "French President Emmanuel Macron is set to meet with high school pupils whose protests over school conditions have sparked a broader movement. Details by Philippe Moreau-Chevrolet, communication specialist and teacher at Sciences Po.",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "european politics",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "Politics",
-      "European Politics"
-    ],
-    "rankScore": 74.8
-  },
-  {
-    "id": "gn-e767ff4a7cd494f9",
-    "title": "Musk midterm spending tops $442M",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/campaign/6167594-elon-musk-midterm-spending/",
-    "publishedAt": "2026-10-23T13:20:13Z",
-    "summary": "Tech mogul Elon Musk has spent more than $442 million in the midterm elections, after pouring another $76.8 million into his super PAC over the past month, campaign finance filings show. America PAC, which Musk launched during the 2024...",
-    "author": "Julia Shapero",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Tesla",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 73.14
-  },
-  {
-    "id": "gn-1b9021d59d99f5b3",
-    "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:19:19Z",
-    "summary": "Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday's protests ​are expected.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Paris",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 90.29
-  },
-  {
-    "id": "gn-0531239075b9bcd4",
-    "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:17:46Z",
-    "summary": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 90.21
-  },
-  {
-    "id": "gn-59b8f31e85707d27",
-    "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:17:18Z",
-    "summary": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Ukraine",
-    "tags": [
-      "Ukraine",
-      "Russia",
-      "World"
-    ],
-    "rankScore": 90.19
-  },
-  {
-    "id": "gn-7aa018b44757c4fd",
-    "title": "Navigate360 says hackers accessed system, potentially exposed sensitive personal data",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/business/navigate360-says-hackers-accessed-system-potentially-exposed-sensitive-personal-data-6486731",
-    "publishedAt": "2026-10-23T13:16:37Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "cybersecurity",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "Technology",
-      "Cybersecurity"
-    ],
-    "rankScore": 87.96
-  },
-  {
-    "id": "gn-d80681a77178ebf2",
-    "title": "France students' unrest: 70,000 police deployed, museums closed ahead of fresh weekend protests",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/europe/france-students-unrest-70000-police-deployed-paris-museums-closed-ahead-of-fresh-weekend-protests/articleshow/135146267.cms",
-    "publishedAt": "2026-10-23T13:13:39Z",
-    "summary": "",
-    "author": "Karan Manral",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "art",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "Culture",
-      "Art"
-    ],
-    "rankScore": 86.16
-  },
-  {
-    "id": "gn-e0ff891c715c0292",
-    "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
-    "publishedAt": "2026-10-23T13:12:36Z",
-    "summary": "One of world football's biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga's El Clasico.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "football",
-    "region": "Europe",
-    "country": "Madrid",
-    "tags": [
-      "Sports",
-      "Football"
-    ],
-    "rankScore": 89.96
-  },
-  {
-    "id": "gn-ef94e5636e0763ad",
-    "title": "'Spiralling situation': Political paralysis deepening France's socioeconomic crisis",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/france-awaits-moody-s-verdict-downgrade-widely-expected-as-debt-fears-grow",
-    "publishedAt": "2026-10-23T13:10:24Z",
-    "summary": "France's deepening fiscal crisis is testing the sustainability of current sociopolitical and economic policy. For Oliver Davies, Professor and Head of the Department of French at University College Cork, the crisis is not simply the...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 74.59
-  },
-  {
-    "id": "gn-acbd5245b37e9d25",
-    "title": "NEA issues notices to 10 Singapore-based firms for first time under haze law",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/singapore/nea-haze-notices-companies-transboundary-pollution-6486086",
-    "publishedAt": "2026-10-23T13:09:00Z",
-    "summary": "The notices are an important next step in establishing the facts and gathering the evidence to determine whether companies have contributed to the haze, says Minister for Sustainability and the Environment Grace Fu.",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 87.59
-  },
-  {
-    "id": "gn-d44c08a261f2b529",
-    "title": "Met police searching for suspect after man shot near Royal Artillery barracks",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
-    "publishedAt": "2026-10-23T13:08:56Z",
-    "summary": "Victim left with life-threatening injuries after incident in Frances Street, Woolwich, south-east London Police are searching for a suspect after a man was shot near the Royal Artillery barracks in south-east London. The victim has been...",
-    "author": "Rachel Hall",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "London",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 90.89
-  },
-  {
-    "id": "gn-ccae2a13b3127ee4",
-    "title": "Conte says no advanced talks with Man United as Carrick's future hangs in balance",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/sport/conte-says-no-advanced-talks-man-united-carricks-future-hangs-in-balance-6486696",
-    "publishedAt": "2026-10-23T13:08:21Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 87.56
-  },
-  {
-    "id": "gn-d3c689c64f88c0a5",
-    "title": "Hong Kong Legco to review tighter rules on access to land records amid concerns",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/hong-kong/society/article/3371956/hong-kong-legco-review-tighter-rules-access-land-records-amid-concerns",
-    "publishedAt": "2026-10-23T13:05:36Z",
-    "summary": "Hong Kong’s legislature will set up a subcommittee to examine proposed restrictions on access to land records following widespread public concern. At a Legislative Council House Committee meeting on Friday, lawmakers endorsed establishing...",
-    "author": "Vivian Au",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "science",
-    "subcategory": "physics",
-    "region": "Asia",
-    "country": "Hong Kong",
-    "tags": [
-      "Science",
-      "Physics"
-    ],
-    "rankScore": 74.49
-  },
-  {
-    "id": "gn-d00de23e7c0eabbd",
-    "title": "November visa bulletin 2026: What Indian Green Card applicants must know about cut-off dates",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/november-visa-bulletin-2026-what-indian-green-card-applicants-must-know-about-cut-off-dates/articleshow/135146681.cms",
-    "publishedAt": "2026-10-23T13:04:02Z",
-    "summary": "",
-    "author": "Poulomi Ghosh",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 85.71
   }
 ]
