@@ -1,5 +1,1286 @@
 [
   {
+    "id": "gn-1678cc8184b5efb8",
+    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T01:45:42Z",
+    "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Senate",
+    "tags": [
+      "Public Health",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 97.41
+  },
+  {
+    "id": "gn-bcba6cdf413be8e8",
+    "title": "Heat director Michael Mann accidentally shoots self at gun range",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3372914/heat-director-michael-mann-accidentally-shoots-self-gun-range",
+    "publishedAt": "2026-11-02T01:39:55Z",
+    "summary": "Michael Mann, the acclaimed director of crime classics Heat and Collateral, accidentally shot himself at a gun range in Los Angeles, resulting in minor injuries, a statement released on Sunday said. “On Saturday, at a gun range, a weapon...",
+    "author": "Agence France-Presse",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "film",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "tags": [
+      "Culture",
+      "Film"
+    ],
+    "rankScore": 93.21
+  },
+  {
+    "id": "gn-7119d65eae7ab255",
+    "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+    "publishedAt": "2026-11-02T01:36:43Z",
+    "summary": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Middle East",
+    "country": "Israel",
+    "tags": [
+      "Middle East",
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 96.32
+  },
+  {
+    "id": "gn-61aa343316ea7ce1",
+    "title": "‘Murasu’ strengthens into Severe Cyclonic Storm",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-live-updates-november-2-2026/article71655112.ece",
+    "publishedAt": "2026-11-02T01:31:41Z",
+    "summary": "The system may continue to move northwestwards and cross south Andhra Pradesh coast",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 91.62
+  },
+  {
+    "id": "gn-549c85b78fdcc2a7",
+    "title": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+    "publishedAt": "2026-11-02T01:31:21Z",
+    "summary": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 94.35
+  },
+  {
+    "id": "gn-aa098afe525582c9",
+    "title": "Why reforms alone won’t prevent a repeat of Tai Po fire",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372734/why-reforms-alone-wont-prevent-repeat-tai-po-fire",
+    "publishedAt": "2026-11-02T01:30:09Z",
+    "summary": "In the end, it was Winnie Ho Wing-yin, housing secretary at the time of the Wang Fuk Court fire in Tai Po, who took the rap. Her resignation came after weeks of talk within political circles suggesting that bureau chiefs would not have to...",
+    "author": "Alice Wu",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "tags": [
+      "Public Health",
+      "Health"
+    ],
+    "rankScore": 92.63
+  },
+  {
+    "id": "gn-7f477e52d97ed4a8",
+    "title": "Cyclone Murasu LIVE updates: System intensifies into 'Severe Cyclonic Storm', moves towards south Andhra Pradesh",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
+    "publishedAt": "2026-11-02T01:27:10Z",
+    "summary": "Chennai and Tiruvallur District Collectors have announced that schools and colleges will be closed on Monday",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 91.35
+  },
+  {
+    "id": "gn-72d8f4fc62ea601a",
+    "title": "Cyclone Murasu: Holiday for schools and colleges in Chennai and Tiruvallur",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-tamil-nadu-schools-colleges-holiday-chennai-november-2/article71655116.ece",
+    "publishedAt": "2026-11-02T01:26:43Z",
+    "summary": "Chennai and Tiruvallur District Collectors have announced that schools and colleges in the districts will be closed on November 2 because of heavy rain",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 91.33
+  },
+  {
+    "id": "gn-62de9aa7a0493c6f",
+    "title": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
+    "publishedAt": "2026-11-02T01:26:34Z",
+    "summary": "Isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall on Monday, November 2; Chennai District Collector S. Malathi Helen announced holiday for schools on account of heavy...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 91.32
+  },
+  {
+    "id": "gn-d8ad03f8a0c710aa",
+    "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
+    "publishedAt": "2026-11-02T01:25:00Z",
+    "summary": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 93.98
+  },
+  {
+    "id": "gn-5941cb5e28591416",
+    "title": "Newsom on Stevens: Obviously it’s ‘sub-optimal’",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/homenews/campaign/6187568-gavin-newsom-haley-stevens-sub-optimal/",
+    "publishedAt": "2026-11-02T01:24:49Z",
+    "summary": "California Gov. Gavin Newsom (D) on Sunday said Rep. Haley Stevens’s (D-Mich.) endorsement of Michigan Senate candidate Mike Rogers (R) over Democrat Abdul El-Sayed was “sub-optimal.” Newsom spoke on “Decision Desk ’26 Midterm Preview” for...",
+    "author": "Ryan Mancini",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Senate",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 90.67
+  },
+  {
+    "id": "gn-3b5752277739282b",
+    "title": "Telangana CM Revanth Reddy likens PM Modi to ‘Ravana’ and Congress to ‘Vanara Sena’",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece",
+    "publishedAt": "2026-11-02T01:21:01Z",
+    "summary": "Revanth Reddy likening PM Narendra Modi to Ravana, highlighted Congress cadre as ‘Vanara Sena’ as INDIA bloc stages protest against alleged SIR irregularities",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 91.0
+  },
+  {
+    "id": "gn-083a045e3724b0bf",
+    "title": "Ukraine suspects nationwide air raid alert app has been hacked",
+    "source": "France 24",
+    "sourceId": "france24",
+    "url": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+    "publishedAt": "2026-11-02T01:20:44Z",
+    "summary": "Ukraine's air force said on Sunday that its nationwide air raid alert application had probably been hacked, warning that threat notifications no longer reflected the situation on the ground. The suspected interference came just minutes...",
+    "author": "FRANCE 24",
+    "sourceRegion": "Europe",
+    "sourceCountry": "France",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Europe",
+    "country": "Ukraine",
+    "tags": [
+      "Ukraine",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 92.08
+  },
+  {
+    "id": "gn-6d758e924861a5c3",
+    "title": "‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece",
+    "publishedAt": "2026-11-02T01:20:10Z",
+    "summary": "Citizens, youth groups, farmers and political party workers gather ahead of the Ramlila Maidan rally, saying a united movement is needed to fight alleged vote theft and electoral roll irregularities",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "business",
+    "subcategory": "markets",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Business",
+      "Markets"
+    ],
+    "rankScore": 90.95
+  },
+  {
+    "id": "gn-db851783df859c1e",
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T01:18:27Z",
+    "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Europe",
+    "country": "Ukraine",
+    "tags": [
+      "Ukraine",
+      "Russia",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 95.8
+  },
+  {
+    "id": "gn-aabfa2d089b29b78",
+    "title": "Binance users withdraw $3.6bn after record crypto hack",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T01:15:25Z",
+    "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "crypto",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Technology",
+      "Crypto"
+    ],
+    "rankScore": 95.63
+  },
+  {
+    "id": "gn-77718b7d50e791c6",
+    "title": "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
+    "publishedAt": "2026-11-02T01:12:23Z",
+    "summary": "Addressing INDIA bloc's rally at Ramlila Maidan on the \"vote chori\" charge, Mr. Kharge also accused Prime Minister Modi and Home Minister Amit Shah of shielding Chief Election Commissioner (CEC) Gyanesh Kumar",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 90.51
+  },
+  {
+    "id": "gn-4e387c12c29164c5",
+    "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+    "publishedAt": "2026-11-02T01:07:23Z",
+    "summary": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike Rogers Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to...",
+    "author": "Roque Planas",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 94.08
+  },
+  {
+    "id": "gn-8757e84f654cae78",
+    "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+    "publishedAt": "2026-11-02T01:06:13Z",
+    "summary": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards Four US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69...",
+    "author": "Agence France-Presse",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "books",
+    "region": "Europe",
+    "country": "Europe",
+    "tags": [
+      "Culture",
+      "Books"
+    ],
+    "rankScore": 94.01
+  },
+  {
+    "id": "gn-b4b1af8ef6722910",
+    "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/entertainment/heidi-klum-halloween-2026-costume-6510581",
+    "publishedAt": "2026-11-02T01:01:00Z",
+    "summary": "Klum was unrecognisable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 90.43
+  },
+  {
+    "id": "gn-740a25369e7dc99b",
+    "title": "Has Hong Kong’s IPO boom hit a wall – or is a year-end rush still to come?",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/business/markets/article/3372736/has-hong-kongs-ipo-boom-hit-wall-or-year-end-rush-still-come",
+    "publishedAt": "2026-11-02T01:00:15Z",
+    "summary": "Hong Kong’s initial public offering (IPO) momentum has cooled sharply in the fourth quarter amid market volatility and tighter regulatory scrutiny, but industry players say a year-end rush of listings could still help the city secure a...",
+    "author": "Zoe SL Chan,Themis Qi",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "business",
+    "subcategory": "companies",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "tags": [
+      "Business",
+      "Companies"
+    ],
+    "rankScore": 90.94
+  },
+  {
+    "id": "gn-7c85dd6c0c7412f6",
+    "title": "North Korea hackers behind Japan’s massive GMO data leak, investigation finds",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/asia/east-asia/article/3372913/north-korea-hackers-behind-japans-massive-gmo-data-leak-investigation-finds",
+    "publishedAt": "2026-11-02T00:58:40Z",
+    "summary": "An analysis by Japan’s GMO Internet Group found that a North Korea-linked hacking group was likely behind the cyberattack on the company last month, sources close to the matter said, citing characteristics of the malware used and other...",
+    "author": "Kyodo",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "cybersecurity",
+    "region": "Asia",
+    "country": "Japan",
+    "tags": [
+      "Cybersecurity",
+      "Technology"
+    ],
+    "rankScore": 90.85
+  },
+  {
+    "id": "gn-0dcfde55645f5dc1",
+    "title": "Nine dead in small plane crash near Trump's Florida home",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/world/learjet-plane-crash-trump-florida-home-6511856",
+    "publishedAt": "2026-11-02T00:57:21Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Trump",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 90.23
+  },
+  {
+    "id": "gn-2b146f2ffa7058c9",
+    "title": "Canada's Carney hails 'good conversation' on trade with Trump",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/world/canada-mark-carney-trade-talk-donald-trump-6511851",
+    "publishedAt": "2026-11-02T00:53:42Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Trump",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 90.03
+  },
+  {
+    "id": "gn-acbd7ff7fa9d39ae",
+    "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+    "source": "France 24",
+    "sourceId": "france24",
+    "url": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+    "publishedAt": "2026-11-02T00:49:01Z",
+    "summary": "A spate of shootings in nightlife districts and near university campuses across the United States over Halloween weekend left at least six people dead and dozens wounded, with Dallas recording the highest toll. Police were investigating...",
+    "author": "FRANCE 24",
+    "sourceRegion": "Europe",
+    "sourceCountry": "France",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 90.33
+  },
+  {
+    "id": "gn-c1f812f7f1704d51",
+    "title": "Democratic divisions shake up key Michigan Senate race",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/world/democratic-michigan-senate-race-abdul-el-sayed-haley-stevens-6511826",
+    "publishedAt": "2026-11-02T00:48:33Z",
+    "summary": "Haley Stevens, who lost a primary to left-wing progressive candidate Abdul El-Sayed earlier this year, endorsed his Republican candidate Mike Rogers.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Americas",
+    "country": "Senate",
+    "tags": [
+      "Public Health",
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 89.76
+  },
+  {
+    "id": "gn-e110d735dc3f2c98",
+    "title": "Asia shares bend under AI stress; Apple earnings loom",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/business/asia-shares-bend-under-ai-stress-apple-earnings-loom-6511816",
+    "publishedAt": "2026-11-02T00:40:46Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Asia",
+    "country": "Asia",
+    "tags": [
+      "Artificial Intelligence",
+      "Apple",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 89.35
+  },
+  {
+    "id": "gn-f89a86215168f3a7",
+    "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+    "publishedAt": "2026-11-02T00:34:22Z",
+    "summary": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 91.22
+  },
+  {
+    "id": "gn-35e427e547666fea",
+    "title": "Drug maker Rohto plans clinical trials in Hong Kong as OASES’ first Japan partner",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372885/drug-maker-rohto-plans-clinical-trials-hong-kong-oases-first-japan-partner",
+    "publishedAt": "2026-11-02T00:30:11Z",
+    "summary": "Top university research, cross-border data exchanges and access to mainland China’s large market have attracted Japanese firm Rohto Pharmaceutical to conduct clinical trials in Hong Kong, making it the first company from the country to...",
+    "author": "Elizabeth Cheung",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "health",
+    "subcategory": "medicine",
+    "region": "Asia",
+    "country": "China",
+    "tags": [
+      "China",
+      "Health",
+      "Medicine"
+    ],
+    "rankScore": 89.36
+  },
+  {
+    "id": "gn-a88e56e49a7ff20a",
+    "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+    "publishedAt": "2026-11-02T00:29:16Z",
+    "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Middle East",
+    "country": "Israel",
+    "tags": [
+      "Middle East",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 90.97
+  },
+  {
+    "id": "gn-9eab60874046afa8",
+    "title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T00:28:28Z",
+    "summary": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "motorsport",
+    "region": "Americas",
+    "country": "Mexico",
+    "tags": [
+      "Sports",
+      "Motorsport"
+    ],
+    "rankScore": 90.38
+  },
+  {
+    "id": "gn-19a0f2d2e2908d43",
+    "title": "Democrats have high hopes for midterms, but polls have let them down before",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T00:25:12Z",
+    "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 92.96
+  },
+  {
+    "id": "gn-c78a8619ee88a016",
+    "title": "Iran warns renewed war with US could outlast previous conflict",
+    "source": "France 24",
+    "sourceId": "france24",
+    "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+    "publishedAt": "2026-11-02T00:23:23Z",
+    "summary": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical...",
+    "author": "FRANCE 24",
+    "sourceRegion": "Europe",
+    "sourceCountry": "France",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Middle East",
+    "country": "Iran",
+    "tags": [
+      "Donald Trump",
+      "Middle East",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 89.02
+  },
+  {
+    "id": "gn-8dd95b30184e1603",
+    "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T00:15:30Z",
+    "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "France",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 92.48
+  },
+  {
+    "id": "gn-d8f8bafbc4cb240d",
+    "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+    "publishedAt": "2026-11-02T00:14:22Z",
+    "summary": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 90.23
+  },
+  {
+    "id": "gn-3c055ae03fcdc13b",
+    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+    "publishedAt": "2026-11-02T00:12:17Z",
+    "summary": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an...",
+    "author": "Chris Hippensteel and Marina Dunbar",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Congress",
+    "tags": [
+      "Public Health",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 91.23
+  },
+  {
+    "id": "gn-e817af03b51ebe2c",
+    "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-2-6511726",
+    "publishedAt": "2026-11-02T00:08:00Z",
+    "summary": "1-hour PM2.5 readings are in the normal range across all regions.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 87.72
+  },
+  {
+    "id": "gn-28fcc0b9c45a0fe5",
+    "title": "Will losing US midterms see Trump double down or signal beginning of the end?",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/news/us/us-elections/article/3372795/will-losing-us-midterms-see-trump-double-down-or-signal-beginning-end",
+    "publishedAt": "2026-11-02T00:00:25Z",
+    "summary": "Tuesday’s US midterm election is both hugely consequential and not so consequential even as the world waits to see the American voters’ verdict on Donald Trump’s presidency – and the impact that verdict will have on his temperament, plans...",
+    "author": "Mark Magnier",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 87.91
+  },
+  {
+    "id": "gn-0c9e161fdd19d75f",
+    "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T00:00:21Z",
+    "summary": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in Arsenal's midfield, while Danny Murphy argues that if he was more selfish he would score more goals.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "football",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports",
+      "Football"
+    ],
+    "rankScore": 89.01
+  },
+  {
+    "id": "gn-c3fb9c65d9281e1c",
+    "title": "Humans vs AI art: why game studios hire Southeast Asian talent",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/week-asia/economics/article/3372761/humans-vs-ai-art-why-game-studios-hire-southeast-asian-talent",
+    "publishedAt": "2026-11-02T00:00:16Z",
+    "summary": "Video game companies have long been at the vanguard of artificial intelligence, using it in its more nascent form to dictate non-player character behaviour, simulate crowds and adjust game difficulty on the fly years before the advent of...",
+    "author": "Aidan Jones",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "ai",
+    "region": "Asia",
+    "country": "Asia",
+    "tags": [
+      "Artificial Intelligence",
+      "Technology",
+      "Ai"
+    ],
+    "rankScore": 87.91
+  },
+  {
+    "id": "gn-8db799915fb69169",
+    "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-02T00:00:03Z",
+    "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "football",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Sports",
+      "Football"
+    ],
+    "rankScore": 89.0
+  },
+  {
+    "id": "gn-c6552bcc9127ee78",
+    "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+    "publishedAt": "2026-11-02T00:00:00Z",
+    "summary": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Middle East",
+    "country": "Iran",
+    "tags": [
+      "Donald Trump",
+      "Middle East",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 89.55
+  },
+  {
+    "id": "gn-997a24fea0dd731f",
+    "title": "Michael Mann, director of Heat and Collateral, accidentally shoots self at gun range",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/entertainment/michael-mann-director-heat-and-collateral-accidentally-shoots-self-gun-range-6511716",
+    "publishedAt": "2026-11-01T23:55:00Z",
+    "summary": "He sustained a \"superficial injury\" in the incident.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "culture",
+    "subcategory": "film",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "Culture",
+      "Film"
+    ],
+    "rankScore": 87.11
+  },
+  {
+    "id": "gn-8c4ca3ac05fdcec4",
+    "title": "Nine killed as business jet crashes into South Florida neighbourhood",
+    "source": "France 24",
+    "sourceId": "france24",
+    "url": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+    "publishedAt": "2026-11-01T23:45:08Z",
+    "summary": "A business jet plunged into a South Florida neighbourhood on Sunday, killing all nine people aboard and exploding into a fireball near homes and a busy road. The pilot had reported icing, precipitation and severe turbulence before the...",
+    "author": "FRANCE 24",
+    "sourceRegion": "Europe",
+    "sourceCountry": "France",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "France",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 87.21
+  },
+  {
+    "id": "gn-43fc1ff548e72e5b",
+    "title": "Ravindra and Chapman to miss NZ's ODI series against India",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/ravindra-and-chapman-miss-nzs-odi-series-against-india-6511721",
+    "publishedAt": "2026-11-01T23:44:41Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 86.64
+  },
+  {
+    "id": "gn-7f2db152ff6c2b93",
+    "title": "Don't get caught out by new Buy Now Pay Later rules",
+    "source": "BBC News",
+    "sourceId": "bbc-news",
+    "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T23:34:49Z",
+    "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 96,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 90.6
+  },
+  {
+    "id": "gn-4f0d640f4c6bce35",
+    "title": "Hong Kong summit to test Wall Street sentiment amid geopolitical strains, tech volatility",
+    "source": "South China Morning Post",
+    "sourceId": "scmp",
+    "url": "https://www.scmp.com/business/banking-finance/article/3372873/hong-kong-summit-test-wall-street-sentiment-amid-geopolitical-strains-tech-volatility",
+    "publishedAt": "2026-11-01T23:30:16Z",
+    "summary": "When hundreds of global finance leaders converge in Hong Kong this week, the question on their minds will be whether traditional investment strategies remain viable against escalating geopolitical friction and the rapid ascent of...",
+    "author": "Daisy Wu",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Hong Kong",
+    "defaultCategory": "world",
+    "priority": 89,
+    "language": "en",
+    "category": "business",
+    "subcategory": "markets",
+    "region": "Asia",
+    "country": "Hong Kong",
+    "tags": [
+      "Wall Street",
+      "Business",
+      "Markets"
+    ],
+    "rankScore": 86.55
+  },
+  {
+    "id": "gn-f45937dc3caec25e",
+    "title": "Nine people dead after Learjet crashes in Florida",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+    "publishedAt": "2026-11-01T23:29:48Z",
+    "summary": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 88.18
+  },
+  {
+    "id": "gn-e27910001be17256",
+    "title": "Nine killed as business jet crashes in Florida",
+    "source": "Financial Times",
+    "sourceId": "financial-times",
+    "url": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+    "publishedAt": "2026-11-01T23:25:46Z",
+    "summary": "Aviation authorities to investigate after Learjet plunges into street eight miles from Donald Trump’s Mar-a-Lago resort",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "business",
+    "priority": 95,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Trump",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 89.66
+  },
+  {
+    "id": "gn-fff319db81268d90",
+    "title": "Why governors’ races are important in the 2026 US midterms",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+    "publishedAt": "2026-11-01T23:24:56Z",
+    "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 87.97
+  },
+  {
+    "id": "gn-8274a43f5f933f73",
+    "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T23:20:54Z",
+    "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "motorsport",
+    "region": "Americas",
+    "country": "Mexico",
+    "tags": [
+      "Formula 1",
+      "Sports",
+      "Motorsport"
+    ],
+    "rankScore": 87.25
+  },
+  {
+    "id": "gn-29e87b2c472e4fcd",
+    "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+    "publishedAt": "2026-11-01T23:19:51Z",
+    "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "diplomacy",
+    "region": "Middle East",
+    "country": "Qatar",
+    "tags": [
+      "Politics",
+      "Diplomacy"
+    ],
+    "rankScore": 87.75
+  },
+  {
+    "id": "gn-99d8ef1a1a9d2ce3",
+    "title": "Chemotherapy left her feet too swollen for shoes but this single mum kept running: 'It saved my life'",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/women/breast-cancer-chemotherapy-running-single-mum-6461851",
+    "publishedAt": "2026-11-01T23:14:59Z",
+    "summary": "Cassandra Hie started running to cope with her divorce, then kept going through breast cancer and chemotherapy. Now 53, the single mum is a competitive runner and Hyrox athlete with more than 10 top-three finishes since her cancer...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "health",
+    "subcategory": "medicine",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "Health",
+      "Medicine"
+    ],
+    "rankScore": 85.35
+  },
+  {
     "id": "gn-6d7b4e92a940e396",
     "title": "Watch: Match of the Day",
     "source": "BBC Sport",
@@ -25,13 +1306,109 @@
     "rankScore": 80.79
   },
   {
-    "id": "gn-8274a43f5f933f73",
-    "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+    "id": "gn-54e3073b437e270b",
+    "title": "AMU’s wants women on campus, not at the ballot box",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece",
+    "publishedAt": "2026-11-01T23:10:26Z",
+    "summary": "Around 4,000 women students at AMU’s Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections, raising concerns over gender discrimination and unequal representation. Their fight to...",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 84.61
+  },
+  {
+    "id": "gn-f9a7c86b9a84c9ac",
+    "title": "Even as unemployment falls, lack of ‘decent work’ in India",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
+    "publishedAt": "2026-11-01T23:07:19Z",
+    "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "business",
+    "subcategory": "economy",
+    "region": "Asia",
+    "country": "India",
+    "tags": [
+      "Business",
+      "Economy"
+    ],
+    "rankScore": 84.48
+  },
+  {
+    "id": "gn-22c46bfeb4f6946e",
+    "title": "List of Formula One world champions",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/list-formula-one-world-champions-6511671",
+    "publishedAt": "2026-11-01T23:06:19Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 84.98
+  },
+  {
+    "id": "gn-5dc7665166dcca37",
+    "title": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
+    "publishedAt": "2026-11-01T23:05:05Z",
+    "summary": "‘My political career may die,’ senator says after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will...",
+    "author": "Tess Ikonomou",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "software",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "NATO",
+      "Technology",
+      "Software"
+    ],
+    "rankScore": 88.23
+  },
+  {
+    "id": "gn-00494546c72034d9",
+    "title": "Detroit linebacker Campbell taken to hospital with neck injury",
     "source": "BBC Sport",
     "sourceId": "bbc-sport",
-    "url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-11-01T22:37:38Z",
-    "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+    "url": "https://www.bbc.co.uk/sport/american-football/articles/ck9qz29w2p90o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T23:04:23Z",
+    "summary": "Jack Campbell was placed on a stretcher and carted off the pitch during the Detroit Lions' game on Sunday, before being taken to hospital.",
     "author": "",
     "sourceRegion": "Europe",
     "sourceCountry": "United Kingdom",
@@ -39,15 +1416,213 @@
     "priority": 91,
     "language": "en",
     "category": "sports",
-    "subcategory": "motorsport",
-    "region": "Americas",
-    "country": "Mexico",
+    "subcategory": "general",
+    "region": "Europe",
+    "country": "United Kingdom",
     "tags": [
-      "Formula 1",
-      "Sports",
-      "Motorsport"
+      "Sports"
     ],
-    "rankScore": 94.86
+    "rankScore": 86.56
+  },
+  {
+    "id": "gn-4e06b70f76dde790",
+    "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T23:00:21Z",
+    "summary": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and Nico Schlotterbeck, Real Madrid eye Bart Verbruggen, plus more.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "football",
+    "region": "Europe",
+    "country": "Madrid",
+    "tags": [
+      "Sports",
+      "Football"
+    ],
+    "rankScore": 86.39
+  },
+  {
+    "id": "gn-641606d2a4e5400c",
+    "title": "Norris says Antonelli deserves more credit for 'insane job' this season",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/norris-says-antonelli-deserves-more-credit-insane-job-season-6511651",
+    "publishedAt": "2026-11-01T22:50:09Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "business",
+    "subcategory": "banking",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "Business",
+      "Banking"
+    ],
+    "rankScore": 84.33
+  },
+  {
+    "id": "gn-4ec911536994ec6a",
+    "title": "Rice relishing title race 'anxiety' after win at Liverpool",
+    "source": "BBC Sport",
+    "sourceId": "bbc-sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-11-01T22:50:05Z",
+    "summary": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
+    "author": "",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "sports",
+    "priority": 91,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Premier League",
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 85.98
+  },
+  {
+    "id": "gn-2507f6d9330647f5",
+    "title": "Antonelli can be one of the greats and has nothing to prove, says Wolff",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/antonelli-can-be-one-greats-and-has-nothing-prove-says-wolff-6511636",
+    "publishedAt": "2026-11-01T22:46:00Z",
+    "summary": "",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "world",
+    "subcategory": "general",
+    "region": "Asia",
+    "country": "Singapore",
+    "tags": [
+      "World"
+    ],
+    "rankScore": 84.16
+  },
+  {
+    "id": "gn-75bbd5f28e5c7a15",
+    "title": "Khanna says he’d stop funding further US military actions in Iran",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/",
+    "publishedAt": "2026-11-01T22:40:15Z",
+    "summary": "Rep. Ro Khanna (D-Calif.) said he would stop further funding for U.S. military action in Iran amid growing voter dissatisfaction with the ongoing war effort. “I would stop the funding. The House and the Senate should stop the funding for...",
+    "author": "Mira Bhakta",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Middle East",
+    "country": "Iran",
+    "tags": [
+      "Middle East",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 82.84
+  },
+  {
+    "id": "gn-be41816f66c3e52b",
+    "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+    "publishedAt": "2026-11-01T22:37:36Z",
+    "summary": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue...",
+    "author": "Eric Berger",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "technology",
+    "subcategory": "ai",
+    "region": "Europe",
+    "country": "United Kingdom",
+    "tags": [
+      "Artificial Intelligence",
+      "OpenAI",
+      "Public Health",
+      "Technology",
+      "Ai"
+    ],
+    "rankScore": 87.14
+  },
+  {
+    "id": "gn-2eddfd10e7797d26",
+    "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/",
+    "publishedAt": "2026-11-01T22:37:36Z",
+    "summary": "President Trump on Sunday said he would “love to have” Rep. Haley Stevens join the Republican Party after she endorsed Michigan Senate candidate Mike Rogers (R) over the nominee, her former Senate Democratic primary opponent Abdul El-Sayed...",
+    "author": "Ryan Mancini",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Trump",
+    "tags": [
+      "Donald Trump",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 82.74
+  },
+  {
+    "id": "gn-23453b42118a0242",
+    "title": "High-ranking US Democratic senator suffers stroke",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+    "publishedAt": "2026-11-01T22:32:54Z",
+    "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
+    "defaultCategory": "world",
+    "priority": 92,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "us politics",
+    "region": "Americas",
+    "country": "Us",
+    "tags": [
+      "Donald Trump",
+      "NATO",
+      "Public Health",
+      "Politics",
+      "Us Politics"
+    ],
+    "rankScore": 85.85
   },
   {
     "id": "gn-c72d2733728794a2",
@@ -75,6 +1650,31 @@
     "rankScore": 92.91
   },
   {
+    "id": "gn-014668d00f9887d3",
+    "title": "Kimi Antonelli becomes youngest F1 champion at 20 years old",
+    "source": "CNA",
+    "sourceId": "channel-news-asia",
+    "url": "https://www.channelnewsasia.com/sport/kimi-antonelli-youngest-f1-champion-20-years-old-6511616",
+    "publishedAt": "2026-11-01T22:32:00Z",
+    "summary": "The Mercedes driver is the first Italian champion since 1953.",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "Singapore",
+    "defaultCategory": "world",
+    "priority": 88,
+    "language": "en",
+    "category": "sports",
+    "subcategory": "motorsport",
+    "region": "Europe",
+    "country": "Italian",
+    "tags": [
+      "Formula 1",
+      "Sports",
+      "Motorsport"
+    ],
+    "rankScore": 83.62
+  },
+  {
     "id": "gn-156a3c01cb0d78b7",
     "title": "This legendary board game could take decades to complete",
     "source": "NPR",
@@ -96,7 +1696,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 94.94
+    "rankScore": 85.74
   },
   {
     "id": "gn-ea36d35c4f0a1be1",
@@ -121,7 +1721,32 @@
       "Formula 1",
       "Health"
     ],
-    "rankScore": 94.3
+    "rankScore": 85.14
+  },
+  {
+    "id": "gn-f8aa221527d8f25c",
+    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+    "source": "The Guardian",
+    "sourceId": "the-guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+    "publishedAt": "2026-11-01T22:26:11Z",
+    "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of...",
+    "author": "Natricia Duncan in St John's, Antigua",
+    "sourceRegion": "Europe",
+    "sourceCountry": "United Kingdom",
+    "defaultCategory": "world",
+    "priority": 94,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "diplomacy",
+    "region": "Europe",
+    "country": "Uk",
+    "tags": [
+      "United Kingdom",
+      "Politics",
+      "Diplomacy"
+    ],
+    "rankScore": 86.7
   },
   {
     "id": "gn-1072ad076a200170",
@@ -145,7 +1770,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 96.89
+    "rankScore": 87.79
   },
   {
     "id": "gn-1a599111d014e520",
@@ -170,7 +1795,7 @@
       "Sports",
       "Motorsport"
     ],
-    "rankScore": 94.11
+    "rankScore": 85.02
   },
   {
     "id": "gn-0fd3122d0eef8172",
@@ -195,7 +1820,7 @@
       "Formula 1",
       "Health"
     ],
-    "rankScore": 94.09
+    "rankScore": 85.0
   },
   {
     "id": "gn-8c3db5dd7faef612",
@@ -219,7 +1844,7 @@
       "Science",
       "Research"
     ],
-    "rankScore": 90.79
+    "rankScore": 81.7
   },
   {
     "id": "gn-be5f08b5603989ed",
@@ -242,7 +1867,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 94.47
+    "rankScore": 85.45
   },
   {
     "id": "gn-ba220ba724ec41ea",
@@ -266,7 +1891,7 @@
       "Science",
       "Research"
     ],
-    "rankScore": 76.92
+    "rankScore": 69.29
   },
   {
     "id": "gn-35c2e38b2bb7bd4e",
@@ -291,7 +1916,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 94.3
+    "rankScore": 85.34
   },
   {
     "id": "gn-c601fd85c0b2d702",
@@ -314,33 +1939,33 @@
     "tags": [
       "World"
     ],
-    "rankScore": 91.99
+    "rankScore": 83.07
   },
   {
-    "id": "gn-be41816f66c3e52b",
-    "title": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
-    "publishedAt": "2026-11-01T22:02:17Z",
-    "summary": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage A woman’s death from an epileptic seizure after she received dangerous advice from a chatbot has prompted her parents to sue...",
-    "author": "Eric Berger",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
+    "id": "gn-75b0ce0ef3ca08fe",
+    "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+    "source": "Al Jazeera English",
+    "sourceId": "al-jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+    "publishedAt": "2026-11-01T22:15:14Z",
+    "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+    "author": "",
+    "sourceRegion": "Middle East",
+    "sourceCountry": "Qatar",
     "defaultCategory": "world",
-    "priority": 94,
+    "priority": 92,
     "language": "en",
-    "category": "technology",
-    "subcategory": "ai",
+    "category": "politics",
+    "subcategory": "elections",
     "region": "Europe",
-    "country": "United Kingdom",
+    "country": "Ukraine",
     "tags": [
-      "OpenAI",
-      "Public Health",
-      "Technology",
-      "Ai"
+      "Ukraine",
+      "Russia",
+      "Politics",
+      "Elections"
     ],
-    "rankScore": 94.42
+    "rankScore": 85.19
   },
   {
     "id": "gn-e20d6729aa2eac95",
@@ -365,7 +1990,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 94.92
+    "rankScore": 86.33
   },
   {
     "id": "gn-68f8439bb0674e9a",
@@ -390,7 +2015,7 @@
       "Business",
       "Companies"
     ],
-    "rankScore": 91.56
+    "rankScore": 83.0
   },
   {
     "id": "gn-5599bb013a9d1b0a",
@@ -414,7 +2039,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.89
+    "rankScore": 81.34
   },
   {
     "id": "gn-3652375dd22da92f",
@@ -437,11 +2062,11 @@
     "tags": [
       "World"
     ],
-    "rankScore": 90.99
+    "rankScore": 82.44
   },
   {
     "id": "gn-999820e968f98ec3",
-    "title": "Malaysia is making it easier for expats' spouses to work. Will that help retain foreign talent?",
+    "title": "Malaysia to ease work restrictions on expats' spouses, but will it make a difference?",
     "source": "CNA",
     "sourceId": "channel-news-asia",
     "url": "https://www.channelnewsasia.com/asia/malaysia-expat-visa-spouse-job-work-6502606",
@@ -460,7 +2085,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 90.99
+    "rankScore": 82.44
   },
   {
     "id": "gn-ca03e8fbcdde72c8",
@@ -484,7 +2109,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 90.87
+    "rankScore": 82.36
   },
   {
     "id": "gn-0d0d72ac75a0efcd",
@@ -508,7 +2133,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.74
+    "rankScore": 81.24
   },
   {
     "id": "gn-b5670ccf97bedffa",
@@ -534,7 +2159,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 95.11
+    "rankScore": 86.66
   },
   {
     "id": "gn-b60ed8a7a65a9000",
@@ -558,11 +2183,11 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 91.08
+    "rankScore": 82.69
   },
   {
     "id": "gn-c3f1858eacd4c18c",
-    "title": "Sanders says what Democrats did in Alaska “seems to be pretty dumb”",
+    "title": "Sanders says what Democrats did in Alaska ‘seems to be pretty dumb’",
     "source": "The Hill",
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/senate/6187375-sanders-alaska-ballot-stacking/",
@@ -583,7 +2208,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 89.29
+    "rankScore": 80.95
   },
   {
     "id": "gn-6771e8ab27094f3b",
@@ -616,7 +2241,7 @@
     "source": "CNA",
     "sourceId": "channel-news-asia",
     "url": "https://www.channelnewsasia.com/world/ukraine-evacuates-civilians-parts-kherson-region-expiry-oleshky-ceasefire-nears-6511466",
-    "publishedAt": "2026-11-01T21:40:24Z",
+    "publishedAt": "2026-11-01T21:40:00Z",
     "summary": "The Oleshky ceasefire is the longest local pause in fighting since Russia's full-scale invasion in 2022.",
     "author": "",
     "sourceRegion": "Asia",
@@ -634,11 +2259,11 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 89.92
+    "rankScore": 81.74
   },
   {
     "id": "gn-3d6236f65c0c2b93",
-    "title": "9 dead after plane crashes near Trump’s Florida home, erupting in a massive fireball",
+    "title": "9 dead as private jet crashes in fireball near Trump’s Florida estate",
     "source": "South China Morning Post",
     "sourceId": "scmp",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372912/private-jet-carrying-9-crashes-florida-roadside-erupting-massive-fireball",
@@ -659,7 +2284,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.01
+    "rankScore": 82.0
   },
   {
     "id": "gn-4ce20a727931e17c",
@@ -682,7 +2307,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 91.56
+    "rankScore": 83.59
   },
   {
     "id": "gn-2114e0fe386a6187",
@@ -707,7 +2332,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 91.51
+    "rankScore": 83.56
   },
   {
     "id": "gn-dc7b3df3690adcfd",
@@ -715,7 +2340,7 @@
     "source": "CNA",
     "sourceId": "channel-news-asia",
     "url": "https://www.channelnewsasia.com/world/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces-6511556",
-    "publishedAt": "2026-11-01T21:26:19Z",
+    "publishedAt": "2026-11-01T21:26:00Z",
     "summary": "The Paris police prefecture said several hundred rioters had attacked security forces with projectiles.",
     "author": "",
     "sourceRegion": "Asia",
@@ -730,7 +2355,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 89.19
+    "rankScore": 81.26
   },
   {
     "id": "gn-c889da631c10d996",
@@ -754,7 +2379,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 87.47
+    "rankScore": 79.58
   },
   {
     "id": "gn-e8b79fcc25b93a7f",
@@ -778,7 +2403,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 87.21
+    "rankScore": 79.41
   },
   {
     "id": "gn-12d14db084039c09",
@@ -802,55 +2427,31 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.86
-  },
-  {
-    "id": "gn-1678cc8184b5efb8",
-    "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-    "source": "BBC News",
-    "sourceId": "bbc-news",
-    "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-11-01T21:16:45Z",
-    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 96,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Senate",
-    "tags": [
-      "Public Health",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 93.1
+    "rankScore": 81.06
   },
   {
     "id": "gn-c0c78270002cbe49",
-    "title": "Business jet carrying nine people crashes in Florida neighborhood",
+    "title": "All nine people aboard business jet that crashed in Florida have died",
     "source": "The Guardian",
     "sourceId": "the-guardian",
     "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
     "publishedAt": "2026-11-01T21:13:23Z",
-    "summary": "It is unclear if anyone on the ground was hurt and no details yet on whether anyone onboard survived A business jet carrying nine people crashed in a Florida neighborhood on Sunday, erupting in a massive fireball. The Learjet 60 crashed in...",
+    "summary": "Aircraft had departed Austin-Bergstrom international airport and was headed to the Bahamas when it crashed All nine people have died who were aboard a business jet that crashed in a Florida neighborhood on Sunday, Sean Duffy, the US...",
     "author": "Associated Press",
     "sourceRegion": "Europe",
     "sourceCountry": "United Kingdom",
     "defaultCategory": "world",
     "priority": 94,
     "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "United Kingdom",
+    "category": "health",
+    "subcategory": "public health",
+    "region": "Americas",
+    "country": "Us",
     "tags": [
-      "World"
+      "Public Health",
+      "Health"
     ],
-    "rankScore": 91.83
+    "rankScore": 84.15
   },
   {
     "id": "gn-dd8ec44c2a87c5d0",
@@ -875,7 +2476,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 89.43
+    "rankScore": 81.82
   },
   {
     "id": "gn-2b43120dca30e79e",
@@ -898,7 +2499,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 89.82
+    "rankScore": 82.26
   },
   {
     "id": "gn-0a0719c269c156a2",
@@ -945,7 +2546,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.15
+    "rankScore": 82.67
   },
   {
     "id": "gn-83b9fc92b68c2cb6",
@@ -954,7 +2555,7 @@
     "sourceId": "al-jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
     "publishedAt": "2026-11-01T21:00:52Z",
-    "summary": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
+    "summary": "Stevens’s endorsement of Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
     "author": "",
     "sourceRegion": "Middle East",
     "sourceCountry": "Qatar",
@@ -969,7 +2570,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 90.12
+    "rankScore": 82.65
   },
   {
     "id": "gn-01ab8c654037c381",
@@ -993,7 +2594,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.46
+    "rankScore": 80.99
   },
   {
     "id": "gn-56ae0f6a57df76ea",
@@ -1017,7 +2618,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 89.55
+    "rankScore": 82.08
   },
   {
     "id": "gn-1eba7f328bd124b6",
@@ -1041,7 +2642,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 91.19
+    "rankScore": 83.73
   },
   {
     "id": "gn-c3ed3321781f8b5b",
@@ -1090,7 +2691,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.98
+    "rankScore": 81.52
   },
   {
     "id": "gn-c399e0db8aad7c14",
@@ -1114,7 +2715,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 89.51
+    "rankScore": 82.24
   },
   {
     "id": "gn-7441a82c4847dfbf",
@@ -1139,31 +2740,30 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 86.04
+    "rankScore": 78.83
   },
   {
     "id": "gn-281873d63e96c3d3",
-    "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+    "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
     "source": "Al Jazeera English",
     "sourceId": "al-jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
     "publishedAt": "2026-11-01T20:43:33Z",
-    "summary": "Iliana Iotova would become the nation’s first elected female president if results confirm her win on Monday.",
+    "summary": "Acting President Iotova would become nation’s first elected female head of state if official results confirm her win.",
     "author": "",
     "sourceRegion": "Middle East",
     "sourceCountry": "Qatar",
     "defaultCategory": "world",
     "priority": 92,
     "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
+    "category": "world",
+    "subcategory": "general",
     "region": "Middle East",
     "country": "Qatar",
     "tags": [
-      "Politics",
-      "Elections"
+      "World"
     ],
-    "rankScore": 89.3
+    "rankScore": 82.11
   },
   {
     "id": "gn-307cf640fd2cf145",
@@ -1186,7 +2786,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 87.39
+    "rankScore": 80.28
   },
   {
     "id": "gn-3e22e50647126486",
@@ -1235,32 +2835,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 88.26
-  },
-  {
-    "id": "gn-3c055ae03fcdc13b",
-    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-    "publishedAt": "2026-11-01T20:31:30Z",
-    "summary": "Endorsement was met with backlash from the party, condemning Stevens for her ‘betrayal’ Congresswoman Haley Stevens, who lost the Michigan Democratic Senate primary to Abdul El-Sayed, endorsed his Republican rival, Mike Rogers, in an...",
-    "author": "Chris Hippensteel and Marina Dunbar",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Congress",
-    "tags": [
-      "Public Health",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 89.85
+    "rankScore": 81.23
   },
   {
     "id": "gn-14d4d8d1710c2c24",
@@ -1283,7 +2858,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 88.74
+    "rankScore": 81.73
   },
   {
     "id": "gn-99548690a25b7deb",
@@ -1307,7 +2882,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 84.61
+    "rankScore": 77.7
   },
   {
     "id": "gn-1680a9439f889525",
@@ -1330,7 +2905,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 88.29
+    "rankScore": 81.43
   },
   {
     "id": "gn-f59e512d239a7794",
@@ -1355,7 +2930,7 @@
       "Science",
       "Research"
     ],
-    "rankScore": 71.73
+    "rankScore": 65.92
   },
   {
     "id": "gn-51013b2803574465",
@@ -1380,7 +2955,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 87.55
+    "rankScore": 80.76
   },
   {
     "id": "gn-2baf7bc16e2b1833",
@@ -1403,7 +2978,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 87.51
+    "rankScore": 80.73
   },
   {
     "id": "gn-b20cf44914186a9e",
@@ -1452,7 +3027,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 88.93
+    "rankScore": 82.22
   },
   {
     "id": "gn-a2f2151dcb2ef90a",
@@ -1476,7 +3051,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 88.61
+    "rankScore": 82.01
   },
   {
     "id": "gn-ec583a29c5a0d402",
@@ -1500,7 +3075,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.13
+    "rankScore": 77.55
   },
   {
     "id": "gn-c74a2083f3c1e955",
@@ -1524,7 +3099,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.12
+    "rankScore": 77.54
   },
   {
     "id": "gn-56ba98e5a15552f5",
@@ -1549,7 +3124,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 86.85
+    "rankScore": 80.28
   },
   {
     "id": "gn-4c7805da92c2787a",
@@ -1572,7 +3147,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 86.21
+    "rankScore": 79.67
   },
   {
     "id": "gn-85d1d15fc4ac8a6a",
@@ -1595,7 +3170,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 87.25
+    "rankScore": 80.74
   },
   {
     "id": "gn-89058959660551ab",
@@ -1619,16 +3194,16 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 85.47
+    "rankScore": 78.99
   },
   {
     "id": "gn-342299a6314ffa84",
-    "title": "Trump commends Stevens’ ‘bravery’ for endorsing Rogers",
+    "title": "Trump commends Stevens’s ‘bravery’ for endorsing Rogers",
     "source": "The Hill",
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/",
     "publishedAt": "2026-11-01T19:52:39Z",
-    "summary": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of GOP Senate candidate former Rep. Mike Rogers (Mich.). “Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in...",
+    "summary": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of the Republican nominee in Michigan’s Senate race, former Rep. Mike Rogers (R-Mich.). “Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected...",
     "author": "Tara Suter",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -1641,11 +3216,10 @@
     "country": "Trump",
     "tags": [
       "Donald Trump",
-      "Public Health",
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.78
+    "rankScore": 77.32
   },
   {
     "id": "gn-baa6e3f9771a45b7",
@@ -1669,32 +3243,7 @@
       "Culture",
       "Art"
     ],
-    "rankScore": 83.17
-  },
-  {
-    "id": "gn-f8aa221527d8f25c",
-    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-    "publishedAt": "2026-11-01T19:50:39Z",
-    "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials initially insisted that discussions of reparations for slavery should not be on the agenda of...",
-    "author": "Natricia Duncan in St John's",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "diplomacy",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "Politics",
-      "Diplomacy"
-    ],
-    "rankScore": 88.1
+    "rankScore": 76.73
   },
   {
     "id": "gn-0acbc0ede9c6ec9f",
@@ -1719,7 +3268,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 86.94
+    "rankScore": 80.53
   },
   {
     "id": "gn-172c88a5436263eb",
@@ -1728,7 +3277,7 @@
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/",
     "publishedAt": "2026-11-01T19:48:32Z",
-    "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh hour endorsement of Republican Mike Rogers in the competitive Michigan Senate contest. “This is a despicable betrayal from Rep. Stevens,”...",
+    "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh-hour endorsement of Republican candidate Mike Rogers in the competitive Michigan Senate contest. “This is a despicable betrayal from Rep...",
     "author": "Sophia Vento",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -1743,7 +3292,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.62
+    "rankScore": 77.21
   },
   {
     "id": "gn-b1c71babba26d813",
@@ -1767,7 +3316,7 @@
       "United Kingdom",
       "World"
     ],
-    "rankScore": 87.98
+    "rankScore": 81.58
   },
   {
     "id": "gn-b5e35ba25c2e27ef",
@@ -1776,7 +3325,7 @@
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/",
     "publishedAt": "2026-11-01T19:42:36Z",
-    "summary": "Democratic National Committee (DNC) Chair Ken Martin defended Democratic Senate candidates Abdul El-Sayed and former Rep. Mary Peltola (D-Alaska) against recent GOP attacks amid growing concern the party will have to brace for...",
+    "summary": "Democratic National Committee (DNC) Chair Ken Martin on Sunday defended Democratic Senate candidates Abdul El-Sayed in Michigan and Mary Peltola in Alaska against recent GOP attacks and growing concern the party will have to brace for...",
     "author": "Mira Bhakta",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -1791,7 +3340,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.38
+    "rankScore": 77.04
   },
   {
     "id": "gn-587c9df436b5999e",
@@ -1815,7 +3364,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.84
+    "rankScore": 78.56
   },
   {
     "id": "gn-c8df700463f9f2a4",
@@ -1839,7 +3388,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 85.93
+    "rankScore": 79.66
   },
   {
     "id": "gn-b2726a060578f163",
@@ -1863,7 +3412,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 87.54
+    "rankScore": 81.28
   },
   {
     "id": "gn-c8084194f506d9d6",
@@ -1891,30 +3440,6 @@
     "rankScore": 87.19
   },
   {
-    "id": "gn-f9a7c86b9a84c9ac",
-    "title": "Even as unemployment falls, lack of ‘decent work’ in India",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/opinion/lead/even-as-unemployment-falls-lack-of-decent-work-in-india/article71653971.ece",
-    "publishedAt": "2026-11-01T19:27:03Z",
-    "summary": "Poor-quality employment generation has consequences for economic growth; workers without social security spend less, save less and remain vulnerable to economic shocks",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "business",
-    "subcategory": "economy",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Business",
-      "Economy"
-    ],
-    "rankScore": 83.31
-  },
-  {
     "id": "gn-23b9dff085f6cfa4",
     "title": "82-year-old Florida man’s 70-year collection includes a letter from Elizabeth Taylor",
     "source": "The Times of India",
@@ -1935,7 +3460,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.13
+    "rankScore": 76.02
   },
   {
     "id": "gn-695634e13906eb8f",
@@ -1958,7 +3483,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 83.17
+    "rankScore": 77.08
   },
   {
     "id": "gn-6670b073a8ced028",
@@ -1982,7 +3507,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 85.31
+    "rankScore": 79.24
   },
   {
     "id": "gn-84ed1a08e74caab2",
@@ -1991,7 +3516,7 @@
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/campaign/6187116-el-sayed-dismisses-stevens-rogers-endorsement/",
     "publishedAt": "2026-11-01T19:21:48Z",
-    "summary": "Michigan Senate Democratic candidate Abdul El-Sayed brushed off his former rival Haley Stevens’s surprising and late endorsement of GOP nominee Mike Rogers, saying on Sunday it didn’t matter and that he was focused on issues in his state...",
+    "summary": "Abdul El-Sayed, the Democratic candidate in Michigan’s Senate race, on Sunday brushed off Rep. Haley Stevens’s (D-Mich.) surprising and late endorsement of Republican nominee Mike Rogers, saying it didn’t matter and that he was focused on...",
     "author": "Caroline Vakil",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -2006,7 +3531,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.56
+    "rankScore": 76.49
   },
   {
     "id": "gn-4488f3271e45e68a",
@@ -2029,7 +3554,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.94
+    "rankScore": 75.89
   },
   {
     "id": "gn-f65001b250e2ae37",
@@ -2052,7 +3577,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.92
+    "rankScore": 76.91
   },
   {
     "id": "gn-65f176c4bc4a7b84",
@@ -2104,7 +3629,7 @@
       "Public Health",
       "Politics"
     ],
-    "rankScore": 83.94
+    "rankScore": 77.95
   },
   {
     "id": "gn-6d162144a52ae4a3",
@@ -2128,7 +3653,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 81.69
+    "rankScore": 75.72
   },
   {
     "id": "gn-38efcafb92e3178b",
@@ -2152,16 +3677,16 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 85.39
+    "rankScore": 79.46
   },
   {
-    "id": "gn-7f477e52d97ed4a8",
-    "title": "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+    "id": "gn-dd5adc990d35efaf",
+    "title": "800 houses in Division 59 of Kochi Corporation to get sewerage connection by December",
     "source": "The Hindu",
     "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-    "publishedAt": "2026-11-01T19:08:22Z",
-    "summary": "The cyclonic storm lay centred about 350 km east of Chennai, 400 km east-southeast of Nellore, 430 km southeast of Machilipatnam, 420 km east-southeast of Kavali, 450 km southeast of Ongole, and 520 km south of Visakhapatnam, according to...",
+    "url": "https://www.thehindu.com/news/national/kerala/800-houses-in-division-59-of-kochi-corporation-to-get-sewerage-connection-by-december/article71641857.ece",
+    "publishedAt": "2026-11-01T19:09:12Z",
+    "summary": "Half of the houses in the division will be connected to the new STP, which is expected to cover around 1,800 households",
     "author": "",
     "sourceRegion": "Asia",
     "sourceCountry": "India",
@@ -2175,7 +3700,31 @@
     "tags": [
       "World"
     ],
-    "rankScore": 70.21
+    "rankScore": 76.71
+  },
+  {
+    "id": "gn-22c8c0229e6eb74a",
+    "title": "Thammanam-Pullepady road project gets a fresh push",
+    "source": "The Hindu",
+    "sourceId": "the-hindu",
+    "url": "https://www.thehindu.com/news/national/kerala/thammanam-pullepady-road-project-gets-a-fresh-push/article71652714.ece",
+    "publishedAt": "2026-11-01T19:08:35Z",
+    "summary": "11(1) notification for land acquisition published; final survey to determine land required from each plot, followed by demarcation of boundaries and assessment of building values",
+    "author": "",
+    "sourceRegion": "Asia",
+    "sourceCountry": "India",
+    "defaultCategory": "world",
+    "priority": 87,
+    "language": "en",
+    "category": "business",
+    "subcategory": "companies",
+    "region": "Middle East",
+    "country": "Amman",
+    "tags": [
+      "Business",
+      "Companies"
+    ],
+    "rankScore": 76.69
   },
   {
     "id": "gn-02e3f6d5fe4c29bb",
@@ -2199,7 +3748,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 82.45
+    "rankScore": 76.58
   },
   {
     "id": "gn-6d0401ee403380cf",
@@ -2208,7 +3757,7 @@
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/campaign/6187043-stevens-defends-rogers-endorsement/",
     "publishedAt": "2026-11-01T19:02:12Z",
-    "summary": "Democratic Rep. Haley Stevens (Mich.) defended her last-minute endorsement of Republican Mike Rogers in the battleground Michigan Senate race after initially supporting Democrat Abdul El-Sayed “I’m not turning my back on Democrats,” she...",
+    "summary": "Democratic Rep. Haley Stevens (Mich.) defended her last-minute endorsement of Republican nominee Mike Rogers in the battleground Michigan Senate race after initially supporting Democratic candidate Abdul El-Sayed. “I’m not turning my back...",
     "author": "Caroline Vakil",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -2223,7 +3772,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 81.82
+    "rankScore": 75.98
   },
   {
     "id": "gn-7dcbebcdebf53591",
@@ -2232,7 +3781,7 @@
     "sourceId": "the-hill",
     "url": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/",
     "publishedAt": "2026-11-01T19:01:40Z",
-    "summary": "President Trump said his strategy if the GOP loses control of the House and the Senate would be to “become Mr. Veto.” “Well, if that happens, I guess I’ll become Mr. Veto. I’m not going to let them through,” Trump said during an interview...",
+    "summary": "President Trump said his strategy if the GOP loses control of the House and Senate would be to “become Mr. Veto.” “Well, if that happens, I guess I’ll become Mr. Veto. I’m not going to let them through,” Trump told the New York Post’s...",
     "author": "Mira Bhakta",
     "sourceRegion": "Americas",
     "sourceCountry": "United States",
@@ -2248,7 +3797,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 81.8
+    "rankScore": 75.97
   },
   {
     "id": "gn-4508c72b91951187",
@@ -2273,7 +3822,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 85.08
+    "rankScore": 79.25
   },
   {
     "id": "gn-d80abaab94147c93",
@@ -2298,7 +3847,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 85.06
+    "rankScore": 79.24
   },
   {
     "id": "gn-e11998deba44db35",
@@ -2323,7 +3872,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.94
+    "rankScore": 78.12
   },
   {
     "id": "gn-21369745a93ef638",
@@ -2346,7 +3895,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.98
+    "rankScore": 79.18
   },
   {
     "id": "gn-2b5a9b142a95986e",
@@ -2370,7 +3919,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 69.83
+    "rankScore": 64.92
   },
   {
     "id": "gn-e13a14f36e8c8a3d",
@@ -2394,7 +3943,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.12
+    "rankScore": 76.36
   },
   {
     "id": "gn-fcd9776870f2e711",
@@ -2418,7 +3967,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.09
+    "rankScore": 76.33
   },
   {
     "id": "gn-887fc3ba963678ef",
@@ -2441,16 +3990,16 @@
     "tags": [
       "World"
     ],
-    "rankScore": 86.95
+    "rankScore": 81.22
   },
   {
     "id": "gn-369f11980ac1af3c",
-    "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+    "title": "Michigan Democrat Haley Stevens endorses Republican Senate candidate",
     "source": "Al Jazeera English",
     "sourceId": "al-jazeera",
     "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
     "publishedAt": "2026-11-01T18:51:07Z",
-    "summary": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.",
+    "summary": "Stevens, who lost the primary to Abdul El-Sayed, shifts support to Republican Mike Rogers days before midterm election.",
     "author": "",
     "sourceRegion": "Middle East",
     "sourceCountry": "Qatar",
@@ -2460,12 +4009,13 @@
     "category": "politics",
     "subcategory": "us politics",
     "region": "Americas",
-    "country": "Us",
+    "country": "Senate",
     "tags": [
+      "Public Health",
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.72
+    "rankScore": 79.0
   },
   {
     "id": "gn-2b700a28a382817d",
@@ -2489,7 +4039,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 81.92
+    "rankScore": 76.22
   },
   {
     "id": "gn-7a10b2a21f5a6436",
@@ -2512,7 +4062,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.77
+    "rankScore": 75.08
   },
   {
     "id": "gn-fb868738010de5fb",
@@ -2535,7 +4085,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 83.98
+    "rankScore": 78.32
   },
   {
     "id": "gn-f13fd0cf756387da",
@@ -2559,7 +4109,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 81.22
+    "rankScore": 75.56
   },
   {
     "id": "gn-ae088bbe109b6302",
@@ -2583,7 +4133,7 @@
       "Health",
       "Wellness"
     ],
-    "rankScore": 81.76
+    "rankScore": 76.11
   },
   {
     "id": "gn-53ce1566864c1dcb",
@@ -2606,7 +4156,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.73
+    "rankScore": 76.08
   },
   {
     "id": "gn-1092b17cc90d47f8",
@@ -2653,7 +4203,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 81.7
+    "rankScore": 76.06
   },
   {
     "id": "gn-124fbcc855c09854",
@@ -2676,7 +4226,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.66
+    "rankScore": 76.03
   },
   {
     "id": "gn-7815f1acaea91d27",
@@ -2701,7 +4251,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 83.73
+    "rankScore": 78.15
   },
   {
     "id": "gn-f1e7e175b60099c0",
@@ -2725,7 +4275,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 83.7
+    "rankScore": 78.12
   },
   {
     "id": "gn-991e23bd936f581c",
@@ -2751,7 +4301,7 @@
       "Environment",
       "Energy"
     ],
-    "rankScore": 85.34
+    "rankScore": 79.77
   },
   {
     "id": "gn-409ead459468cf2f",
@@ -2777,7 +4327,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 84.24
+    "rankScore": 78.67
   },
   {
     "id": "gn-a945c685d2513e70",
@@ -2800,7 +4350,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.48
+    "rankScore": 75.91
   },
   {
     "id": "gn-ce1121df8a54efb1",
@@ -2823,7 +4373,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.45
+    "rankScore": 75.89
   },
   {
     "id": "gn-de7bb1904b879ac0",
@@ -2846,7 +4396,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.37
+    "rankScore": 75.83
   },
   {
     "id": "gn-961d083c2ac32c8d",
@@ -2916,7 +4466,7 @@
     "tags": [
       "Culture"
     ],
-    "rankScore": 80.72
+    "rankScore": 75.22
   },
   {
     "id": "gn-7b1d0b580e3cd7d4",
@@ -2940,7 +4490,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 80.62
+    "rankScore": 75.15
   },
   {
     "id": "gn-e70e69d1c7ef7a40",
@@ -2964,7 +4514,7 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 81.14
+    "rankScore": 75.68
   },
   {
     "id": "gn-67d6f00df069b362",
@@ -2988,7 +4538,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.88
+    "rankScore": 78.42
   },
   {
     "id": "gn-4101f29749d7c056",
@@ -3011,16 +4561,16 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.11
+    "rankScore": 75.65
   },
   {
     "id": "gn-4e2cf1c86adbc495",
-    "title": "Longest truce of Ukraine war, in Kherson region, set to end",
+    "title": "Longest truce of Ukraine war ends in Kherson region",
     "source": "South China Morning Post",
     "sourceId": "scmp",
     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
     "publishedAt": "2026-11-01T18:25:28Z",
-    "summary": "The longest truce of the Ukraine war, brokered by US First Lady Melania Trump and limited to just the Kherson region, was set to end on Sunday evening after neither side announced an extension. The rare pause in fighting, which began early...",
+    "summary": "The longest truce of the Ukraine war, limited to the eastern Kherson region, ended on Sunday after Russia refused the offer of an extension, Ukrainian officials said. The rare pause in fighting, brokered by US first lady Melania Trump and...",
     "author": "Agence France-Presse",
     "sourceRegion": "Asia",
     "sourceCountry": "Hong Kong",
@@ -3034,10 +4584,11 @@
     "tags": [
       "Donald Trump",
       "Ukraine",
+      "Russia",
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.17
+    "rankScore": 76.73
   },
   {
     "id": "gn-0011d39196de2056",
@@ -3061,7 +4612,7 @@
       "Business",
       "Companies"
     ],
-    "rankScore": 67.96
+    "rankScore": 63.34
   },
   {
     "id": "gn-4996cdeeed04f43b",
@@ -3110,7 +4661,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 81.0
+    "rankScore": 75.58
   },
   {
     "id": "gn-88b1497226343f45",
@@ -3133,7 +4684,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.0
+    "rankScore": 75.58
   },
   {
     "id": "gn-b35997f1069e4273",
@@ -3157,7 +4708,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 80.94
+    "rankScore": 75.54
   },
   {
     "id": "gn-e4ddd0bfd7aaf61d",
@@ -3182,7 +4733,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.38
+    "rankScore": 74.98
   },
   {
     "id": "gn-649a541017bddb79",
@@ -3206,7 +4757,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.38
+    "rankScore": 74.98
   },
   {
     "id": "gn-649eb82aba1f056b",
@@ -3230,7 +4781,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 79.79
+    "rankScore": 74.4
   },
   {
     "id": "gn-0693f8ec138ede77",
@@ -3303,7 +4854,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.21
+    "rankScore": 74.86
   },
   {
     "id": "gn-41764f90d063abf0",
@@ -3326,7 +4877,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.71
+    "rankScore": 75.37
   },
   {
     "id": "gn-22261757150e1761",
@@ -3351,7 +4902,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 80.06
+    "rankScore": 74.75
   },
   {
     "id": "gn-8377075873bc9441",
@@ -3374,7 +4925,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 82.76
+    "rankScore": 77.47
   },
   {
     "id": "gn-8c32413bc9742a7a",
@@ -3398,7 +4949,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 80.46
+    "rankScore": 75.2
   },
   {
     "id": "gn-64f762de3a91439b",
@@ -3421,7 +4972,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.46
+    "rankScore": 75.19
   },
   {
     "id": "gn-47ecd00dc423f3a5",
@@ -3444,7 +4995,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.38
+    "rankScore": 75.14
   },
   {
     "id": "gn-7aac1185b2b7ea79",
@@ -3467,32 +5018,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.35
-  },
-  {
-    "id": "gn-7119d65eae7ab255",
-    "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
-    "source": "Financial Times",
-    "sourceId": "financial-times",
-    "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
-    "publishedAt": "2026-11-01T18:02:52Z",
-    "summary": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "business",
-    "priority": 95,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Middle East",
-    "country": "Israel",
-    "tags": [
-      "Middle East",
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 84.72
+    "rankScore": 75.12
   },
   {
     "id": "gn-17259b19b7698dd6",
@@ -3515,7 +5041,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.36
+    "rankScore": 76.16
   },
   {
     "id": "gn-b192a5a378896150",
@@ -3540,7 +5066,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.0
+    "rankScore": 77.8
   },
   {
     "id": "gn-d2de5fa77be6ffaf",
@@ -3588,7 +5114,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 79.68
+    "rankScore": 74.48
   },
   {
     "id": "gn-ccb3908eb99a8ea0",
@@ -3612,7 +5138,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 80.23
+    "rankScore": 75.03
   },
   {
     "id": "gn-01224729f03f130b",
@@ -3635,7 +5161,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 82.91
+    "rankScore": 77.74
   },
   {
     "id": "gn-0fcc32678c419dfd",
@@ -3658,7 +5184,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 85.07
+    "rankScore": 79.91
   },
   {
     "id": "gn-4f0d4b873b9a072e",
@@ -3681,7 +5207,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 82.26
+    "rankScore": 77.11
   },
   {
     "id": "gn-8bd265b3c2b2c037",
@@ -3705,7 +5231,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 82.26
+    "rankScore": 77.11
   },
   {
     "id": "gn-3ba56f3fae090328",
@@ -3730,7 +5256,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 83.74
+    "rankScore": 78.64
   },
   {
     "id": "gn-9708da05fb1d33b8",
@@ -3755,7 +5281,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.77
+    "rankScore": 73.68
   },
   {
     "id": "gn-a361337adb894049",
@@ -3779,7 +5305,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 79.84
+    "rankScore": 74.76
   },
   {
     "id": "gn-40e76b348e8208ea",
@@ -3804,7 +5330,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 83.68
+    "rankScore": 78.61
   },
   {
     "id": "gn-cba242c9fcaea460",
@@ -3827,7 +5353,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.8
+    "rankScore": 74.73
   },
   {
     "id": "gn-184523371fd51eef",
@@ -3851,7 +5377,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 80.88
+    "rankScore": 75.82
   },
   {
     "id": "gn-b6cc09af60fce34d",
@@ -3874,7 +5400,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 80.86
+    "rankScore": 75.8
   },
   {
     "id": "gn-c204296a777ffd83",
@@ -3900,7 +5426,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 80.84
+    "rankScore": 75.79
   },
   {
     "id": "gn-d24a847721e33e73",
@@ -3924,7 +5450,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 81.38
+    "rankScore": 76.33
   },
   {
     "id": "gn-c136ff3e182f9d0b",
@@ -3949,7 +5475,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.54
+    "rankScore": 73.51
   },
   {
     "id": "gn-c33f75e717ac2fdf",
@@ -3999,7 +5525,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.89
+    "rankScore": 73.92
   },
   {
     "id": "gn-7f5bf2d3044001a0",
@@ -4023,7 +5549,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 81.61
+    "rankScore": 76.66
   },
   {
     "id": "gn-37e801fe78288201",
@@ -4047,30 +5573,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 82.14
-  },
-  {
-    "id": "gn-62de9aa7a0493c6f",
-    "title": "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/cities/chennai/storm-murasu-to-bring-very-heavy-rains-over-north-tamil-nadu/article71653048.ece",
-    "publishedAt": "2026-11-01T17:32:59Z",
-    "summary": "Isolated places over Chennai, Chengalpattu, Kancheepuram, Ranipet and Nilgiris districts are likely to get heavy rainfall on Monday, November 2; Chennai District Collector S. Malathi Helen announced holiday for schools on account of heavy...",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 79.38
+    "rankScore": 77.19
   },
   {
     "id": "gn-3d04b490374fc259",
@@ -4143,7 +5646,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 80.94
+    "rankScore": 76.02
   },
   {
     "id": "gn-13d6556f3aede1cd",
@@ -4191,7 +5694,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 83.11
+    "rankScore": 78.2
   },
   {
     "id": "gn-0b3f901d9912488a",
@@ -4214,7 +5717,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 84.21
+    "rankScore": 79.3
   },
   {
     "id": "gn-09f88f028a2e4fff",
@@ -4238,7 +5741,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 79.25
+    "rankScore": 74.34
   },
   {
     "id": "gn-604219b68e4b7cd6",
@@ -4262,7 +5765,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 79.23
+    "rankScore": 74.33
   },
   {
     "id": "gn-1e1b31eafcd73e53",
@@ -4286,7 +5789,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 79.17
+    "rankScore": 74.29
   },
   {
     "id": "gn-92b80558bb9d5ea8",
@@ -4313,7 +5816,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 82.84
+    "rankScore": 78.01
   },
   {
     "id": "gn-e2b4a121215a577a",
@@ -4336,7 +5839,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.91
+    "rankScore": 74.1
   },
   {
     "id": "gn-0cdb92ce3209f040",
@@ -4361,7 +5864,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 80.52
+    "rankScore": 75.72
   },
   {
     "id": "gn-b5c5b5b8ab24d714",
@@ -4384,7 +5887,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.8
+    "rankScore": 74.02
   },
   {
     "id": "gn-37aea1de5dd94491",
@@ -4408,7 +5911,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 78.75
+    "rankScore": 73.98
   },
   {
     "id": "gn-3145c8a4a52227b6",
@@ -4432,7 +5935,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 80.91
+    "rankScore": 76.15
   },
   {
     "id": "gn-9b4d3090d756aeec",
@@ -4455,7 +5958,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.66
+    "rankScore": 73.92
   },
   {
     "id": "gn-1147e757a61a7774",
@@ -4479,7 +5982,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 78.64
+    "rankScore": 73.91
   },
   {
     "id": "gn-1430264312bf4db7",
@@ -4502,7 +6005,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.64
+    "rankScore": 73.91
   },
   {
     "id": "gn-751e64f60d705f5c",
@@ -4525,7 +6028,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.6
+    "rankScore": 73.87
   },
   {
     "id": "gn-162b661469009061",
@@ -4549,7 +6052,7 @@
       "Middle East",
       "World"
     ],
-    "rankScore": 83.53
+    "rankScore": 78.82
   },
   {
     "id": "gn-d5938d15913cdd77",
@@ -4572,7 +6075,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.55
+    "rankScore": 73.84
   },
   {
     "id": "gn-5d31e3914c62fe3e",
@@ -4596,7 +6099,7 @@
       "Public Health",
       "Health"
     ],
-    "rankScore": 83.5
+    "rankScore": 78.79
   },
   {
     "id": "gn-43d2070d88f08d82",
@@ -4620,16 +6123,16 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 78.49
+    "rankScore": 73.8
   },
   {
     "id": "gn-daee5919e5a9dd10",
-    "title": "6 dead, dozens injured in Halloween weekend gun violence across US",
+    "title": "Wave of US Halloween weekend shootings leaves 6 dead, dozens wounded",
     "source": "South China Morning Post",
     "sourceId": "scmp",
     "url": "https://www.scmp.com/news/world/united-states-canada/article/3372906/4-dead-15-injured-3-separate-shootings-dallas-texas-halloween-night-police-say",
     "publishedAt": "2026-11-01T17:02:08Z",
-    "summary": "Dozens of people were injured and at least six people died in mass shootings as gun violence broke out at nightlife districts in half a dozen cities across the country over the Halloween weekend. Police in Dallas, the site of the deadliest...",
+    "summary": "Mass shootings over the Halloween weekend - largely in nightlife districts across the US - left at least six people dead and dozens injured, officials said. The deadliest violence occurred in Dallas, where a handful of shootings in the...",
     "author": "Associated Press",
     "sourceRegion": "Asia",
     "sourceCountry": "Hong Kong",
@@ -4643,7 +6146,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 79.56
+    "rankScore": 74.87
   },
   {
     "id": "gn-989d82dc38cd3093",
@@ -4666,7 +6169,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 78.41
+    "rankScore": 73.74
   },
   {
     "id": "gn-b873178dad004567",
@@ -4690,7 +6193,7 @@
       "United Kingdom",
       "World"
     ],
-    "rankScore": 82.25
+    "rankScore": 77.59
   },
   {
     "id": "gn-26466ebf6a052494",
@@ -4715,7 +6218,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 82.8
+    "rankScore": 78.13
   },
   {
     "id": "gn-81580ef1b4ad08cc",
@@ -4740,7 +6243,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.85
+    "rankScore": 73.18
   },
   {
     "id": "gn-fb0cab56edf40ecf",
@@ -4764,7 +6267,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.85
+    "rankScore": 73.18
   },
   {
     "id": "gn-8004ddfe3fc6a26f",
@@ -4787,7 +6290,7 @@
     "tags": [
       "Science"
     ],
-    "rankScore": 78.95
+    "rankScore": 74.28
   },
   {
     "id": "gn-c07604d542df7a70",
@@ -4835,7 +6338,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 83.27
+    "rankScore": 78.62
   },
   {
     "id": "gn-9e0298428f0e2196",
@@ -4906,7 +6409,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 80.12
+    "rankScore": 75.58
   },
   {
     "id": "gn-c3710ef0ce562576",
@@ -4929,7 +6432,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.91
+    "rankScore": 73.38
   },
   {
     "id": "gn-5954541ac1d0a54e",
@@ -5001,7 +6504,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.76
+    "rankScore": 73.27
   },
   {
     "id": "gn-9cb67d15b3d26ed7",
@@ -5025,31 +6528,7 @@
       "Business",
       "Companies"
     ],
-    "rankScore": 77.74
-  },
-  {
-    "id": "gn-6d758e924861a5c3",
-    "title": "‘You can break a stick, not a bundle’: Thousands turn up for INDIA bloc rally from across the country",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/you-can-break-a-stick-not-a-bundle-from-an-it-couple-to-a-hospital-patient-citizens-turn-up-for-india-bloc-rally/article71652556.ece",
-    "publishedAt": "2026-11-01T16:34:45Z",
-    "summary": "Citizens, youth groups, farmers and political party workers gather ahead of the Ramlila Maidan rally, saying a united movement is needed to fight alleged vote theft and electoral roll irregularities",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "business",
-    "subcategory": "markets",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Business",
-      "Markets"
-    ],
-    "rankScore": 77.69
+    "rankScore": 73.25
   },
   {
     "id": "gn-382674ea384ca7f4",
@@ -5073,7 +6552,7 @@
       "Russia",
       "World"
     ],
-    "rankScore": 77.12
+    "rankScore": 72.66
   },
   {
     "id": "gn-bf7be7389a080a99",
@@ -5097,7 +6576,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.66
+    "rankScore": 73.2
   },
   {
     "id": "gn-82be18f8bde8b6b9",
@@ -5120,7 +6599,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.64
+    "rankScore": 73.19
   },
   {
     "id": "gn-0bd8c45ef48df3d2",
@@ -5144,7 +6623,7 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 77.64
+    "rankScore": 73.19
   },
   {
     "id": "gn-ff084161c44a1b5b",
@@ -5168,7 +6647,7 @@
       "Tesla",
       "World"
     ],
-    "rankScore": 76.46
+    "rankScore": 72.03
   },
   {
     "id": "gn-164fc1975007e19b",
@@ -5192,7 +6671,7 @@
       "United Kingdom",
       "World"
     ],
-    "rankScore": 76.38
+    "rankScore": 71.97
   },
   {
     "id": "gn-da46682620401c65",
@@ -5215,7 +6694,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.48
+    "rankScore": 73.07
   },
   {
     "id": "gn-d0b3e83ade981592",
@@ -5239,7 +6718,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.92
+    "rankScore": 72.52
   },
   {
     "id": "gn-223bfb5dabdd1f04",
@@ -5262,7 +6741,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 81.26
+    "rankScore": 76.87
   },
   {
     "id": "gn-8e440b3c51cb3fc4",
@@ -5310,7 +6789,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.38
+    "rankScore": 72.99
   },
   {
     "id": "gn-697b5a4f60abf7b7",
@@ -5356,7 +6835,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 77.29
+    "rankScore": 72.93
   },
   {
     "id": "gn-184914e61a9ca964",
@@ -5450,7 +6929,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 78.92
+    "rankScore": 74.57
   },
   {
     "id": "gn-53b4c619286cb65f",
@@ -5710,7 +7189,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.53
+    "rankScore": 72.23
   },
   {
     "id": "gn-5b236efe593ecded",
@@ -5758,7 +7237,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 80.92
+    "rankScore": 76.62
   },
   {
     "id": "gn-a819260c6a9d6cd5",
@@ -5829,7 +7308,7 @@
       "Sports",
       "Tennis"
     ],
-    "rankScore": 79.24
+    "rankScore": 74.95
   },
   {
     "id": "gn-fad3ec31aae914ec",
@@ -5875,7 +7354,7 @@
     "tags": [
       "Business"
     ],
-    "rankScore": 80.29
+    "rankScore": 76.01
   },
   {
     "id": "gn-7599af13d2a7cb42",
@@ -5946,31 +7425,7 @@
       "United Kingdom",
       "Business"
     ],
-    "rankScore": 81.16
-  },
-  {
-    "id": "gn-fa550dcfc2ca169d",
-    "title": "Why you can’t wear, bring political gear to a polling place in these states",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/state-watch/6159011-why-you-cant-wear-bring-political-gear-to-a-polling-place-in-these-states/",
-    "publishedAt": "2026-11-01T16:00:00Z",
-    "summary": "States have different guidance regarding electioneering at or near a polling place.",
-    "author": "Addy Bink",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 76.21
+    "rankScore": 76.95
   },
   {
     "id": "gn-a80dba45faccfba0",
@@ -5994,7 +7449,31 @@
       "Science",
       "Physics"
     ],
-    "rankScore": 76.21
+    "rankScore": 72.0
+  },
+  {
+    "id": "gn-fa550dcfc2ca169d",
+    "title": "Why you can’t wear, bring political gear to a polling place in these states",
+    "source": "The Hill",
+    "sourceId": "the-hill",
+    "url": "https://thehill.com/homenews/state-watch/6159011-why-you-cant-wear-bring-political-gear-to-a-polling-place-in-these-states/",
+    "publishedAt": "2026-11-01T16:00:00Z",
+    "summary": "States have different guidance regarding electioneering at or near a polling place.",
+    "author": "Addy Bink",
+    "sourceRegion": "Americas",
+    "sourceCountry": "United States",
+    "defaultCategory": "politics",
+    "priority": 86,
+    "language": "en",
+    "category": "politics",
+    "subcategory": "elections",
+    "region": "Americas",
+    "country": "United States",
+    "tags": [
+      "Politics",
+      "Elections"
+    ],
+    "rankScore": 72.0
   },
   {
     "id": "gn-d59339e3606067bd",
@@ -6019,7 +7498,7 @@
       "Sports",
       "Tennis"
     ],
-    "rankScore": 78.85
+    "rankScore": 74.67
   },
   {
     "id": "gn-7e2c00e4f1f43f6c",
@@ -6042,7 +7521,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 75.44
+    "rankScore": 71.28
   },
   {
     "id": "gn-983bdd9fd886f27c",
@@ -6091,7 +7570,7 @@
       "Culture",
       "Books"
     ],
-    "rankScore": 77.61
+    "rankScore": 73.46
   },
   {
     "id": "gn-d4aa012e3c933062",
@@ -6115,7 +7594,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 78.7
+    "rankScore": 74.56
   },
   {
     "id": "gn-9196d3f52904b910",
@@ -6233,7 +7712,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.63
+    "rankScore": 71.57
   },
   {
     "id": "gn-50adffbed68d5631",
@@ -6283,7 +7762,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 77.2
+    "rankScore": 73.17
   },
   {
     "id": "gn-37c6febb4fd9fbaf",
@@ -6307,7 +7786,7 @@
       "Business",
       "Markets"
     ],
-    "rankScore": 78.24
+    "rankScore": 74.22
   },
   {
     "id": "gn-657955442f110920",
@@ -6353,7 +7832,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 74.91
+    "rankScore": 70.89
   },
   {
     "id": "gn-607da338d858f4f5",
@@ -6447,7 +7926,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 77.93
+    "rankScore": 73.99
   },
   {
     "id": "gn-d65b691f3e6c7c36",
@@ -6470,7 +7949,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 77.89
+    "rankScore": 73.96
   },
   {
     "id": "gn-e115d55ee427ce0d",
@@ -6518,7 +7997,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.11
+    "rankScore": 71.19
   },
   {
     "id": "gn-a4d4a5c054bd0cef",
@@ -6541,7 +8020,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 65.69
+    "rankScore": 62.36
   },
   {
     "id": "gn-20187cced98f3548",
@@ -6566,7 +8045,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 76.66
+    "rankScore": 72.77
   },
   {
     "id": "gn-aa05f5784e328531",
@@ -6592,7 +8071,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.81
+    "rankScore": 70.97
   },
   {
     "id": "gn-818e202cff67abd7",
@@ -6640,7 +8119,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 77.53
+    "rankScore": 73.69
   },
   {
     "id": "gn-0cf7c50326dae606",
@@ -6663,7 +8142,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 74.78
+    "rankScore": 70.94
   },
   {
     "id": "gn-57295e2132c6082e",
@@ -6687,7 +8166,7 @@
       "China",
       "World"
     ],
-    "rankScore": 76.4
+    "rankScore": 72.57
   },
   {
     "id": "gn-7d27076cc9e210e2",
@@ -6711,7 +8190,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 76.94
+    "rankScore": 73.12
   },
   {
     "id": "gn-53574ad5d21577b0",
@@ -6736,7 +8215,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 74.74
+    "rankScore": 70.92
   },
   {
     "id": "gn-6067e6bc5a3a05ce",
@@ -6760,7 +8239,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 75.84
+    "rankScore": 72.02
   },
   {
     "id": "gn-8dfeafcbec19fa7e",
@@ -6785,7 +8264,7 @@
       "Russia",
       "World"
     ],
-    "rankScore": 76.3
+    "rankScore": 72.5
   },
   {
     "id": "gn-8812d232d0ff379d",
@@ -6809,7 +8288,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.65
+    "rankScore": 70.85
   },
   {
     "id": "gn-a14df165becd2cc4",
@@ -6833,7 +8312,7 @@
       "Business",
       "Banking"
     ],
-    "rankScore": 79.57
+    "rankScore": 75.78
   },
   {
     "id": "gn-aaf00cc47564d5a9",
@@ -6859,7 +8338,7 @@
       "Environment",
       "Conservation"
     ],
-    "rankScore": 76.25
+    "rankScore": 72.46
   },
   {
     "id": "gn-0e1c1e1114a69f78",
@@ -6883,7 +8362,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 75.62
+    "rankScore": 71.85
   },
   {
     "id": "gn-05a08f2605cf585c",
@@ -6931,7 +8410,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 76.02
+    "rankScore": 72.29
   },
   {
     "id": "gn-9f0fad7b0a40c6ed",
@@ -7002,7 +8481,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 76.33
+    "rankScore": 72.66
   },
   {
     "id": "gn-26e24e5ac5542d4d",
@@ -7051,7 +8530,7 @@
       "Politics",
       "European Politics"
     ],
-    "rankScore": 75.75
+    "rankScore": 72.09
   },
   {
     "id": "gn-f85d931b5f2b3f5e",
@@ -7074,7 +8553,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 73.53
+    "rankScore": 69.87
   },
   {
     "id": "gn-e75c593fb28d727b",
@@ -7145,7 +8624,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 76.65
+    "rankScore": 73.04
   },
   {
     "id": "gn-f0dec0443b9b1d71",
@@ -7263,7 +8742,7 @@
     "tags": [
       "Sports"
     ],
-    "rankScore": 76.4
+    "rankScore": 72.86
   },
   {
     "id": "gn-7c777e4a9ba54a4f",
@@ -7310,7 +8789,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 73.47
+    "rankScore": 69.97
   },
   {
     "id": "gn-a91226f569877020",
@@ -7334,7 +8813,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 77.82
+    "rankScore": 74.33
   },
   {
     "id": "gn-7938736deee074f9",
@@ -7358,7 +8837,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 77.82
+    "rankScore": 74.33
   },
   {
     "id": "gn-24977e44eece671d",
@@ -7383,7 +8862,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 77.82
+    "rankScore": 74.33
   },
   {
     "id": "gn-ba16ae6c76224fb9",
@@ -7408,7 +8887,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.07
+    "rankScore": 71.58
   },
   {
     "id": "gn-af70254edc1c3e2b",
@@ -7431,7 +8910,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 73.41
+    "rankScore": 69.93
   },
   {
     "id": "gn-fad3545618a019ef",
@@ -7456,7 +8935,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 75.61
+    "rankScore": 72.13
   },
   {
     "id": "gn-03d96375a6c2662e",
@@ -7504,7 +8983,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.99
+    "rankScore": 71.52
   },
   {
     "id": "gn-2cd3ce543a5eb087",
@@ -7528,7 +9007,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 76.09
+    "rankScore": 72.62
   },
   {
     "id": "gn-58c2dea140fb180f",
@@ -7554,7 +9033,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 75.99
+    "rankScore": 72.55
   },
   {
     "id": "gn-5dd6a2490665cbf5",
@@ -7626,7 +9105,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 74.8
+    "rankScore": 71.38
   },
   {
     "id": "gn-9314968b062eb1d7",
@@ -7793,7 +9272,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 74.68
+    "rankScore": 71.29
   },
   {
     "id": "gn-34b0815912c98ae9",
@@ -8126,7 +9605,7 @@
       "Culture",
       "Music"
     ],
-    "rankScore": 74.46
+    "rankScore": 71.12
   },
   {
     "id": "gn-efb13f3aaf6ac22b",
@@ -8597,7 +10076,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 75.81
+    "rankScore": 72.54
   },
   {
     "id": "gn-820704588ce392b1",
@@ -8765,7 +10244,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 74.11
+    "rankScore": 70.85
   },
   {
     "id": "gn-343089d55b0198c5",
@@ -8789,7 +10268,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 77.93
+    "rankScore": 74.69
   },
   {
     "id": "gn-e393680a09d73900",
@@ -9003,7 +10482,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 75.51
+    "rankScore": 72.32
   },
   {
     "id": "gn-2a6a3aa565609e09",
@@ -9028,7 +10507,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 72.21
+    "rankScore": 69.02
   },
   {
     "id": "gn-9faae96f95a036e8",
@@ -9051,7 +10530,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 74.41
+    "rankScore": 71.22
   },
   {
     "id": "gn-0b023320d1e6c259",
@@ -9075,7 +10554,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 74.41
+    "rankScore": 71.22
   },
   {
     "id": "gn-fcc4e922c0e1337a",
@@ -9100,7 +10579,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 73.31
+    "rankScore": 70.12
   },
   {
     "id": "gn-3b0fa3fed5e07d2f",
@@ -9316,7 +10795,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 73.52
+    "rankScore": 70.41
   },
   {
     "id": "gn-2e546a2d112ca1fe",
@@ -9364,7 +10843,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 73.41
+    "rankScore": 70.32
   },
   {
     "id": "gn-50f784969bdc8eca",
@@ -9459,7 +10938,7 @@
       "Politics",
       "Diplomacy"
     ],
-    "rankScore": 73.3
+    "rankScore": 70.24
   },
   {
     "id": "gn-469faa77f52ca8c5",
@@ -9482,7 +10961,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 73.3
+    "rankScore": 70.24
   },
   {
     "id": "gn-fd74fa9ad559b122",
@@ -9506,7 +10985,7 @@
       "Sports",
       "Football"
     ],
-    "rankScore": 74.35
+    "rankScore": 71.3
   },
   {
     "id": "gn-4d780aba4b0b6cf6",
@@ -9602,30 +11081,6 @@
     "rankScore": 90.25
   },
   {
-    "id": "gn-77718b7d50e791c6",
-    "title": "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally",
-    "source": "The Hindu",
-    "sourceId": "the-hindu",
-    "url": "https://www.thehindu.com/news/national/india-bloc-rally-congress-on-modi-sir-gyanesh-kumar/article71652720.ece",
-    "publishedAt": "2026-11-01T12:11:44Z",
-    "summary": "Addressing INDIA bloc's rally at Ramlila Maidan on the \"vote chori\" charge, Mr. Kharge also accused Prime Minister Modi and Home Minister Amit Shah of shielding Chief Election Commissioner (CEC) Gyanesh Kumar",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 87,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 87.46
-  },
-  {
     "id": "gn-544d5b9e73d1af52",
     "title": "Depression over Bay of Bengal may bring rain to Telangana, heavy showers likely in nine districts on November 2",
     "source": "The Hindu",
@@ -9692,7 +11147,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 72.86
+    "rankScore": 69.9
   },
   {
     "id": "gn-2fb0efb57addc66b",
@@ -9807,7 +11262,7 @@
     "tags": [
       "Politics"
     ],
-    "rankScore": 71.15
+    "rankScore": 68.2
   },
   {
     "id": "gn-a1fe8d425a90d6bb",
@@ -9833,7 +11288,7 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 72.77
+    "rankScore": 69.83
   },
   {
     "id": "gn-672742408fa08b0e",
@@ -9858,7 +11313,7 @@
       "Technology",
       "Ai"
     ],
-    "rankScore": 72.77
+    "rankScore": 69.83
   },
   {
     "id": "gn-f063ceae6ff751ba",
@@ -9884,7 +11339,7 @@
       "Business",
       "Economy"
     ],
-    "rankScore": 75.51
+    "rankScore": 72.58
   },
   {
     "id": "gn-c23711d422505606",
@@ -9908,7 +11363,7 @@
       "Technology",
       "Cybersecurity"
     ],
-    "rankScore": 75.51
+    "rankScore": 72.58
   },
   {
     "id": "gn-52531c95d9eac474",
@@ -9933,7 +11388,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 72.76
+    "rankScore": 69.83
   },
   {
     "id": "gn-0db19a6c87663d9e",
@@ -9957,7 +11412,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 75.51
+    "rankScore": 72.58
   },
   {
     "id": "gn-8dd248bbb39cbd72",
@@ -9981,7 +11436,7 @@
       "United Kingdom",
       "Business"
     ],
-    "rankScore": 64.65
+    "rankScore": 62.16
   },
   {
     "id": "gn-ab0874ebf7f82c24",
@@ -10029,7 +11484,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 74.41
+    "rankScore": 71.48
   },
   {
     "id": "gn-5bd64ba4b6292644",
@@ -10054,7 +11509,7 @@
       "Technology",
       "Software"
     ],
-    "rankScore": 72.76
+    "rankScore": 69.83
   },
   {
     "id": "gn-b9197614823f92ad",
@@ -10080,7 +11535,7 @@
       "Culture",
       "Film"
     ],
-    "rankScore": 72.76
+    "rankScore": 69.83
   },
   {
     "id": "gn-9fb9bf6433cd5d46",
@@ -10103,7 +11558,7 @@
     "tags": [
       "World"
     ],
-    "rankScore": 76.57
+    "rankScore": 73.65
   },
   {
     "id": "gn-175d726bcdfc0840",
@@ -10175,7 +11630,7 @@
       "Technology",
       "Crypto"
     ],
-    "rankScore": 75.41
+    "rankScore": 72.5
   },
   {
     "id": "gn-8e9e0b8dc53ae835",
@@ -10366,7 +11821,7 @@
       "Politics",
       "Elections"
     ],
-    "rankScore": 72.34
+    "rankScore": 69.51
   },
   {
     "id": "gn-389580b6e51fe644",
@@ -10389,7 +11844,7 @@
     "tags": [
       "Technology"
     ],
-    "rankScore": 72.25
+    "rankScore": 69.43
   },
   {
     "id": "gn-60e34e7876bb532b",
@@ -10413,7 +11868,7 @@
       "Science",
       "Space"
     ],
-    "rankScore": 72.25
+    "rankScore": 69.43
   },
   {
     "id": "gn-9c6c6320f0d9bfa7",
@@ -10532,1439 +11987,6 @@
       "Politics",
       "Us Politics"
     ],
-    "rankScore": 71.99
-  },
-  {
-    "id": "gn-0b51841f705cd8b9",
-    "title": "A day of celebration in Senegal as the Youth Olympic Games get underway",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261101-a-day-of-celebration-in-senegal-as-the-youth-olympic-games-get-underway",
-    "publishedAt": "2026-11-01T11:14:31Z",
-    "summary": "It is a historic day for Africa and Senegal. For the first time ever, an Olympic competition is being held on African soil. The Youth Olympic Games officially got underway in Senegal in the Dakar region on Saturday, with an opening...",
-    "author": "L'Equipe TV",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "olympics",
-    "region": "Africa",
-    "country": "Africa",
-    "tags": [
-      "Sports",
-      "Olympics"
-    ],
-    "rankScore": 71.99
-  },
-  {
-    "id": "gn-29d3993b376b3e14",
-    "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
-    "publishedAt": "2026-11-01T11:14:27Z",
-    "summary": "Trump says latest talks 'going fine'; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Middle East",
-    "country": "Iran",
-    "tags": [
-      "Donald Trump",
-      "Middle East",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 87.62
-  },
-  {
-    "id": "gn-252ddd08f8d8b778",
-    "title": "Migrants find shelter in Cyprus as EU slows admissions",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/11/01/migrants-find-shelter-in-cyprus-as-eu-slows-admissions/",
-    "publishedAt": "2026-11-01T11:13:21Z",
-    "summary": "Most migrants arrived from Somalia, Sudan, Yemen, Cameroon, Congo, Syria and Burundi, according to center officials",
-    "author": "editorial@africanews.com",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Eu",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 70.32
-  },
-  {
-    "id": "gn-141d4a48af5760d9",
-    "title": "How could a single gene-editing injection treat inherited eye diseases?",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3372867/how-could-single-gene-editing-injection-treat-inherited-eye-diseases",
-    "publishedAt": "2026-11-01T11:00:10Z",
-    "summary": "In the third of a four-part Health Matters wellness series on frontier medicine in Hong Kong, Fiona Sun examines how a local start-up is testing a gene-editing therapy that could tackle a group of inherited eye diseases at their genetic...",
-    "author": "Fiona Sun",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "health",
-    "subcategory": "public health",
-    "region": "Asia",
-    "country": "Hong Kong",
-    "tags": [
-      "Health",
-      "Public Health"
-    ],
-    "rankScore": 71.76
-  },
-  {
-    "id": "gn-7194cf97b595e193",
-    "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
-    "source": "NPR",
-    "sourceId": "npr",
-    "url": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party's next chapter.",
-    "author": "Elena Moore",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Congress",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 73.41
-  },
-  {
-    "id": "gn-f96500ac28cb33e2",
-    "title": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances",
-    "source": "Politico",
-    "sourceId": "politico",
-    "url": "https://www.politico.com/video/2026/11/01/raphael-warnock-is-nauseously-optimistic-about-dems-midterm-chances-2216473",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 90,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Politics"
-    ],
-    "rankScore": 72.31
-  },
-  {
-    "id": "gn-bec47266f38dd729",
-    "title": "2028 hopefuls with the most riding on the midterms",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/campaign/6185322-2028-presidential-contenders-midterm-elections/",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "The candidates with the most at stake in Tuesday’s midterm elections won’t necessarily be the ones on the ballot. For a growing field of prospective 2028 presidential contenders in both parties, the results could offer an early test of...",
-    "author": "Amie Parnes",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 70.11
-  },
-  {
-    "id": "gn-367ec0a1d51a68ed",
-    "title": "The 10 races that will decide House control",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/house/6185022-key-house-battleground-districts/",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "The battle for the House majority will come down to a handful of battleground districts. Republicans are playing defense as they seek to defend their 218-214 majority while facing tough political headwinds. All 435 House seats are up for...",
-    "author": "Ryan J. Karlin",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 70.11
-  },
-  {
-    "id": "gn-7ca7558fe67a9d1d",
-    "title": "Vance road tests 2028 campaign as Trump’s midterm sideshow",
-    "source": "The Hill",
-    "sourceId": "the-hill",
-    "url": "https://thehill.com/homenews/administration/6185794-vance-hones-2028-campaign-message-midterms/",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "Weatherford, TEXAS — Vice President Vance is homing in on his campaign message ahead of Election Day in what many see as a preview of a presidential bid in 2028 that seems all but certain. As President Trump has crisscrossed the country...",
-    "author": "Julia Manchester",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "politics",
-    "priority": 86,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 70.11
-  },
-  {
-    "id": "gn-a2a6dab6dd27dd38",
-    "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
-    "source": "Wired",
-    "sourceId": "wired",
-    "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
-    "author": "Molly Taft",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 71.76
-  },
-  {
-    "id": "gn-5bd8944c90da75a0",
-    "title": "5 bright planets to spot in November — when and where to see them",
-    "source": "Space.com",
-    "sourceId": "space-com",
-    "url": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
-    "publishedAt": "2026-11-01T11:00:00Z",
-    "summary": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look.",
-    "author": "Joe Rao",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "science",
-    "priority": 88,
-    "language": "en",
-    "category": "science",
-    "subcategory": "space",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Science",
-      "Space"
-    ],
-    "rankScore": 71.21
-  },
-  {
-    "id": "gn-8abd9809c19889ac",
-    "title": "Seifert guides New Zealand to consolation win over India in fifth T20I",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/sport/seifert-guides-new-zealand-consolation-win-over-india-in-fifth-t20i-6510771",
-    "publishedAt": "2026-11-01T10:59:52Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 75.64
-  },
-  {
-    "id": "gn-60ae9f6563aec840",
-    "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:57:45Z",
-    "summary": "Voters in Bulgaria weigh economic challenges and attacks on ships in a race marked by record low turnout.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Middle East",
-    "country": "Qatar",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 86.93
-  },
-  {
-    "id": "gn-09f6681ba681b137",
-    "title": "Former European champion and two-time Olympian Mageean dies aged 34",
-    "source": "BBC Sport",
-    "sourceId": "bbc-sport",
-    "url": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-11-01T10:45:42Z",
-    "summary": "Ciara Mageean, who won a European title and twice represented Ireland at the Olympics, dies aged 34.",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "sports",
-    "priority": 91,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "olympics",
-    "region": "Europe",
-    "country": "Europe",
-    "tags": [
-      "Public Health",
-      "Sports",
-      "Olympics"
-    ],
-    "rankScore": 72.63
-  },
-  {
-    "id": "gn-ccd5cdd4e46c34f1",
-    "title": "Kilmarnock 'need support more than ever' but patience wearing thin",
-    "source": "BBC Sport",
-    "sourceId": "bbc-sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-11-01T10:41:28Z",
-    "summary": "Kilmarnock climb out of bottom spot, but failure to beat 10 men at home adds to gloom at Rugby Park.",
-    "author": "",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "sports",
-    "priority": 91,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "United Kingdom",
-    "tags": [
-      "Sports"
-    ],
-    "rankScore": 85.72
-  },
-  {
-    "id": "gn-142d7331243e5d68",
-    "title": "Photos: Youth-led rallies sweep Germany",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:41:13Z",
-    "summary": "Tens of thousands take to the streets across Germany's biggest cities to demand better education and lower living costs.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Germany",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 86.26
-  },
-  {
-    "id": "gn-81d6dd3669aefa9a",
-    "title": "Inside UK PM’s Diwali party at his residence; Gita chanting to vegetarian snacks, woman shares",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/uk/inside-uk-pms-diwali-party-at-his-residence-from-gita-chanting-to-vegetarian-snacks-woman-shares-interesting-details/articleshow/135422333.cms",
-    "publishedAt": "2026-11-01T10:38:50Z",
-    "summary": "Shanu had the unique opportunity to celebrate Diwali at 10 Downing Street, the iconic residence of the UK Prime Minister. The event was beautifully adorned with traditional decorations, offering a range of vegetarian delicacies. During the...",
-    "author": "TOI Lifestyle Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "business",
-    "subcategory": "markets",
-    "region": "Europe",
-    "country": "Uk",
-    "tags": [
-      "United Kingdom",
-      "Business",
-      "Markets"
-    ],
-    "rankScore": 82.32
-  },
-  {
-    "id": "gn-3a29d847aadb514f",
-    "title": "US couple's fence extends nine feet into neighbour's land, court rules in their favour",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/a-delaware-couple-kept-a-fence-and-garden-on-disputed-land-for-more-than-20-years-new-neighbours-demanded-30000-or-removal-but-an-october-30-court-ruled-the-couple-owned-the-strip-including-the-unfenced-planter/articleshow/135421666.cms",
-    "publishedAt": "2026-11-01T10:38:31Z",
-    "summary": "A Delaware couple who maintained a fence and garden for more than 20 years won a property dispute after their new neighbours demanded $30,000 to let them keep the land. The neighbours claimed the fence crossed the legal boundary, but an...",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "health",
-    "subcategory": "public health",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Public Health",
-      "Health"
-    ],
-    "rankScore": 82.31
-  },
-  {
-    "id": "gn-b856c0662ae73021",
-    "title": "Safari West's 400-acre wildlife preserve enters a new nonprofit era after decades of conservation",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/a-400-acre-wildlife-preserve-in-sonoma-county-began-with-peter-lang-who-kept-exotic-animals-on-a-beverly-hills-cattle-ranch-in-the-1970s-five-decades-later-safari-west-is-being-handed-to-a-nonprofit-to-carry-on-his-conservation-work/articleshow/135424353.cms",
-    "publishedAt": "2026-11-01T10:38:06Z",
-    "summary": "",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "business",
-    "subcategory": "companies",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Business",
-      "Companies"
-    ],
-    "rankScore": 82.29
-  },
-  {
-    "id": "gn-fd017acdf223b49e",
-    "title": "Is China’s ‘dark tourism’ turning disaster education into entertainment?",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/is-chinas-dark-tourism-turning-disaster-education-into-entertainment?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:34:50Z",
-    "summary": "China is seeing growing interest in ‘dark tourism’, where visitors flock to attractions that recreate natural disasters.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "culture",
-    "subcategory": "music",
-    "region": "Asia",
-    "country": "China",
-    "tags": [
-      "China",
-      "Culture",
-      "Music"
-    ],
-    "rankScore": 86.02
-  },
-  {
-    "id": "gn-b8393dab5661492b",
-    "title": "Trump calls former lawyer Alina Habba's $50m deal with family of pardoned Venezuelan banker 'unacceptable'",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/trump-calls-former-lawyer-alina-habbas-50m-deal-with-family-of-pardoned-venezuelan-banker-unacceptable/articleshow/135424382.cms",
-    "publishedAt": "2026-11-01T10:31:37Z",
-    "summary": "",
-    "author": "Gokul Ankari",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "business",
-    "subcategory": "banking",
-    "region": "Americas",
-    "country": "Trump",
-    "tags": [
-      "Donald Trump",
-      "Business",
-      "Banking"
-    ],
-    "rankScore": 82.04
-  },
-  {
-    "id": "gn-b2e4c71009b9ffe6",
-    "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
-    "source": "Wired",
-    "sourceId": "wired",
-    "url": "https://www.wired.com/story/the-best-travel-mugs/",
-    "publishedAt": "2026-11-01T10:31:00Z",
-    "summary": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
-    "author": "Boutayna Chokrane",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 89,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Technology"
-    ],
-    "rankScore": 71.3
-  },
-  {
-    "id": "gn-3f9a89f38973583c",
-    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "source": "Wired",
-    "sourceId": "wired",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "publishedAt": "2026-11-01T10:30:00Z",
-    "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "author": "Christine Peterson",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 89,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "ai",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Artificial Intelligence",
-      "Technology",
-      "Ai"
-    ],
-    "rankScore": 71.28
-  },
-  {
-    "id": "gn-d120e6031d980ca4",
-    "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:21:48Z",
-    "summary": "Qatar Gas Transport Company says no injuries or environmental damage.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Middle East",
-    "country": "Qatar",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 85.52
-  },
-  {
-    "id": "gn-9ee11287cee75334",
-    "title": "Indian opposition unites to demand Modi electoral chief’s resignation",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation",
-    "publishedAt": "2026-11-01T10:13:07Z",
-    "summary": "Thousands protested in Delhi on Sunday to demand the resignation of India’s election chief over a revision of voter lists, the latest in more than a month of ‌opposition demonstrations challenging Prime Minister Narendra Modi. Led by...",
-    "author": "Reuters",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 71.03
-  },
-  {
-    "id": "gn-4ddae79954a61297",
-    "title": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/video/upfront/2026/11/1/jamaal-bowman-if-i-had-kept-my-mouth-shut-id-be-in-congress?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:10:30Z",
-    "summary": "Marc Lamont Hill speaks to Jamaal Bowman about the growing battle between progressives and the Democratic establishment.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "us politics",
-    "region": "Americas",
-    "country": "Congress",
-    "tags": [
-      "Politics",
-      "Us Politics"
-    ],
-    "rankScore": 85.1
-  },
-  {
-    "id": "gn-173582cd2aabdda7",
-    "title": "Yemeni government forces seize strategic positions in al-Jawf",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:08:55Z",
-    "summary": "Weapons and ammunition depots are seized after a counteroffensive.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Middle East",
-    "country": "Yemen",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 85.04
-  },
-  {
-    "id": "gn-ee7e44c7d0bf02fc",
-    "title": "Injured queen bumblebee becomes an online sensation",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/uk/woman-rescues-an-injured-queen-bumblebee-helps-her-recover-and-creates-a-sheltered-space-for-her-100-days-later-phoebee-has-become-an-online-sensation/articleshow/135423711.cms",
-    "publishedAt": "2026-11-01T10:08:40Z",
-    "summary": "Gilly McArthur became a beacon of hope when she rescued a bumblebee named Phoebee, who was struggling with a broken wing. To everyone's amazement, Phoebee pulled through! McArthur decided to take her on an adventurous sailing trip...",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "health",
-    "subcategory": "public health",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Public Health",
-      "Health"
-    ],
-    "rankScore": 81.18
-  },
-  {
-    "id": "gn-c5feb06df34e4319",
-    "title": "From railway tragedy to gov’t change: Serbia’s two-year fight for justice",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice?traffic_source=rss",
-    "publishedAt": "2026-11-01T10:04:22Z",
-    "summary": "A timeline of events since the deadly train station collapse in Novi Sad, which led to a change of government in Serbia.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Middle East",
-    "country": "Qatar",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 84.87
-  },
-  {
-    "id": "gn-4b76a7270dcedb60",
-    "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-    "publishedAt": "2026-11-01T10:00:26Z",
-    "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle multiple tasks with minimal human intervention, as it steps up competition with US rivals OpenAI and Anthropic in...",
-    "author": "Ben Jiang",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "ai",
-    "region": "Asia",
-    "country": "Chinese",
-    "tags": [
-      "Artificial Intelligence",
-      "OpenAI",
-      "Technology",
-      "Ai"
-    ],
-    "rankScore": 70.84
-  },
-  {
-    "id": "gn-8a23bac6b2eb0e0d",
-    "title": "At 97, China’s first female conductor still performs in public, wowing audiences",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3372882/97-chinas-first-female-conductor-still-performs-public-wowing-audiences",
-    "publishedAt": "2026-11-01T10:00:17Z",
-    "summary": "China’s first female conductor, Zheng Xiaoying, is 97 years old, but she continues to give outstanding performances to audiences. In August, the nonagenarian conducted the Chinese-language version of the opera Carmen in Xiamen, in...",
-    "author": "Fran Lu",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "China",
-    "tags": [
-      "China",
-      "World"
-    ],
-    "rankScore": 70.84
-  },
-  {
-    "id": "gn-fe245fa298d911e6",
-    "title": "From rifles to radar: China upgrades its African arms trade as Russia and the West retreat",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/china/diplomacy/article/3372870/rifles-radar-china-upgrades-its-african-arms-trade-russia-and-west-retreat",
-    "publishedAt": "2026-11-01T10:00:11Z",
-    "summary": "For decades, China has supplied African militaries with small arms and land-based equipment such as armoured vehicles, trucks and artillery. Now, it is selling them more specialised weapons, including armed drones and electronic warfare...",
-    "author": "Jevans Nyabiage",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Russia",
-    "tags": [
-      "Russia",
-      "China",
-      "World"
-    ],
-    "rankScore": 70.83
-  },
-  {
-    "id": "gn-d54f22d5700b8f18",
-    "title": "Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch",
-    "source": "Wired",
-    "sourceId": "wired",
-    "url": "https://www.wired.com/story/best-chromebooks/",
-    "publishedAt": "2026-11-01T10:00:00Z",
-    "summary": "While Google is heralding a new series of laptops called Googlebooks, Chromebooks are sticking around—for now. These are the ones to consider.",
-    "author": "Luke Larsen",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 89,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "software",
-    "region": "Europe",
-    "country": "Rome",
-    "tags": [
-      "Google",
-      "Technology",
-      "Software"
-    ],
-    "rankScore": 70.83
-  },
-  {
-    "id": "gn-967752a889eae392",
-    "title": "A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look",
-    "source": "Wired",
-    "sourceId": "wired",
-    "url": "https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/",
-    "publishedAt": "2026-11-01T10:00:00Z",
-    "summary": "A dying star 1,600 light-years from Earth is surrounded by two rings of gas and dust that astronomers believe are the remnants of the planetary bodies it once hosted.",
-    "author": "Jorge Garay",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "technology",
-    "priority": 89,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Technology"
-    ],
-    "rankScore": 70.83
-  },
-  {
-    "id": "gn-fbc9a60438a82e18",
-    "title": "Fish pay attention to one influential neighbour in virtual reality",
-    "source": "New Scientist",
-    "sourceId": "new-scientist",
-    "url": "https://www.newscientist.com/article/2596645-fish-only-pay-attention-to-one-most-influential-neighbor-in-virtual-reality/?utm_campaign=RSS|NSNS&utm_content=news&utm_medium=RSS&utm_source=NSNS",
-    "publishedAt": "2026-11-01T10:00:00Z",
-    "summary": "Observing interactions between real and virtual rummy-nose tetra fish shows that, within a group, each individual takes cues from only one influential neighbour",
-    "author": "Karmela Padavic-Callaghan",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "science",
-    "priority": 89,
-    "language": "en",
-    "category": "science",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "United Kingdom",
-    "tags": [
-      "Science"
-    ],
-    "rankScore": 70.83
-  },
-  {
-    "id": "gn-d7009f8ef9756c53",
-    "title": "The Amazonian Community That Beat Big Oil Is Sharing Its Secrets",
-    "source": "Inside Climate News",
-    "sourceId": "inside-climate-news",
-    "url": "https://insideclimatenews.org/news/01112026/how-sarayaku-people-beat-big-oil/",
-    "publishedAt": "2026-11-01T10:00:00Z",
-    "summary": "SARAYAKU, Ecuador—The canoe motor rattled against the current as Guisel Marworno and Wagner Karipuna traveled down the Bobonaza River. The Brazilian Indigenous leaders had come seeking help. Last year, state-owned Petrobras began exploring...",
-    "author": "By Katie Surma",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "environment",
-    "priority": 90,
-    "language": "en",
-    "category": "environment",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "Brazil",
-    "tags": [
-      "Amazon",
-      "Environment"
-    ],
-    "rankScore": 71.38
-  },
-  {
-    "id": "gn-b512a9a9b84e0fa6",
-    "title": "Senegal hosts first Olympic event on African continent",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/senegal-hosts-first-olympic-event-on-african-continent",
-    "publishedAt": "2026-11-01T09:58:13Z",
-    "summary": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "olympics",
-    "region": "Africa",
-    "country": "Africa",
-    "tags": [
-      "Sports",
-      "Olympics"
-    ],
-    "rankScore": 70.81
-  },
-  {
-    "id": "gn-06f4bffad15a040e",
-    "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
-    "source": "Africanews",
-    "sourceId": "africanews",
-    "url": "http://www.africanews.com/2026/11/01/youth-olympics-open-in-senegal-marking-the-first-olympic-event-in-africa/",
-    "publishedAt": "2026-11-01T09:55:34Z",
-    "summary": "The Youth Olympic Games opened in Senegal on Saturday, marking the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions",
-    "author": "editorial@africanews.com",
-    "sourceRegion": "Africa",
-    "sourceCountry": "Congo",
-    "defaultCategory": "world",
-    "priority": 86,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "olympics",
-    "region": "Africa",
-    "country": "Africa",
-    "tags": [
-      "Sports",
-      "Olympics"
-    ],
-    "rankScore": 69.12
-  },
-  {
-    "id": "gn-075108431a7eeb1a",
-    "title": "‘Attempted murder’: Molotov cocktail hits police officer as France protests escalate",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/europe/attempted-murder-molotov-cocktail-hits-paris-police-officer-as-france-protests-turn-violent/articleshow/135423408.cms",
-    "publishedAt": "2026-11-01T09:55:32Z",
-    "summary": "",
-    "author": "Prisha Patnaik",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 80.71
-  },
-  {
-    "id": "gn-898ebefc184c8718",
-    "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-    "source": "The Guardian",
-    "sourceId": "the-guardian",
-    "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-    "publishedAt": "2026-11-01T09:55:20Z",
-    "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’ The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made the UK “poorer...",
-    "author": "Jessica Elgot Deputy political editor",
-    "sourceRegion": "Europe",
-    "sourceCountry": "United Kingdom",
-    "defaultCategory": "world",
-    "priority": 94,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "european politics",
-    "region": "Europe",
-    "country": "Europe",
-    "tags": [
-      "European Union",
-      "United Kingdom",
-      "Politics",
-      "European Politics"
-    ],
-    "rankScore": 85.65
-  },
-  {
-    "id": "gn-a2d633a341b35f94",
-    "title": "Rural Charms Drew Residents to Taylor, Texas. Then Came the Data Centers.",
-    "source": "Inside Climate News",
-    "sourceId": "inside-climate-news",
-    "url": "https://insideclimatenews.org/news/01112026/taylor-texas-data-center-development/",
-    "publishedAt": "2026-11-01T09:55:00Z",
-    "summary": "TAYLOR, Texas—A red thresher cuts across the countryside off County Road 401 in Taylor, leaving behind tufts of discarded stalks as farmers prepare to plant seeds for the next year’s harvest. Less than five miles away, mom-and-pop antique...",
-    "author": "By Vivien Ayers",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "environment",
-    "priority": 90,
-    "language": "en",
-    "category": "environment",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Environment"
-    ],
-    "rankScore": 71.31
-  },
-  {
-    "id": "gn-613d3a90606b2300",
-    "title": "Will Josh Shapiro’s Data Center Past Haunt his Political Future?",
-    "source": "Inside Climate News",
-    "sourceId": "inside-climate-news",
-    "url": "https://insideclimatenews.org/news/01112026/gov-josh-shapiro-data-center-history/",
-    "publishedAt": "2026-11-01T09:50:00Z",
-    "summary": "Perhaps no issue has tested the political agility of Pennsylvania’s popular Gov. Josh Shapiro over the past two years more than data centers. In about 20 months, Shapiro went from introducing a fast-track permitting process that invited...",
-    "author": "By Kyle Bagenstose",
-    "sourceRegion": "Americas",
-    "sourceCountry": "United States",
-    "defaultCategory": "environment",
-    "priority": 90,
-    "language": "en",
-    "category": "environment",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "United States",
-    "tags": [
-      "Environment"
-    ],
-    "rankScore": 71.23
-  },
-  {
-    "id": "gn-423e308b5a0fd876",
-    "title": "Youth Olympic Games kick off in Dakar",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/youth-olympic-games-kick-off-in-dakar",
-    "publishedAt": "2026-11-01T09:49:04Z",
-    "summary": "The 2026 Youth Olympic Games have officially kicked off in Senegal. Crowds gathered for Saturday's opening ceremony, featuring hundreds of drummers and dancers celebrating Senegalese and wider African culture, in keeping with the Games'...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "olympics",
-    "region": "Africa",
-    "country": "Africa",
-    "tags": [
-      "Sports",
-      "Olympics"
-    ],
-    "rankScore": 70.67
-  },
-  {
-    "id": "gn-d6445bf4eb0a92d6",
-    "title": "Turkey moves Kurdish militant leader as part of peace process",
-    "source": "South China Morning Post",
-    "sourceId": "scmp",
-    "url": "https://www.scmp.com/news/world/europe/article/3372883/turkey-moves-kurdish-militant-leader-part-peace-process",
-    "publishedAt": "2026-11-01T09:45:06Z",
-    "summary": "Turkey has moved the country’s Kurdish militant leader to a newly built part of an island prison where he has been incarcerated since 1999 as part of efforts to end decades of conflict, a senior Kurdish official said. Improving prison...",
-    "author": "Associated Press",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Hong Kong",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Hong Kong",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 70.61
-  },
-  {
-    "id": "gn-e07a319eaf6cc364",
-    "title": "Kennel Worker Challenges £1.1m Will After 34 Years Caring for Crufts-Winning Dogs",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/uk/after-34-years-caring-for-a-crufts-winning-breeders-dogs-a-hampshire-kennel-worker-challenged-her-1-1m-will-despite-receiving-100000-her-son-agreed-to-raise-his-monthly-support-from-350-to-850/articleshow/135399642.cms",
-    "publishedAt": "2026-11-01T09:44:30Z",
-    "summary": "David Brand, having dedicated years to working in the kennel, is now challenging Mary Swash's will for a greater portion of her estate. He feels that the £100,000 he stands to inherit is not enough for his future security. This legal...",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 80.32
-  },
-  {
-    "id": "gn-bab994f30c6d6a9a",
-    "title": "Did a secret book fuel a witch-hunting frenzy in Europe?",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/1/did-a-secret-book-fuel-a-witch-hunting-frenzy-in-europe?traffic_source=rss",
-    "publishedAt": "2026-11-01T09:44:24Z",
-    "summary": "In the latest episode of Deja Vu, we trace how new media fuelled conspiracy theories, from European witch-hunts to AI.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "technology",
-    "subcategory": "ai",
-    "region": "Europe",
-    "country": "Europe",
-    "tags": [
-      "Artificial Intelligence",
-      "Technology",
-      "Ai"
-    ],
-    "rankScore": 84.17
-  },
-  {
-    "id": "gn-3934be0d35e748b9",
-    "title": "Mother takes baby to hospital after Doberman acts strangely, doctors find rare heart condition",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/uk/a-mother-says-her-doberman-kept-crying-and-refusing-to-leave-her-six-month-old-son-doctors-later-found-the-babys-heart-was-racing-at-280-beats-per-minute-and-diagnosed-a-rare-electrical-condition/articleshow/135420344.cms",
-    "publishedAt": "2026-11-01T09:43:53Z",
-    "summary": "A six-month-old baby in England was diagnosed with a rare heart condition after his family's pet Doberman began crying and refusing to leave his side. Concerned by the dog's unusual behaviour, his mother took him to hospital, where doctors...",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "science",
-    "subcategory": "physics",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "Science",
-      "Physics"
-    ],
-    "rankScore": 80.3
-  },
-  {
-    "id": "gn-cff8ce62b6c6ac01",
-    "title": "The World celebrates Halloween: Traditions, costumes and pumpkins",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/video/20261101-the-world-celebrates-halloween-traditions-costumes-and-pumpkins",
-    "publishedAt": "2026-11-01T09:43:06Z",
-    "summary": "Halloween celebrations have been embraced in many countries around the world. Charlotte Hughes brings us this round-up.",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 70.58
-  },
-  {
-    "id": "gn-119c46afe8bdb193",
-    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/business/opec-keeps-december-oil-output-targets-steady-ahead-tougher-call-2027-6510756",
-    "publishedAt": "2026-11-01T09:41:30Z",
-    "summary": "",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 73.96
-  },
-  {
-    "id": "gn-411dbf756fefe213",
-    "title": "France: 115 yachts will sail out of Sain-Malo for Route du Rhum race",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/france-115-yachts-will-sail-out-of-sain-malo-for-route-du-rhum-race",
-    "publishedAt": "2026-11-01T09:40:42Z",
-    "summary": "In Saint-Malo, in France's Brittany region, the legendary Route du Rhum is preparing to set sail. Billed as the world's biggest solo transatlantic race, it sees skippers sail alone from France's northern coast to the Caribbean island of...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 70.55
-  },
-  {
-    "id": "gn-ad6ada0d04e802c1",
-    "title": "US Midterms: Affordability at heart of Michigan race",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/us-midterms-affordability-at-heart-of-michigan-race",
-    "publishedAt": "2026-11-01T09:39:11Z",
-    "summary": "For many voters, the cost of living is the single biggest issue. Our reporters Jessica Le Masurier and Sarah Andersen travelled to Michigan to meet voters, where, according to one NGO, around 40% of the population struggle to afford basic...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "politics",
-    "subcategory": "elections",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "Politics",
-      "Elections"
-    ],
-    "rankScore": 70.53
-  },
-  {
-    "id": "gn-7747234b0c43bc9c",
-    "title": "Youth-led rallies sweep Europe",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
-    "publishedAt": "2026-11-01T09:38:00Z",
-    "summary": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "Europe",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 70.51
-  },
-  {
-    "id": "gn-4b788fd2189b8e4e",
-    "title": "How social media are central to protests",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-    "publishedAt": "2026-11-01T09:36:20Z",
-    "summary": "As we saw in that report, protesters were frustrated at being kept on the outskirts of the French capital. There are also reports of social media posts about the demonstrations being suppressed. Daniel Quinlan has more.",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "French",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 70.49
-  },
-  {
-    "id": "gn-90477de549539d5e",
-    "title": "Marquez wins Malaysian Grand Prix to close in on retaining championship",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/11/1/marquez-wins-malaysian-grand-prix-to-close-in-on-retaining-championship?traffic_source=rss",
-    "publishedAt": "2026-11-01T09:36:17Z",
-    "summary": "Marc Marquez takes 44-point lead over Jorge Martin and can seal the MotoGP title in Qatar next weekend.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "sports",
-    "subcategory": "motorsport",
-    "region": "Middle East",
-    "country": "Qatar",
-    "tags": [
-      "Formula 1",
-      "Sports",
-      "Motorsport"
-    ],
-    "rankScore": 83.89
-  },
-  {
-    "id": "gn-b4142750d323f8d8",
-    "title": "Hundreds of thousands protest in France for \"Act III\"",
-    "source": "France 24",
-    "sourceId": "france24",
-    "url": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
-    "publishedAt": "2026-11-01T09:35:02Z",
-    "summary": "A heavy police presence was hard to miss on the streets of Paris on Saturday, as the capital saw demonstrations for a third consecutive weekend over the rising cost of living and deteriorating conditions in schools. But the increased...",
-    "author": "FRANCE24",
-    "sourceRegion": "Europe",
-    "sourceCountry": "France",
-    "defaultCategory": "world",
-    "priority": 89,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Europe",
-    "country": "France",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 70.47
-  },
-  {
-    "id": "gn-9b11dd69744478be",
-    "title": "Jennifer Lopez backed Grameen America as its loans reach $8 billion",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/jennifer-lopez-became-grameen-americas-ambassador-in-2022-the-nonprofit-now-reports-8-billion-in-cumulative-loans-and-291602-small-businesses-served-as-it-expands-access-to-business-capital/articleshow/135422185.cms",
-    "publishedAt": "2026-11-01T09:30:00Z",
-    "summary": "",
-    "author": "TOI World Desk",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "India",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 79.82
-  },
-  {
-    "id": "gn-38d795bd77596bdd",
-    "title": "US midterms 2026: Early voting surpasses 50.5 million, Texas sees significant voter turnout increase",
-    "source": "The Times of India",
-    "sourceId": "times-of-india",
-    "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-early-voting-surpasses-50-5-million-texas-sees-significant-voter-turnout-increase/articleshow/135422526.cms",
-    "publishedAt": "2026-11-01T09:28:48Z",
-    "summary": "",
-    "author": "Gokul Ankari",
-    "sourceRegion": "Asia",
-    "sourceCountry": "India",
-    "defaultCategory": "world",
-    "priority": 85,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Americas",
-    "country": "Us",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 79.78
-  },
-  {
-    "id": "gn-1255059d1ecc2a56",
-    "title": "Israeli protesters urge Jewish-Arab coalition government",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
-    "publishedAt": "2026-11-01T09:24:52Z",
-    "summary": "Israeli protesters urge Jewish-Arab coalition government",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Middle East",
-    "country": "Israel",
-    "tags": [
-      "Middle East",
-      "World"
-    ],
-    "rankScore": 83.5
-  },
-  {
-    "id": "gn-f6f811984844afed",
-    "title": "Bulgaria votes in presidential runoff after tight first round",
-    "source": "CNA",
-    "sourceId": "channel-news-asia",
-    "url": "https://www.channelnewsasia.com/world/bulgaria-votes-in-presidential-runoff-after-tight-first-round-6510741",
-    "publishedAt": "2026-11-01T09:21:00Z",
-    "summary": "The vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month.",
-    "author": "",
-    "sourceRegion": "Asia",
-    "sourceCountry": "Singapore",
-    "defaultCategory": "world",
-    "priority": 88,
-    "language": "en",
-    "category": "world",
-    "subcategory": "general",
-    "region": "Asia",
-    "country": "Singapore",
-    "tags": [
-      "World"
-    ],
-    "rankScore": 73.55
-  },
-  {
-    "id": "gn-678e1ac451c6c218",
-    "title": "Malawi cattle farmers travel farther as El Nino worsens drought",
-    "source": "Al Jazeera English",
-    "sourceId": "al-jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/1/malawi-cattle-farmers-travel-farther-as-el-nino-worsens-drought?traffic_source=rss",
-    "publishedAt": "2026-11-01T09:16:24Z",
-    "summary": "For many families, keeping cattle alive is becoming an increasingly costly struggle.",
-    "author": "",
-    "sourceRegion": "Middle East",
-    "sourceCountry": "Qatar",
-    "defaultCategory": "world",
-    "priority": 92,
-    "language": "en",
-    "category": "environment",
-    "subcategory": "climate",
-    "region": "Middle East",
-    "country": "Qatar",
-    "tags": [
-      "Environment",
-      "Climate"
-    ],
-    "rankScore": 83.22
+    "rankScore": 69.24
   }
 ]
